@@ -40,7 +40,7 @@ Open the `.3mf` in Bambu Studio, check the plate/filament match your printer, sl
 | [`KY-BatTop-Standard-TEST1_P2S_0.8HF_TexturedPEI_JPPETG.3mf`](WIP/KY-BatTop-Standard-TEST1_P2S_0.8HF_TexturedPEI_JPPETG.3mf) | P2S 0.8 HF | JP PETG | Textured PEI 65°C | 0.3 / 3 / 3-1 / 7% | 28 | 1 | 🧪 5th test: Tree Slim, sturdier trunks (angle 7°, 2 walls), top gap 0.5 / XY gap 0.6, back to 230 °C |
 | [`KY-Body2_P2S_0.8HF_TexturedPEI_JPPETG.3mf`](WIP/KY-Body2_P2S_0.8HF_TexturedPEI_JPPETG.3mf) | P2S 0.8 HF | JP PETG | Textured PEI 65°C | 0.3 / 4 / 2-2 / 7% | 28 | 1 | 🧪 lightweight chassis test |
 | [`JL-BatTop-SpecialEd_P2S_0.4SF_TexturedPEI_JPPETG.3mf`](WIP/JL-BatTop-SpecialEd_P2S_0.4SF_TexturedPEI_JPPETG.3mf) | P2S 0.4 SF | JP PETG Yellow | Textured PEI 65°C | 0.2 / 4 / 5-5 / 7% | 12 | 8 | 🧪 needs one test print — new block supports |
-| [`JL-BatTop-Standard_P2S_0.4SF_TexturedPEI_JPPETG.3mf`](WIP/JL-BatTop-Standard_P2S_0.4SF_TexturedPEI_JPPETG.3mf) | P2S 0.4 SF | JP PETG Yellow | Textured PEI 65°C | 0.2 / 4 / 3-3 / 7% | 12 | 8 | 🧪 testing — block supports, easier removal, solid screw frame |
+| [`JL-BatTop-Standard_P2S_0.4SF_TexturedPEI_JPPETG.3mf`](WIP/JL-BatTop-Standard_P2S_0.4SF_TexturedPEI_JPPETG.3mf) | P2S 0.4 SF | JP PETG Yellow | Textured PEI 65°C | 0.2 / 4 / 1-3 / 7% | 12 | 8 | 🧪 needs test print — switched to KY's tree supports (Tree Slim, angle 7°/2 walls, top gap 0.5/XY gap 0.6), avoid-crossing-walls, bottom shell 1, bridge flow 0.9 |
 
 ## Archive
 
