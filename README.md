@@ -20,7 +20,7 @@ Open the `.3mf` in Bambu Studio, check the plate/filament match your printer, sl
 
 | File | Printer / nozzle | Filament | Plate | Layer / walls / shells / infill | Max flow | Copies | Status |
 |---|---|---|---|---|---|---|---|
-| [`JL-motorstand_P2S_0.4SF_SuperTack_BambuPETG.3mf`](JL/JL-motorstand_P2S_0.4SF_SuperTack_BambuPETG.3mf) | P2S 0.4 SF | Bambu PETG Basic Black | Supertack 65°C | 0.2 / 6 / 5-5 / 20% | 12 | 36 | ✅ ready — converted from the 0.6 HF motorstand (same wall/shell thickness), 383 g / ~13 h 38 m, not yet test-printed at 0.4mm |
+| [`JL-motorstand_P2S_0.4SF_TexturedPEI_BambuPETG.3mf`](JL/JL-motorstand_P2S_0.4SF_TexturedPEI_BambuPETG.3mf) | P2S 0.4 SF | Bambu PETG Basic Black | Textured PEI 70°C | 0.2 / 6 / 5-5 / 20% | 12 | 36 | ✅ ready — converted from the 0.6 HF motorstand (same wall/shell thickness), 383 g / ~13 h 38 m, not yet test-printed at 0.4mm |
 
 ## TC
 
