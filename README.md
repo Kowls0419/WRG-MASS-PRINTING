@@ -32,19 +32,12 @@ Open the `.3mf` in Bambu Studio, check the plate/filament match your printer, sl
 
 | File | Printer / nozzle | Filament | Plate | Layer / walls / shells / infill | Max flow | Copies | Status |
 |---|---|---|---|---|---|---|---|
-| [`BatTop_P2S_0.8HF_TexturedPEI_GenericPETG.3mf`](WIP/BatTop_P2S_0.8HF_TexturedPEI_GenericPETG.3mf) | P2S 0.8 HF | Generic PETG | Textured PEI 65°C | 0.3 / 3 / 3-3 / 7% | 28 | 1 | 🧪 weight test |
-| [`BatTop_P2S_0.8HF_TexturedPEI_JPPETG.3mf`](WIP/BatTop_P2S_0.8HF_TexturedPEI_JPPETG.3mf) | P2S 0.8 HF | JP PETG | Textured PEI 65°C | 0.3 / 3 / 3-3 / 7% | 28 | 1 | 🧪 weight test |
-| [`BatTop_P2S_0.8HF_TexturedPEI_JPPETGCF.3mf`](WIP/BatTop_P2S_0.8HF_TexturedPEI_JPPETGCF.3mf) | P2S 0.8 HF | JP PETG-CF | Textured PEI 80°C | 0.3 / 3 / 3-3 / 7% | 18 | 1 | 🧪 PETG-CF, flow 18 unverified |
-| [`KY-BatTop-Standard_P2S_0.8HF_TexturedPEI_JPPETG.3mf`](WIP/KY-BatTop-Standard_P2S_0.8HF_TexturedPEI_JPPETG.3mf) | P2S 0.8 HF | JP PETG | Textured PEI 65°C | 0.3 / 3 / 3-1 / 7% | 28 | 8 | ⚠️ WRONG MESH (released 2026-09-27) — pulled back to WIP; being replaced by TEST2 |
-| [`JL-BatTop-Standard_P2S_0.4SF_TexturedPEI_JPPETG.3mf`](WIP/JL-BatTop-Standard_P2S_0.4SF_TexturedPEI_JPPETG.3mf) | P2S 0.4 SF | JP PETG Yellow | Textured PEI 65°C | 0.2 / 4 / 1-3 / 7% | 12 | 8 | ⚠️ WRONG MESH (copied from KY release) — pulled back to WIP; needs the correct STL at 0.4 SF |
-| [`KY-BatTop-Standard-TEST1_P2S_0.8HF_TexturedPEI_JPPETG.3mf`](WIP/KY-BatTop-Standard-TEST1_P2S_0.8HF_TexturedPEI_JPPETG.3mf) | P2S 0.8 HF | JP PETG | Textured PEI 65°C | 0.3 / 3 / 3-1 / 7% | 28 | 1 | 🧪 5th test: Tree Slim, sturdier trunks (angle 7°, 2 walls), top gap 0.5 / XY gap 0.6, back to 230 °C |
-| [`KY-BatTop-Standard-TEST2_P2S_0.8HF_TexturedPEI_JPPETG.3mf`](WIP/KY-BatTop-Standard-TEST2_P2S_0.8HF_TexturedPEI_JPPETG.3mf) | P2S 0.8 HF | JP PETG | Textured PEI 65°C | 0.3 / 3 / 2-2 / 7% | 28 | 1 | 🧪 TEST2: correct STL (release 2026-09-27 had wrong mesh), **vertical (on end, 99.5 mm tall)**; Tree Hybrid, top Z 0.4, independent support layers, base spacing 2.5, XY 0.8, 2 top / 2 bottom shells, auto brim 5 mm, seam gap 0% + scarf seam (outer walls) |
-| [`KY-BatTop-Standard-TEST3_P2S_0.8HF_TexturedPEI_JPPETG.3mf`](WIP/KY-BatTop-Standard-TEST3_P2S_0.8HF_TexturedPEI_JPPETG.3mf) | P2S 0.8 HF | JP PETG | Textured PEI 65°C | 0.3 / 3 / 2-2 / 7% | 28 | 1 | 🧪 TEST3: the real **Standard** BatTop mesh (taken from the file formerly called SpecialEd; 60 needed). 64 × 115 × 34 mm, vertical (115 mm tall), all TEST2 settings (Tree Hybrid, seam fix, auto brim 5 mm); TEST2's variable layer-height profile not carried over |
-| [`KY-Body2_P2S_0.8HF_TexturedPEI_JPPETG.3mf`](WIP/KY-Body2_P2S_0.8HF_TexturedPEI_JPPETG.3mf) | P2S 0.8 HF | JP PETG | Textured PEI 65°C | 0.3 / 4 / 2-2 / 7% | 28 | 1 | 🧪 lightweight chassis test |
-| [`JL-BatTop-SpecialEd_P2S_0.4SF_TexturedPEI_JPPETG.3mf`](WIP/JL-BatTop-SpecialEd_P2S_0.4SF_TexturedPEI_JPPETG.3mf) | P2S 0.4 SF | JP PETG Yellow | Textured PEI 65°C | 0.2 / 4 / 5-5 / 7% | 12 | 8 | 🧪 mesh is actually the **Standard** version (60 needed), not SpecialEd. 0.8 HF test copy = TEST3 |
+| [`KY-BatTop-Standard-TEST3_P2S_0.8HF_TexturedPEI_JPPETG.3mf`](WIP/KY-BatTop-Standard-TEST3_P2S_0.8HF_TexturedPEI_JPPETG.3mf) | P2S 0.8 HF | JP PETG | Textured PEI 65°C | 0.3 / 3 / 2-2 / 7% | 28 | 1 | 🧪 **STANDARD BatTop (verified mesh, 60 needed)**. 64 × 115 × 34 mm, flat (tabs on bed), tree supports (Default), seam fix, auto brim 5 mm |
+| [`KY-BatTop-SpecialEd-TEST2_P2S_0.8HF_TexturedPEI_JPPETG.3mf`](WIP/KY-BatTop-SpecialEd-TEST2_P2S_0.8HF_TexturedPEI_JPPETG.3mf) | P2S 0.8 HF | JP PETG | Textured PEI 65°C | 0.3 / 3 / 2-2 / 7% | 28 | 1 | 🧪 **SPECIAL edition BatTop**. 64 × 99.5 × 34 mm, vertical, Tree Hybrid, seam fix (formerly named Standard-TEST2) |
 
 ## Archive
 
+- 2026-10-02: all other WIP files moved to [`archive/`](archive): the 3 BatTop weight tests, the wrong-mesh KY + JL BatTop Standard, TEST1, the old JL SpecialEd 0.4 SF file, KY-Body2 and `BatTop for standard.stl` (the SpecialEd mesh).
 - `KY/archive/KY-motorstand_P2S_0.6HF_TexturedPEI_JPPETG.3mf` — retired from active printing 2026-09-30.
 - `JL/archive/JL-motorstand_P2S_0.6HF_SuperTack_BambuPETG.3mf` — replaced by the 0.4 SF (Bambu PETG Basic black) version 2026-09-30.
 
