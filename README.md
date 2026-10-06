@@ -29,7 +29,7 @@ Open the `.3mf` in Bambu Studio, check the plate/filament match your printer, sl
 | File | Printer / nozzle | Filament | Plate | Layer / walls / shells / infill | Max flow | Copies | Status |
 |---|---|---|---|---|---|---|---|
 | [`TC-FinalBottom_X2D_0.8HF_TexturedPEI_JPPETG.3mf`](TC/TC-FinalBottom_X2D_0.8HF_TexturedPEI_JPPETG.3mf) | X2D 0.8 HF | JP PETG | Textured PEI 65°C | 0.3 / 3 / 3-3 / 7% | 28 | 1 | ✅ ready — X2D 0.8HF printer preset unverified |
-| [`TC-FunnelBottom_X2D_0.8HF_TexturedPEI_JPPETG.3mf`](TC/TC-FunnelBottom_X2D_0.8HF_TexturedPEI_JPPETG.3mf) | X2D 0.8 HF | JP PETG Grey | Textured PEI 65°C | 0.3 / 3 / 3-3 / 7% | 28 | 4 | ⚠️ **released before test print** — **4v4 Funnel – Bottom on TC's X2D** (helps with the 106 bottoms). Same 4-per-plate layout and settings as `KY-FunnelBottom`, on TC-FinalBottom's X2D 0.8 HF printer and JP PETG profile (left 0.8 nozzle, filament 1). |
+| [`TC-FunnelBottom_X2D_0.8HF_TexturedPEI_JPPETG.3mf`](TC/TC-FunnelBottom_X2D_0.8HF_TexturedPEI_JPPETG.3mf) | X2D 0.8 HF | JP PETG Grey | Textured PEI 65°C | 0.3 / 3 / 3-3 / 7% | 28 | 4 | ⚠️ **released before test print** — **4v4 Funnel – Bottom on TC's X2D** (helps with the 106 bottoms). Same 4-per-plate layout and settings as `KY-FunnelBottom`, on the X2D 0.8 nozzle printer preset (both nozzles 0.8, as Studio defines it), JP PETG, filament 1 on the left nozzle. Saved clean from Studio (no orange). |
 
 ## 🧪 WIP — being tested, don't print yet
 
