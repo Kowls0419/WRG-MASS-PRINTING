@@ -53,6 +53,7 @@ Old baselines and the abandoned stack-printing (PLA interface) experiments are i
 ## Notes
 
 - Name format: `OWNER-Part_Printer_Nozzle_Plate_Filament.3mf` — `SF` = standard-flow nozzle, `HF` = high-flow.
+- Every file has a built-in process preset that matches its settings exactly, so Studio shows no orange "modified" values. If you see orange, you or Studio changed something: slice and send without saving.
 - PETG on 0.6/0.8 HF nozzles is capped at 28 mm³/s max volumetric flow; 0.4 standard nozzles stay at 12–15.
 
 ## For Kyle — publishing a release
