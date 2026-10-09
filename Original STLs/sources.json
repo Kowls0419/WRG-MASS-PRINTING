@@ -1,0 +1,1198 @@
+{
+  "files": [
+    {
+      "file": "FunnelTop.stl",
+      "triangles": 516,
+      "dimensions_mm": [
+        225.0,
+        70.0,
+        2.0
+      ],
+      "current_or_wip": true,
+      "geometry_key": "099e88b86f1bab93f0d9ead3a96db6a8b4e1139662b057fa2bbf05c64fb5fff3",
+      "sha256": "31aebcb12245fa08844b6b7ef616ff012a1833d218f11eeb4b61f87fea82f116",
+      "sources": [
+        {
+          "project": "JL/JL-FunnelTop_P2S_0.6HF_TexturedPEI_JPPETG.3mf",
+          "member": "3D/Objects/object_3.model",
+          "object_id": "1",
+          "original_name": "top.3mf",
+          "source_sha256": "b206b881c137b464db4c6809592bff0997b65439ad38dc7040c380ea2c63143a"
+        },
+        {
+          "project": "KY/KY-FunnelBottom_P2S_0.8HF_TexturedPEI_JPPETG.3mf",
+          "member": "3D/Objects/object_3.model",
+          "object_id": "1",
+          "original_name": "",
+          "source_sha256": "fe70a6ab0524831cde7466d32b772921216add12e7eea7c1b2f969cf4db8b270"
+        },
+        {
+          "project": "KY/KY-FunnelTop_P2S_0.8HF_TexturedPEI_JPPETG.3mf",
+          "member": "3D/Objects/object_3.model",
+          "object_id": "1",
+          "original_name": "top.3mf",
+          "source_sha256": "627ce0777776b2808b70c4cc09328d743704385926767aa5961cf65cfcd8b467"
+        }
+      ]
+    },
+    {
+      "file": "FunnelBottom.stl",
+      "triangles": 1368,
+      "dimensions_mm": [
+        225.0,
+        85.69999694824219,
+        2.0
+      ],
+      "current_or_wip": true,
+      "geometry_key": "0044253a8aa682f8e982b4ce4b46039d925925effcd44a1aaae5329bc912204b",
+      "sha256": "ff3ffb778b03eb694fc30bb8b29fee4234d46f2ac17249fc48ae551140dad8f4",
+      "sources": [
+        {
+          "project": "JL/JL-FunnelTop_P2S_0.6HF_TexturedPEI_JPPETG.3mf",
+          "member": "3D/Objects/object_6.model",
+          "object_id": "3",
+          "original_name": "",
+          "source_sha256": "b206b881c137b464db4c6809592bff0997b65439ad38dc7040c380ea2c63143a"
+        },
+        {
+          "project": "KY/KY-FunnelBottom_P2S_0.8HF_TexturedPEI_JPPETG.3mf",
+          "member": "3D/Objects/object_6.model",
+          "object_id": "3",
+          "original_name": "bottom.3mf",
+          "source_sha256": "fe70a6ab0524831cde7466d32b772921216add12e7eea7c1b2f969cf4db8b270"
+        },
+        {
+          "project": "KY/KY-FunnelTop_P2S_0.8HF_TexturedPEI_JPPETG.3mf",
+          "member": "3D/Objects/object_6.model",
+          "object_id": "3",
+          "original_name": "",
+          "source_sha256": "627ce0777776b2808b70c4cc09328d743704385926767aa5961cf65cfcd8b467"
+        },
+        {
+          "project": "TC/TC-FunnelBottom_X2D_0.8HF_TexturedPEI_JPPETG.3mf",
+          "member": "3D/Objects/object_6.model",
+          "object_id": "1",
+          "original_name": "bottom.3mf",
+          "source_sha256": "5fdba9983485decfe03056771073c9aad3c562722c2cf3838fd9db7e5a7149f1"
+        }
+      ]
+    },
+    {
+      "file": "Motorstand.stl",
+      "triangles": 2544,
+      "dimensions_mm": [
+        37.0,
+        37.0,
+        38.0
+      ],
+      "current_or_wip": true,
+      "geometry_key": "02cffd6e3a59f64b69aefd3c460914d5a3141081b380979f42e51f979aa90cc3",
+      "sha256": "81ee2aa16741a88ab3d7164f81b79ea6c07390b888d3e0120572e4b02ac1dfe8",
+      "sources": [
+        {
+          "project": "JL/JL-motorstand_P2S_0.4SF_TexturedPEI_BambuPETG.3mf",
+          "member": "3D/Objects/object_1.model",
+          "object_id": "1",
+          "original_name": "motorstand.3mf",
+          "source_sha256": "225edd9a48faa49bb6258f0ba0cccfd416a3ab149b47f989f669c8673772d991"
+        },
+        {
+          "project": "JL/archive/JL-motorstand_P2S_0.6HF_SuperTack_BambuPETG.3mf",
+          "member": "3D/Objects/object_1.model",
+          "object_id": "1",
+          "original_name": "motorstand.3mf",
+          "source_sha256": "56f0bc1c3a942a7e9b555e0fe0e9d9572d85334d74d1f4e8aa3c43536ec1003f"
+        },
+        {
+          "project": "KY/archive/KY-motorstand_P2S_0.6HF_TexturedPEI_JPPETG.3mf",
+          "member": "3D/Objects/object_1.model",
+          "object_id": "1",
+          "original_name": "motorstand.3mf",
+          "source_sha256": "c03d2feb6d56e6777957473e5b53aa2b0c61709e048a46cb46ff34bf55718bf9"
+        },
+        {
+          "project": "archive/JL-motorstand_P2S_0.4_SuperTack_BambuPETG.3mf",
+          "member": "3D/Objects/object_1.model",
+          "object_id": "1",
+          "original_name": "motorstand.3mf",
+          "source_sha256": "aad232ba32928056ccfd744eb2be2101b90b92e1c639f9df996c16e68a1df275"
+        },
+        {
+          "project": "archive/KY-motorstand_P2S_0.8HF_TexturedPEI_JPPETG.3mf",
+          "member": "3D/Objects/object_1.model",
+          "object_id": "1",
+          "original_name": "motorstand.3mf",
+          "source_sha256": "ea1ab5dd265398154312a2c5595bb19c8dda1c00f0eceb589dc8c036708c9c1b"
+        },
+        {
+          "project": "_backups/KY-motorstand_P2S_0.6HF_TexturedPEI_JPPETG_backup_before_35flow_test.3mf",
+          "member": "3D/Objects/object_1.model",
+          "object_id": "1",
+          "original_name": "motorstand.3mf",
+          "source_sha256": "00514443b1e79cf53dbe93d7f86e22a13e1cf78a3ebca17dbede78359fc6411d"
+        },
+        {
+          "project": "_backups/Testing/Backups/JL-motorstand_P2S_0.4_SuperTack_BambuPETG_backup_before_inheritsfix.3mf",
+          "member": "3D/Objects/object_1.model",
+          "object_id": "1",
+          "original_name": "motorstand.3mf",
+          "source_sha256": "2e3312b555bdb981bed4f306a965a0ce371a7353edf82ad498b281767ac5c3e6"
+        },
+        {
+          "project": "_backups/Testing/Backups/JL-motorstand_P2S_0.4_SuperTack_BambuPETG_backup_before_rebuild.3mf",
+          "member": "3D/Objects/object_1.model",
+          "object_id": "1",
+          "original_name": "motorstand.3mf",
+          "source_sha256": "7235358f9ddecdc848c89f0b23997bc0716b94faf9d39a56998c90e714f71efd"
+        },
+        {
+          "project": "_backups/Testing/Backups/motorstand_P2S_0.4_SuperTack_BambuPETG_backup_before_presetfix.3mf",
+          "member": "3D/Objects/object_1.model",
+          "object_id": "1",
+          "original_name": "motorstand.3mf",
+          "source_sha256": "c444fd599108b254436f416e67c092473a8418b0ad241e0d42dd7305d5bc6b77"
+        },
+        {
+          "project": "_backups/Testing/Backups/motorstand_P2S_0.4_SuperTack_BambuPETG_backup_before_printidfix.3mf",
+          "member": "3D/Objects/object_1.model",
+          "object_id": "1",
+          "original_name": "motorstand.3mf",
+          "source_sha256": "dad8a86b6265927107f9645d9e0fea08861946a055a4006e4195c16d9545fb75"
+        },
+        {
+          "project": "_backups/Testing/Backups/motorstand_P2S_0.4_TexturedPEI_JPPETG_backup_before_presetfix.3mf",
+          "member": "3D/Objects/object_1.model",
+          "object_id": "1",
+          "original_name": "motorstand.3mf",
+          "source_sha256": "ce5b6a24008715cecd4bea9d20579d995c9d219eae01f5fd1a20f2960f8df3f3"
+        },
+        {
+          "project": "_backups/Testing/Backups/motorstand_P2S_0.6HF_SuperTack_BambuPETG_backup_before_04fix.3mf",
+          "member": "3D/Objects/object_1.model",
+          "object_id": "1",
+          "original_name": "motorstand.3mf",
+          "source_sha256": "68700ddb6929c84a6a70e30505f2471a2f2c816cb5258ded61136f794e3582e3"
+        },
+        {
+          "project": "_backups/Testing/Backups/motorstand_P2S_0.6HF_TexturedPEI_JPPETG_backup_before_04fix.3mf",
+          "member": "3D/Objects/object_1.model",
+          "object_id": "1",
+          "original_name": "motorstand.3mf",
+          "source_sha256": "df4642a2506879c9fcc678c0f60d85b1d331b39ca974a1215e464a9543850d19"
+        },
+        {
+          "project": "_backups/Testing/_to_delete/motorstand_P2S_0.4_SuperTack_BambuPETG.3mf.rebuilt.3mf",
+          "member": "3D/Objects/object_1.model",
+          "object_id": "1",
+          "original_name": "motorstand.3mf",
+          "source_sha256": "dad8a86b6265927107f9645d9e0fea08861946a055a4006e4195c16d9545fb75"
+        },
+        {
+          "project": "_backups/Testing/_to_delete/motorstand_P2S_0.4_TexturedPEI_JPPETG.3mf.rebuilt.3mf",
+          "member": "3D/Objects/object_1.model",
+          "object_id": "1",
+          "original_name": "motorstand.3mf",
+          "source_sha256": "b50bafed9550112ad352835e283c5fcc36da905952caf75d41ad059d94a4d663"
+        },
+        {
+          "project": "_backups/Testing/_to_delete/motorstand_P2S_0.6HF_SuperTack_BambuPETG.3mf",
+          "member": "3D/Objects/object_1.model",
+          "object_id": "1",
+          "original_name": "motorstand.3mf",
+          "source_sha256": "68700ddb6929c84a6a70e30505f2471a2f2c816cb5258ded61136f794e3582e3"
+        },
+        {
+          "project": "_backups/Testing/_to_delete/motorstand_P2S_0.6HF_TexturedPEI_JPPETG.3mf",
+          "member": "3D/Objects/object_1.model",
+          "object_id": "1",
+          "original_name": "motorstand.3mf",
+          "source_sha256": "df4642a2506879c9fcc678c0f60d85b1d331b39ca974a1215e464a9543850d19"
+        },
+        {
+          "project": "_backups/_backup_before_all28/KY-motorstand_P2S_0.6HF_TexturedPEI_JPPETG.3mf",
+          "member": "3D/Objects/object_1.model",
+          "object_id": "1",
+          "original_name": "motorstand.3mf",
+          "source_sha256": "dec871740e4e33321a8b3d9e8dae1f1f9c0aa8be0172c96521f80adc45920e3d"
+        },
+        {
+          "project": "_backups/_backup_before_all28/max__KY-motorstand_P2S_0.8HF_TexturedPEI_JPPETG.3mf",
+          "member": "3D/Objects/object_1.model",
+          "object_id": "1",
+          "original_name": "motorstand.3mf",
+          "source_sha256": "c6c96ad85a827f52580565438e77401c9ad60b7a4455fe6503058e1f633964bd"
+        },
+        {
+          "project": "_backups/max/_backup_before_mvf28/KY-motorstand_P2S_0.8HF_TexturedPEI_JPPETG.3mf",
+          "member": "3D/Objects/object_1.model",
+          "object_id": "1",
+          "original_name": "motorstand.3mf",
+          "source_sha256": "79914ab198c1d48558a3dac769bf051462b82bd20f26d0d545387db747603734"
+        },
+        {
+          "project": "_backups/temp/KY-motorstand_P2S_0.8HF_TexturedPEI_JPPETG_backup_before_diff_fix.3mf",
+          "member": "3D/Objects/object_1.model",
+          "object_id": "1",
+          "original_name": "motorstand.3mf",
+          "source_sha256": "646d4fc652a728e566f83785597b60d757322a0b75d18d78e43f66d9473bcc88"
+        }
+      ]
+    },
+    {
+      "file": "BatTop-Standard.stl",
+      "triangles": 2600,
+      "dimensions_mm": [
+        64.0,
+        115.0,
+        34.0
+      ],
+      "current_or_wip": true,
+      "geometry_key": "12c9c0adc5a4c90b808fecd50fa4e9a1f3523698f608e2dc51a52c04aa14b57b",
+      "sha256": "d70bc7970d85cc59bc5a9465f2f141b7ce73450382a051a6c71882fb4b138fc4",
+      "sources": [
+        {
+          "project": "KY/KY-BatTop-Standard_P2S_0.8HF_TexturedPEI_JPPETG.3mf",
+          "member": "3D/Objects/object_2.model",
+          "object_id": "1",
+          "original_name": "BatTop Standard",
+          "source_sha256": "3e5aad788b8e8be547b1ba5e4966402dc2ebcfea9c54ebc12203b96b64ebdc29"
+        },
+        {
+          "project": "WIP/JL-BatTop-Standard_P2S_0.4SF_TexturedPEI_JPPETG.3mf",
+          "member": "3D/Objects/object_2.model",
+          "object_id": "1",
+          "original_name": "BatTop Standard",
+          "source_sha256": "024bc75a82598c3e10769304706ef0dbffa8ae69dd8d91a87c95bbb5ac20bb0b"
+        },
+        {
+          "project": "WIP/KY-BatTop-Standard-TEST3_P2S_0.8HF_TexturedPEI_JPPETG.3mf",
+          "member": "3D/Objects/object_2.model",
+          "object_id": "1",
+          "original_name": "KY-BatTop-Standard-TEST3_P2S_0.8HF_TexturedPEI_JPPETG.3mf",
+          "source_sha256": "7b70fad38f36df644127e4fd1616a48e6577c69d612ceeb575e225db918ddeea"
+        },
+        {
+          "project": "WIP/KY-BatTop-Standard_P2S_0.8HF_TexturedPEI_BambuPETG.3mf",
+          "member": "3D/Objects/object_2.model",
+          "object_id": "1",
+          "original_name": "BatTop Standard",
+          "source_sha256": "6e0ba3939686b8bbab8589245560a2e9ee7cce82c8d4e3b23498fd5edcdc56fc"
+        },
+        {
+          "project": "archive/JL-BatTop-SpecialEd_P2S_0.4SF_TexturedPEI_JPPETG.3mf",
+          "member": "3D/Objects/object_13.model",
+          "object_id": "1",
+          "original_name": "JL-BatTop_P2S_0.4SF_TexturedPEI_JPPETG.3mf",
+          "source_sha256": "5ab15fdec7346da9368bac244f667f3dbdcb39b68ebc76ceae40b39a0b9ac2e9"
+        },
+        {
+          "project": "_backups/_backup_JL_kyle_saved/JL-BatTop4v4_P2S_0.4SF_TexturedPEI_JPPETG.3mf",
+          "member": "3D/Objects/object_13.model",
+          "object_id": "1",
+          "original_name": "JL-BatTop4v4_P2S_0.4SF_TexturedPEI_JPPETG.3mf",
+          "source_sha256": "133dab434299fed04f902154a2b2200eb7b04f6c3fc66b876750f45d317bf228"
+        },
+        {
+          "project": "_backups/_backup_JL_single/JL-BatTop4v4_P2S_0.4SF_TexturedPEI_JPPETG.3mf",
+          "member": "3D/Objects/object_1.model",
+          "object_id": "1",
+          "original_name": "BatTop 4v4",
+          "source_sha256": "140c7a1de29852f543db1316ee93e4c99ff835149551e853f58762161d751e07"
+        }
+      ]
+    },
+    {
+      "file": "FinalBottom.stl",
+      "triangles": 13112,
+      "dimensions_mm": [
+        150.0,
+        158.0,
+        4.0
+      ],
+      "current_or_wip": true,
+      "geometry_key": "0653d5abf14894c06d15a6d90bb419ed180b2427d3303c08a2b67966b113ab36",
+      "sha256": "d132ca7a3697543b27bc7cffbf88d70c269961d32b3e032098d3b7bd19f27032",
+      "sources": [
+        {
+          "project": "KY/KY-FinalBottom_P2S_0.8HF_TexturedPEI_JPPETG.3mf",
+          "member": "3D/Objects/object_1.model",
+          "object_id": "1",
+          "original_name": "FinalBottom_Configuration_1_Body1.3mf",
+          "source_sha256": "085ef218b1f41ab18ab7d7abfeffb2226200965dc7dcf6dc35d13b4d04eadd2d"
+        },
+        {
+          "project": "TC/TC-FinalBottom_X2D_0.8HF_TexturedPEI_JPPETG.3mf",
+          "member": "3D/Objects/object_1.model",
+          "object_id": "1",
+          "original_name": "FinalBottom_Configuration_1_Body1.3mf",
+          "source_sha256": "92a3a2f1fab5db17efc1e44194ab8e01660b46e5beaeabef1b2b65095215dbfe"
+        },
+        {
+          "project": "archive/KY-FinalBottom_P2S_0.6HF_TexturedPEI_JPPETG.3mf",
+          "member": "3D/Objects/object_1.model",
+          "object_id": "1",
+          "original_name": "FinalBottom_Configuration_1_Body1.3mf",
+          "source_sha256": "3ff610596653811e0efcc5f0e056895cf45de78efdeb8bfde06e536506b49cb3"
+        },
+        {
+          "project": "archive/TC-FinalBottom_X2D_0.4HF_TexturedPEI_JPPETG.3mf",
+          "member": "3D/Objects/object_1.model",
+          "object_id": "1",
+          "original_name": "FinalBottom_Configuration_1_Body1.3mf",
+          "source_sha256": "3362b8ed5277dc621cb2f7b5aa84f9f9d336b2b96661c2c19338676293f06e4b"
+        },
+        {
+          "project": "_backups/max/_backup_before_mvf28/KY-FinalBottom_P2S_0.8HF_TexturedPEI_JPPETG.3mf",
+          "member": "3D/Objects/object_1.model",
+          "object_id": "1",
+          "original_name": "FinalBottom_Configuration_1_Body1.3mf",
+          "source_sha256": "fbae300562ab1fe920b48401f6e3fa4ee3bec28c987e770d261704678db87a55"
+        },
+        {
+          "project": "_backups/max/_backup_before_mvf28/TC-FinalBottom_X2D_0.8HF_TexturedPEI_JPPETG.3mf",
+          "member": "3D/Objects/object_1.model",
+          "object_id": "1",
+          "original_name": "FinalBottom_Configuration_1_Body1.3mf",
+          "source_sha256": "224e0a69ace82eaa4769ee72e10d0caf857da959aa2dc98c0939f45575e5ac18"
+        },
+        {
+          "project": "_backups/temp/TC-FinalBottom_X2D_0.8HF_TexturedPEI_JPPETG_v1_pre_KYmatch.3mf",
+          "member": "3D/Objects/object_1.model",
+          "object_id": "1",
+          "original_name": "FinalBottom_Configuration_1_Body1.3mf",
+          "source_sha256": "b07614f870f303614a7ccfaf57e915179b94d71fc5233e5536ab254a823af114"
+        },
+        {
+          "project": "archive/stack-test/FinalBottom_2up_test_geometry.3mf",
+          "member": "3D/3dmodel.model",
+          "object_id": "1",
+          "original_name": "KY-FinalBottom_P2S_0 - 2up stack 0.20mm gap normal - stack",
+          "source_sha256": "465be2978c7b1cba81180df2731614b01bea6a38ac09497e1682278acb0cba33"
+        },
+        {
+          "project": "archive/stack-test/KY-FinalBottom_2up_TEST_0.8HF_TexturedPEI_JPPETG+PLAtab.3mf",
+          "member": "3D/Objects/object_1.model",
+          "object_id": "1",
+          "original_name": "KY-FinalBottom_2up_TEST_0.8HF_TexturedPEI_JPPETG.3mf",
+          "source_sha256": "0d4b408f22d39a93c5d5ef1220cdc0e4a6e92eaf62140c9416df31e804283a85"
+        },
+        {
+          "project": "archive/stack-test/KY-FinalBottom_2up_TEST_0.8HF_TexturedPEI_JPPETG.3mf",
+          "member": "3D/Objects/object_1.model",
+          "object_id": "1",
+          "original_name": "KY-FinalBottom_2up_TEST_0.8HF_TexturedPEI_JPPETG.3mf",
+          "source_sha256": "d51ee628c41b9e25b61c0dc590295d3ee91f8968aeb5e4f7cbc9e2a8780c43cd"
+        },
+        {
+          "project": "archive/stack-test/gap0.3/geom.3mf",
+          "member": "3D/3dmodel.model",
+          "object_id": "1",
+          "original_name": "KY-FinalBottom_P2S_0 - 2up stack 0.30mm gap normal - stack",
+          "source_sha256": "791543ca9f8df949841d508a848d4283aef0c7d07bbf721a1b4acd0060e368ec"
+        },
+        {
+          "project": "_backups/temp/interstitial-test-2up/KY-FinalBottom_P2S_0 - 2up stack 0.20mm gap normal.stl",
+          "member": "STL",
+          "object_id": "",
+          "original_name": "KY-FinalBottom_P2S_0 - 2up stack 0.20mm gap normal",
+          "source_sha256": "3a4054b63cb0f119a686f19d811edb51b54d8623dfb0e92a6586fed11b722eb5"
+        },
+        {
+          "project": "_backups/temp/interstitial-test-2up/gap0.3/KY-FinalBottom_P2S_0 - 2up stack 0.30mm gap normal.stl",
+          "member": "STL",
+          "object_id": "",
+          "original_name": "KY-FinalBottom_P2S_0 - 2up stack 0.30mm gap normal",
+          "source_sha256": "639b50ce63e86530fa8f7d951929dcdd44b2c14522f3ff067bb1ef4b4678c642"
+        },
+        {
+          "project": "_backups/temp/interstitial-test/KY-FinalBottom_P2S_0 - 8up stack 0.20mm gap normal.stl",
+          "member": "STL",
+          "object_id": "",
+          "original_name": "KY-FinalBottom_P2S_0 - 8up stack 0.20mm gap normal",
+          "source_sha256": "979ac01fa64725c57c60470232e758a12ffcd411e1e01f50daf946ab6c444916"
+        },
+        {
+          "project": "_backups/temp/KY-FinalBottom_P2S_0.stl",
+          "member": "STL",
+          "object_id": "",
+          "original_name": "KY-FinalBottom_P2S_0",
+          "source_sha256": "a2e7a92a9f65305a00c684a4cc5eaa966732d98f1698ea7e6c1a2070e737f3f0"
+        }
+      ]
+    },
+    {
+      "file": "BatTop-SpecialEdition.stl",
+      "triangles": 1552,
+      "dimensions_mm": [
+        64.0,
+        99.5,
+        34.0
+      ],
+      "current_or_wip": true,
+      "geometry_key": "2242d54e0779e91d36bde4b68ad24d8c2a9ca3e2a0c2191d4f4d9ab16131d14a",
+      "sha256": "fdd9e1ac46a85b3718dca0b39a20007e3312c9eaea6f81ec8bdda7b5bbbe7288",
+      "sources": [
+        {
+          "project": "WIP/KY-BatTop-SpecialEd-TEST2_P2S_0.8HF_TexturedPEI_JPPETG.3mf",
+          "member": "3D/Objects/object_1.model",
+          "object_id": "1",
+          "original_name": "KY-BatTop-Standard-TEST2_P2S_0.8HF_TexturedPEI_JPPETG.3mf",
+          "source_sha256": "98d44e27274dfa6a616f0af23ec1d255592d4b68c2e5a0a4c5486a5a5704d043"
+        },
+        {
+          "project": "archive/BatTop for standard.stl",
+          "member": "STL",
+          "object_id": "",
+          "original_name": "BatTop for standard",
+          "source_sha256": "4720752f75ba7c1789a9082911ba88f134e2ed79f805bef89cf202bd159bd5ed"
+        }
+      ]
+    },
+    {
+      "file": "Archived-4v4Funnel.stl",
+      "triangles": 840,
+      "dimensions_mm": [
+        225.0,
+        70.0,
+        2.0
+      ],
+      "current_or_wip": false,
+      "geometry_key": "150d2b265a39d6c1e25033ff149c5c65d5e9bd049a39466520c51a09a05a4087",
+      "sha256": "1997658711c14fb0f7cb8b17ffdf8a99565cd036dee3028bf9a630c0b15e9bd6",
+      "sources": [
+        {
+          "project": "archive/4v4Funnel.3mf",
+          "member": "3D/Objects/object_2.model",
+          "object_id": "1",
+          "original_name": "4v4Funnel.3mf",
+          "source_sha256": "65edb0537b15b96cd72fedacbc1f010dd2570deaa2e8d848ada7e8520b1db9ad"
+        },
+        {
+          "project": "_backups/Testing/Backups/4v4Funnel_backup_before_baseline_fix.3mf",
+          "member": "3D/Objects/object_2.model",
+          "object_id": "1",
+          "original_name": "4v4Funnel.3mf",
+          "source_sha256": "88e1abfc65ec7cc4ddb3158951209bdc66b8a9ef19053a684412b8382cb399fe"
+        }
+      ]
+    },
+    {
+      "file": "Archived-BatTop.stl",
+      "triangles": 1904,
+      "dimensions_mm": [
+        64.0,
+        115.0,
+        34.0
+      ],
+      "current_or_wip": false,
+      "geometry_key": "01f79d061f141077b3af86f1a4f66f279dd0724e639d67bca1f8a632f360cc94",
+      "sha256": "b70b88bcaba85e441b0df036fa9819ab5e2b5b17cb85d8cd14ce925e89861e2f",
+      "sources": [
+        {
+          "project": "archive/BatTop_P2S_0.8HF_TexturedPEI_GenericPETG.3mf",
+          "member": "3D/Objects/object_1.model",
+          "object_id": "1",
+          "original_name": "BatTop.stl",
+          "source_sha256": "508c8735ae8ff530470746314d94f0b6f0dc0f30aaeabe72df60ca0e7c156c3c"
+        },
+        {
+          "project": "archive/BatTop_P2S_0.8HF_TexturedPEI_JPPETG.3mf",
+          "member": "3D/Objects/object_1.model",
+          "object_id": "1",
+          "original_name": "BatTop.stl",
+          "source_sha256": "83f194f5fc171d9969ad4b7e615f9f1ea7070a327bc82a829455b24bb9ad657a"
+        },
+        {
+          "project": "archive/BatTop_P2S_0.8HF_TexturedPEI_JPPETGCF.3mf",
+          "member": "3D/Objects/object_1.model",
+          "object_id": "1",
+          "original_name": "BatTop.stl",
+          "source_sha256": "eae45faeec01f0417ab4dcfadfd57441566a5aaadf6864e3fef3586c5b85286b"
+        },
+        {
+          "project": "_backups/_backup_before_all28/temp__BatTop_P2S_0.8HF_TexturedPEI_GenericPETG.3mf",
+          "member": "3D/Objects/object_1.model",
+          "object_id": "1",
+          "original_name": "BatTop.stl",
+          "source_sha256": "9b5d847cc1bc155d2407d07bd6074a3344ff0a8f15017c7f1ee868c2e47ed2bf"
+        },
+        {
+          "project": "_backups/_backup_before_all28/temp__BatTop_P2S_0.8HF_TexturedPEI_JPPETG.3mf",
+          "member": "3D/Objects/object_1.model",
+          "object_id": "1",
+          "original_name": "BatTop.stl",
+          "source_sha256": "c71b08d2b4df7920d650b1b4d6bc2b86890d5a71719dc7c6084cf5dd4016ed94"
+        }
+      ]
+    },
+    {
+      "file": "Archived-Batt.stl",
+      "triangles": 1324,
+      "dimensions_mm": [
+        64.0,
+        99.5,
+        26.0
+      ],
+      "current_or_wip": false,
+      "geometry_key": "0299a5594267c0071dd1f06e38cda0b7f31794fbcfa0990954eb56ea6d6a8530",
+      "sha256": "b9cf1a696a8a284e77aa64c6ac65729cc3edef245fe3082347eaa6705e320b84",
+      "sources": [
+        {
+          "project": "archive/Batt_P2S_0.4_SuperTack_JPPETG.3mf",
+          "member": "3D/Objects/object_7.model",
+          "object_id": "1",
+          "original_name": "Batt.3mf",
+          "source_sha256": "1984126d2e3f6ecf4ddc1ae32e1501bb582e2274be08795ffdce79b9152cfc56"
+        },
+        {
+          "project": "archive/Batt_P2S_0.4_SuperTack_JPPETG.3mf",
+          "member": "3D/Objects/object_9.model",
+          "object_id": "3",
+          "original_name": "Batt.3mf",
+          "source_sha256": "1984126d2e3f6ecf4ddc1ae32e1501bb582e2274be08795ffdce79b9152cfc56"
+        },
+        {
+          "project": "_backups/Testing/Backups/Batt_P2S_0.4_JPPETG_backup_before_65temp.3mf",
+          "member": "3D/Objects/object_7.model",
+          "object_id": "1",
+          "original_name": "Batt.3mf",
+          "source_sha256": "7dc398ff09ddaafda1927a1fa5a85da9b00e6c18f0c7b09d395c1fd28f2ef31f"
+        },
+        {
+          "project": "_backups/Testing/Backups/Batt_P2S_0.4_JPPETG_backup_before_65temp.3mf",
+          "member": "3D/Objects/object_9.model",
+          "object_id": "3",
+          "original_name": "Batt.3mf",
+          "source_sha256": "7dc398ff09ddaafda1927a1fa5a85da9b00e6c18f0c7b09d395c1fd28f2ef31f"
+        },
+        {
+          "project": "_backups/Testing/Backups/Batt_P2S_0.4_JPPETG_backup_before_baseline_fix.3mf",
+          "member": "3D/Objects/object_1.model",
+          "object_id": "1",
+          "original_name": "Batt.3mf",
+          "source_sha256": "2adb34d8f80f3b4ce3e37736be55610b1b1498e581ece5772fab364cfd0f78f2"
+        },
+        {
+          "project": "_backups/Testing/Backups/Batt_P2S_0.4_JPPETG_backup_before_baseline_fix.3mf",
+          "member": "3D/Objects/object_2.model",
+          "object_id": "3",
+          "original_name": "Batt.3mf",
+          "source_sha256": "2adb34d8f80f3b4ce3e37736be55610b1b1498e581ece5772fab364cfd0f78f2"
+        },
+        {
+          "project": "_backups/Testing/Backups/Batt_P2S_0.4_JPPETG_backup_before_baseline_fix.3mf",
+          "member": "3D/Objects/object_5.model",
+          "object_id": "9",
+          "original_name": "Batt.3mf",
+          "source_sha256": "2adb34d8f80f3b4ce3e37736be55610b1b1498e581ece5772fab364cfd0f78f2"
+        },
+        {
+          "project": "_backups/Testing/Backups/Batt_P2S_0.4_JPPETG_backup_before_baseline_fix.3mf",
+          "member": "3D/Objects/object_4.model",
+          "object_id": "7",
+          "original_name": "Batt.3mf",
+          "source_sha256": "2adb34d8f80f3b4ce3e37736be55610b1b1498e581ece5772fab364cfd0f78f2"
+        },
+        {
+          "project": "_backups/Testing/Backups/Batt_P2S_0.4_JPPETG_backup_before_baseline_fix.3mf",
+          "member": "3D/Objects/object_3.model",
+          "object_id": "5",
+          "original_name": "Batt.3mf",
+          "source_sha256": "2adb34d8f80f3b4ce3e37736be55610b1b1498e581ece5772fab364cfd0f78f2"
+        },
+        {
+          "project": "_backups/Testing/Backups/Batt_P2S_0.4_JPPETG_backup_before_baseline_fix.3mf",
+          "member": "3D/Objects/object_6.model",
+          "object_id": "11",
+          "original_name": "Batt.3mf",
+          "source_sha256": "2adb34d8f80f3b4ce3e37736be55610b1b1498e581ece5772fab364cfd0f78f2"
+        },
+        {
+          "project": "_backups/Testing/Backups/Batt_P2S_0.4_JPPETG_backup_before_baseline_fix.3mf",
+          "member": "3D/Objects/object_7.model",
+          "object_id": "13",
+          "original_name": "Batt.3mf",
+          "source_sha256": "2adb34d8f80f3b4ce3e37736be55610b1b1498e581ece5772fab364cfd0f78f2"
+        },
+        {
+          "project": "_backups/Testing/Backups/Batt_P2S_0.4_JPPETG_backup_before_cryogrip.3mf",
+          "member": "3D/Objects/object_7.model",
+          "object_id": "1",
+          "original_name": "Batt.3mf",
+          "source_sha256": "5f0cdf6b41439c739d65a5d5fdad1bf5730e6a25f5791be8f5a4c2bb33d213b8"
+        },
+        {
+          "project": "_backups/Testing/Backups/Batt_P2S_0.4_JPPETG_backup_before_cryogrip.3mf",
+          "member": "3D/Objects/object_9.model",
+          "object_id": "3",
+          "original_name": "Batt.3mf",
+          "source_sha256": "5f0cdf6b41439c739d65a5d5fdad1bf5730e6a25f5791be8f5a4c2bb33d213b8"
+        },
+        {
+          "project": "_backups/Testing/Backups/Batt_P2S_0.4_SuperTack_JPPETG_backup_before_platenamefix.3mf",
+          "member": "3D/Objects/object_7.model",
+          "object_id": "1",
+          "original_name": "Batt.3mf",
+          "source_sha256": "d2e8dc9ae93518e9eca826e49c98f00c0612537a0d004bba0b08613aba8ec83e"
+        },
+        {
+          "project": "_backups/Testing/Backups/Batt_P2S_0.4_SuperTack_JPPETG_backup_before_platenamefix.3mf",
+          "member": "3D/Objects/object_9.model",
+          "object_id": "3",
+          "original_name": "Batt.3mf",
+          "source_sha256": "d2e8dc9ae93518e9eca826e49c98f00c0612537a0d004bba0b08613aba8ec83e"
+        },
+        {
+          "project": "_backups/Testing/_to_delete/Batt_P2S_0.4HF_JPPETG.3mf",
+          "member": "3D/Objects/object_7.model",
+          "object_id": "1",
+          "original_name": "Batt.3mf",
+          "source_sha256": "6cf2a39391746a758e954c72086cce75becfab38eece862c8a7a775a619e87c3"
+        },
+        {
+          "project": "_backups/Testing/_to_delete/Batt_P2S_0.4HF_JPPETG.3mf",
+          "member": "3D/Objects/object_9.model",
+          "object_id": "3",
+          "original_name": "Batt.3mf",
+          "source_sha256": "6cf2a39391746a758e954c72086cce75becfab38eece862c8a7a775a619e87c3"
+        }
+      ]
+    },
+    {
+      "file": "Archived-BatTop-Old45mm.stl",
+      "triangles": 1104,
+      "dimensions_mm": [
+        45.0,
+        108.99407958984375,
+        34.0
+      ],
+      "current_or_wip": false,
+      "geometry_key": "085e5dfd8877ef7942b8507100a0bd73a4b45ce5931752fa79519f79847a352b",
+      "sha256": "585f58ef5a961b6cd937e5d495a0bf7c9cbba1cf4b5073b755cce9dc710724f1",
+      "sources": [
+        {
+          "project": "archive/JL-BatTop-Standard_P2S_0.4SF_TexturedPEI_JPPETG.3mf",
+          "member": "3D/Objects/object_1.model",
+          "object_id": "1",
+          "original_name": "JL-BatTop_P2S_0.4SF_TexturedPEI_JPPETG.3mf",
+          "source_sha256": "350e8ffe1e464b65674db8d2e00c790174a185a4e4baf23d309af2ea6ce8ff1b"
+        },
+        {
+          "project": "archive/KY-BatTop-Standard_P2S_0.8HF_TexturedPEI_JPPETG.3mf",
+          "member": "3D/Objects/object_1.model",
+          "object_id": "1",
+          "original_name": "KY-BatTop-Standard_P2S_0.8HF_TexturedPEI_JPPETG.3mf",
+          "source_sha256": "bc83cd536e0087507876d2d3df0509014dad2444cc2ae9e8981cbad1ab88b59c"
+        },
+        {
+          "project": "_backups/_backup_JL_kyle_saved/JL-BatTop3v3_P2S_0.4SF_TexturedPEI_JPPETG.3mf",
+          "member": "3D/Objects/object_1.model",
+          "object_id": "1",
+          "original_name": "JL-BatTop3v3_P2S_0.4SF_TexturedPEI_JPPETG.3mf",
+          "source_sha256": "fb6ff4575cfcd7eab3829760743d6d49dcf80f445188940a04f0432580eda039"
+        },
+        {
+          "project": "_backups/_backup_JL_single/JL-BatTop3v3_P2S_0.4SF_TexturedPEI_JPPETG.3mf",
+          "member": "3D/Objects/object_1.model",
+          "object_id": "1",
+          "original_name": "BatTop 3v3",
+          "source_sha256": "ce7e4589fa82aa40e93b880404a2112774d09ddd2cf70dfdf65e98a77fa80b20"
+        },
+        {
+          "project": "_backups/_backup_before_supportfix/JL-BatTop3v3-Standard_P2S_0.4SF_TexturedPEI_JPPETG.3mf",
+          "member": "3D/Objects/object_1.model",
+          "object_id": "1",
+          "original_name": "JL-BatTop3v3_P2S_0.4SF_TexturedPEI_JPPETG.3mf",
+          "source_sha256": "f484d597ac64c1ab4679c9ccc5b320425a60a8d2471f566c319edf9ba0e9c1e4"
+        },
+        {
+          "project": "archive/KY-BatTop-Standard-TEST1_P2S_0.8HF_TexturedPEI_JPPETG.3mf",
+          "member": "3D/Objects/object_1.model",
+          "object_id": "1",
+          "original_name": "BatTop Standard",
+          "source_sha256": "84aab8386a602814ceee60349bd316a3a9b031eaa7657fa674e23b249e903669"
+        },
+        {
+          "project": "_backups/_backup_before_supportfix/max__KY-BatTop3v3-Standard_P2S_0.8HF_TexturedPEI_JPPETG.3mf",
+          "member": "3D/Objects/object_1.model",
+          "object_id": "1",
+          "original_name": "BatTop 3v3 Standard",
+          "source_sha256": "dcc9c82302ace80f5c15b3c3a06ea66d36332cd4d593a9cc588e5fcce1ed6ad2"
+        },
+        {
+          "project": "_backups/_backup_before_supportfix/max__KY-BatTop3v3-Standard_P2S_0.8HF_TexturedPEI_JPPETG.3mf",
+          "member": "3D/Objects/object_2.model",
+          "object_id": "1",
+          "original_name": "BatTop 3v3 Standard",
+          "source_sha256": "dcc9c82302ace80f5c15b3c3a06ea66d36332cd4d593a9cc588e5fcce1ed6ad2"
+        },
+        {
+          "project": "_backups/_backup_before_supportfix/max__KY-BatTop3v3-Standard_P2S_0.8HF_TexturedPEI_JPPETG.3mf",
+          "member": "3D/Objects/object_3.model",
+          "object_id": "1",
+          "original_name": "BatTop 3v3 Standard",
+          "source_sha256": "dcc9c82302ace80f5c15b3c3a06ea66d36332cd4d593a9cc588e5fcce1ed6ad2"
+        },
+        {
+          "project": "_backups/_backup_before_supportfix/max__KY-BatTop3v3-Standard_P2S_0.8HF_TexturedPEI_JPPETG.3mf",
+          "member": "3D/Objects/object_4.model",
+          "object_id": "1",
+          "original_name": "BatTop 3v3 Standard",
+          "source_sha256": "dcc9c82302ace80f5c15b3c3a06ea66d36332cd4d593a9cc588e5fcce1ed6ad2"
+        },
+        {
+          "project": "_backups/_backup_before_supportfix/max__KY-BatTop3v3-Standard_P2S_0.8HF_TexturedPEI_JPPETG.3mf",
+          "member": "3D/Objects/object_5.model",
+          "object_id": "1",
+          "original_name": "BatTop 3v3 Standard",
+          "source_sha256": "dcc9c82302ace80f5c15b3c3a06ea66d36332cd4d593a9cc588e5fcce1ed6ad2"
+        },
+        {
+          "project": "_backups/_backup_before_supportfix/max__KY-BatTop3v3-Standard_P2S_0.8HF_TexturedPEI_JPPETG.3mf",
+          "member": "3D/Objects/object_6.model",
+          "object_id": "1",
+          "original_name": "BatTop 3v3 Standard",
+          "source_sha256": "dcc9c82302ace80f5c15b3c3a06ea66d36332cd4d593a9cc588e5fcce1ed6ad2"
+        },
+        {
+          "project": "_backups/_backup_before_supportfix/max__KY-BatTop3v3-Standard_P2S_0.8HF_TexturedPEI_JPPETG.3mf",
+          "member": "3D/Objects/object_7.model",
+          "object_id": "1",
+          "original_name": "BatTop 3v3 Standard",
+          "source_sha256": "dcc9c82302ace80f5c15b3c3a06ea66d36332cd4d593a9cc588e5fcce1ed6ad2"
+        },
+        {
+          "project": "_backups/_backup_before_supportfix/max__KY-BatTop3v3-Standard_P2S_0.8HF_TexturedPEI_JPPETG.3mf",
+          "member": "3D/Objects/object_8.model",
+          "object_id": "1",
+          "original_name": "BatTop 3v3 Standard",
+          "source_sha256": "dcc9c82302ace80f5c15b3c3a06ea66d36332cd4d593a9cc588e5fcce1ed6ad2"
+        }
+      ]
+    },
+    {
+      "file": "Archived-KY-Body2.stl",
+      "triangles": 2064,
+      "dimensions_mm": [
+        150.0,
+        160.0,
+        2.0
+      ],
+      "current_or_wip": false,
+      "geometry_key": "03a037583f136802c84c4893acbc19bff683ad4ceb97d96fe93e09ee10dacb8e",
+      "sha256": "56ec971b682c7d7f80043a123d9b8b216ef04cd9f10d454f18715cfed3b016ed",
+      "sources": [
+        {
+          "project": "archive/KY-Body2_P2S_0.8HF_TexturedPEI_JPPETG.3mf",
+          "member": "3D/Objects/object_1.model",
+          "object_id": "1",
+          "original_name": "Body2.stl",
+          "source_sha256": "3e3c1c3e49c9997fda94aeb45f330573e42f7469af6b7ed1923e94e71a239c27"
+        },
+        {
+          "project": "_backups/_backup_before_all28/temp__KY-Body2_P2S_0.8HF_TexturedPEI_JPPETG.3mf",
+          "member": "3D/Objects/object_1.model",
+          "object_id": "1",
+          "original_name": "Body2.stl",
+          "source_sha256": "38e265b9eeb736e3fc5dda711d7303024dfccfb429cd3d31c6cce08961fa7be7"
+        },
+        {
+          "project": "_backups/temp/KY-Body2_P2S_0.8HF_TexturedPEI_JPPETG_backup_before_shell23.3mf",
+          "member": "3D/Objects/object_1.model",
+          "object_id": "1",
+          "original_name": "Body2.stl",
+          "source_sha256": "0f2d346c5f3725c0959bce72accd088950c07d82dc7a91e3d6edfb72235e7011"
+        }
+      ]
+    },
+    {
+      "file": "Experimental/Experimental-150x158x0.2mm-0c1151.stl",
+      "triangles": 13112,
+      "dimensions_mm": [
+        150.0,
+        158.0,
+        0.19999980926513672
+      ],
+      "current_or_wip": false,
+      "geometry_key": "0c11516077a41a5620fc681fe313792f5fad9f0c53f0558463fd00563b53a0b0",
+      "sha256": "9df4b728a220e3e5397fe1ca48bfc41a7d7ce5f6a5d0159c0a011470e364efe7",
+      "sources": [
+        {
+          "project": "archive/stack-test/FinalBottom_2up_test_geometry.3mf",
+          "member": "3D/3dmodel.model",
+          "object_id": "2",
+          "original_name": "KY-FinalBottom_P2S_0 - 2up stack 0.20mm gap normal - interstitials 0.20mm - interstitial",
+          "source_sha256": "465be2978c7b1cba81180df2731614b01bea6a38ac09497e1682278acb0cba33"
+        },
+        {
+          "project": "_backups/temp/interstitial-test-2up/KY-FinalBottom_P2S_0 - 2up stack 0.20mm gap normal - interstitials 0.20mm.stl",
+          "member": "STL",
+          "object_id": "",
+          "original_name": "KY-FinalBottom_P2S_0 - 2up stack 0.20mm gap normal - interstitials 0.20mm",
+          "source_sha256": "1c4c6227d20d6990a1aa8f03d7ae51d1709e6c8a31ec956cf9a7a288ec06d35f"
+        },
+        {
+          "project": "_backups/temp/interstitial-test/KY-FinalBottom_P2S_0 - 8up stack 0.20mm gap normal - interstitials 0.20mm.stl",
+          "member": "STL",
+          "object_id": "",
+          "original_name": "KY-FinalBottom_P2S_0 - 8up stack 0.20mm gap normal - interstitials 0.20mm",
+          "source_sha256": "0c7aa1634e9f9a7bce36fc891535cde7cf056df0692a285eed0bd68f13596a52"
+        }
+      ]
+    },
+    {
+      "file": "Experimental/Experimental-15x11x1.7mm-0c0537.stl",
+      "triangles": 32,
+      "dimensions_mm": [
+        15.0,
+        11.0,
+        1.6999999731779099
+      ],
+      "current_or_wip": false,
+      "geometry_key": "0c0537e38c38ff1bd7009f4cce59b2d65207f593b1ff1f9f73c313de48aee3ba",
+      "sha256": "e7fdd3739873c47cc9ee36f134b6e1a02066f23a10af7f5103fe23e88cb0e2e1",
+      "sources": [
+        {
+          "project": "archive/stack-test/KY-FinalBottom_2up_CUT40x45_0.8HF_TexturedPEI_JPPETG+PLAtab.3mf",
+          "member": "3D/Objects/object_1.model",
+          "object_id": "1",
+          "original_name": "KY-FinalBottom_2up_TEST_0.8HF_TexturedPEI_JPPETG.3mf",
+          "source_sha256": "2c110b6bb132dfa65e1fbb607685306741a619fd08a0ecc387c44a3a585c0358"
+        }
+      ]
+    },
+    {
+      "file": "Experimental/Experimental-40x45x1.7mm-0131a9.stl",
+      "triangles": 1400,
+      "dimensions_mm": [
+        40.0,
+        45.0,
+        1.6999999731779099
+      ],
+      "current_or_wip": false,
+      "geometry_key": "0131a9bba61d16a1f9020090718d5685e9526540357fb68461387faca3b72941",
+      "sha256": "f0c45f45e5f190bfdd66235168fcdc8b8f761380bbab98453228e40469321b71",
+      "sources": [
+        {
+          "project": "archive/stack-test/KY-FinalBottom_2up_CUT40x45_0.8HF_TexturedPEI_JPPETG+PLAtab.3mf",
+          "member": "3D/Objects/object_1.model",
+          "object_id": "1",
+          "original_name": "KY-FinalBottom_2up_TEST_0.8HF_TexturedPEI_JPPETG.3mf",
+          "source_sha256": "2c110b6bb132dfa65e1fbb607685306741a619fd08a0ecc387c44a3a585c0358"
+        }
+      ]
+    },
+    {
+      "file": "Experimental/Experimental-40x45x1.8mm-01805f.stl",
+      "triangles": 1400,
+      "dimensions_mm": [
+        40.0,
+        45.0,
+        1.799999974668026
+      ],
+      "current_or_wip": false,
+      "geometry_key": "01805f3961f91dff1dc3f8aa8f5bbfcfcb48b2f844e5eacf437c3b3cbe1bad95",
+      "sha256": "cfa86556de82b64abb58d090f2ec5feece30f5eec33abcc7b32dfd55b04062b3",
+      "sources": [
+        {
+          "project": "archive/stack-test/KY-FinalBottom_2up_CUT40x45_0.8HF_TexturedPEI_JPPETG+PLAtab.3mf",
+          "member": "3D/Objects/object_1.model",
+          "object_id": "1",
+          "original_name": "KY-FinalBottom_2up_TEST_0.8HF_TexturedPEI_JPPETG.3mf",
+          "source_sha256": "2c110b6bb132dfa65e1fbb607685306741a619fd08a0ecc387c44a3a585c0358"
+        }
+      ]
+    },
+    {
+      "file": "Experimental/Experimental-40x57x0.3mm-1262b8.stl",
+      "triangles": 312,
+      "dimensions_mm": [
+        40.0,
+        57.0,
+        0.30000000447034836
+      ],
+      "current_or_wip": false,
+      "geometry_key": "1262b8d43981913544249a1cd525f556f90dda6e6dd0da6c0e5f8b76222149fb",
+      "sha256": "a5bbd7638f8e1e81765e7675821e900e829ee34661518750cedbfde5f2677081",
+      "sources": [
+        {
+          "project": "archive/stack-test/KY-FinalBottom_2up_CUT40x45_0.8HF_TexturedPEI_JPPETG+PLAtab.3mf",
+          "member": "3D/Objects/object_1.model",
+          "object_id": "2",
+          "original_name": "KY-FinalBottom_2up_TEST_0.8HF_TexturedPEI_JPPETG.3mf",
+          "source_sha256": "2c110b6bb132dfa65e1fbb607685306741a619fd08a0ecc387c44a3a585c0358"
+        }
+      ]
+    },
+    {
+      "file": "Experimental/Experimental-15x11x1.7mm-0b9062.stl",
+      "triangles": 12,
+      "dimensions_mm": [
+        15.0,
+        11.000001907348633,
+        1.6999999731779099
+      ],
+      "current_or_wip": false,
+      "geometry_key": "0b906253982d714b96e9e5209256c29c906a3501abdb18e66a483e8bbce82856",
+      "sha256": "df53b75d0ab6bf50091d10f4fead79d268c5062a166b513cb77a7d2adcaab521",
+      "sources": [
+        {
+          "project": "archive/stack-test/KY-FinalBottom_2up_MINI35_0.8HF_TexturedPEI_JPPETG+PLAtab.3mf",
+          "member": "3D/Objects/object_1.model",
+          "object_id": "1",
+          "original_name": "KY-FinalBottom_2up_TEST_0.8HF_TexturedPEI_JPPETG.3mf",
+          "source_sha256": "f13c2eacad9e4bed58776b318e01d9bd67871925d809b08e5d1e04df62d705d2"
+        }
+      ]
+    },
+    {
+      "file": "Experimental/Experimental-52.5x55.3x1.7mm-01ee8e.stl",
+      "triangles": 20992,
+      "dimensions_mm": [
+        52.5,
+        55.29999923706055,
+        1.6999999731779099
+      ],
+      "current_or_wip": false,
+      "geometry_key": "01ee8e90ddccaccd69e18a6d40e841178d2cb4d452ccf788b87bd58092ea4054",
+      "sha256": "43ecb2ed9320929c8b695e0dc702518aff51725c61f8563ecf9339acdae1959d",
+      "sources": [
+        {
+          "project": "archive/stack-test/KY-FinalBottom_2up_MINI35_0.8HF_TexturedPEI_JPPETG+PLAtab.3mf",
+          "member": "3D/Objects/object_1.model",
+          "object_id": "1",
+          "original_name": "KY-FinalBottom_2up_TEST_0.8HF_TexturedPEI_JPPETG.3mf",
+          "source_sha256": "f13c2eacad9e4bed58776b318e01d9bd67871925d809b08e5d1e04df62d705d2"
+        }
+      ]
+    },
+    {
+      "file": "Experimental/Experimental-52.5x55.3x1.8mm-114e48.stl",
+      "triangles": 20992,
+      "dimensions_mm": [
+        52.5,
+        55.29999923706055,
+        1.799999974668026
+      ],
+      "current_or_wip": false,
+      "geometry_key": "114e486c2d0c23184e7b0ade40fafe1c392d8a6bbdf5e01c16b50d1a18cb23e5",
+      "sha256": "2198a313796e46ebf448d2347855e3e9e6ff7af69cf6e1bba6bfe4ce64b2c001",
+      "sources": [
+        {
+          "project": "archive/stack-test/KY-FinalBottom_2up_MINI35_0.8HF_TexturedPEI_JPPETG+PLAtab.3mf",
+          "member": "3D/Objects/object_1.model",
+          "object_id": "1",
+          "original_name": "KY-FinalBottom_2up_TEST_0.8HF_TexturedPEI_JPPETG.3mf",
+          "source_sha256": "f13c2eacad9e4bed58776b318e01d9bd67871925d809b08e5d1e04df62d705d2"
+        }
+      ]
+    },
+    {
+      "file": "Experimental/Experimental-52.5x67.3x0.3mm-00cffe.stl",
+      "triangles": 64,
+      "dimensions_mm": [
+        52.5,
+        67.30000114440918,
+        0.30000000447034836
+      ],
+      "current_or_wip": false,
+      "geometry_key": "00cffe3c3012392c1738326968e117f3c16a40fb1e91be7cccf2ffbea79799e4",
+      "sha256": "6c4da9567dfb4f88ceb4571fc203bef9d76424ccbbf906f2c648ceb85b981402",
+      "sources": [
+        {
+          "project": "archive/stack-test/KY-FinalBottom_2up_MINI35_0.8HF_TexturedPEI_JPPETG+PLAtab.3mf",
+          "member": "3D/Objects/object_1.model",
+          "object_id": "2",
+          "original_name": "KY-FinalBottom_2up_TEST_0.8HF_TexturedPEI_JPPETG.3mf",
+          "source_sha256": "f13c2eacad9e4bed58776b318e01d9bd67871925d809b08e5d1e04df62d705d2"
+        }
+      ]
+    },
+    {
+      "file": "Experimental/Experimental-25x14x4mm-36a64b.stl",
+      "triangles": 12,
+      "dimensions_mm": [
+        25.0,
+        14.0,
+        4.000000089406967
+      ],
+      "current_or_wip": false,
+      "geometry_key": "36a64b2f1c5a544d70374ad00a8fb3b094f66b7dc03a9a9c4eb7f05b52f0989f",
+      "sha256": "71ddafb5cc233339ab17516828ce82921d1a6609826b817eecabe5552d37ea9e",
+      "sources": [
+        {
+          "project": "archive/stack-test/KY-FinalBottom_2up_TEST_0.8HF_TexturedPEI_JPPETG+PLAtab.3mf",
+          "member": "3D/Objects/object_1.model",
+          "object_id": "1",
+          "original_name": "KY-FinalBottom_2up_TEST_0.8HF_TexturedPEI_JPPETG.3mf",
+          "source_sha256": "0d4b408f22d39a93c5d5ef1220cdc0e4a6e92eaf62140c9416df31e804283a85"
+        }
+      ]
+    },
+    {
+      "file": "Experimental/Experimental-150x173x0.3mm-00a50c.stl",
+      "triangles": 64,
+      "dimensions_mm": [
+        150.0,
+        173.0,
+        0.30000001192092896
+      ],
+      "current_or_wip": false,
+      "geometry_key": "00a50c4b1ef8f5da264914c1f5f48250a926a6d0a5d831eb1eb7f7eb993841cb",
+      "sha256": "b065e122a266c0a4bfd4efb65ef773fbc99fc36890d385ede3990367a986b89f",
+      "sources": [
+        {
+          "project": "archive/stack-test/KY-FinalBottom_2up_TEST_0.8HF_TexturedPEI_JPPETG+PLAtab.3mf",
+          "member": "3D/Objects/object_1.model",
+          "object_id": "2",
+          "original_name": "KY-FinalBottom_2up_TEST_0.8HF_TexturedPEI_JPPETG.3mf",
+          "source_sha256": "0d4b408f22d39a93c5d5ef1220cdc0e4a6e92eaf62140c9416df31e804283a85"
+        }
+      ]
+    },
+    {
+      "file": "Experimental/Experimental-150x158x0.3mm-0383ba.stl",
+      "triangles": 13112,
+      "dimensions_mm": [
+        150.0,
+        158.0,
+        0.30000001192092896
+      ],
+      "current_or_wip": false,
+      "geometry_key": "0383ba39d036cdbbd18e5621428cf5b330b58a06dfe8ab4f8753dc4185decaad",
+      "sha256": "d677178d6b1f048b456c8812f67806e6b57f273a608ff2a7331765098ec8539f",
+      "sources": [
+        {
+          "project": "archive/stack-test/KY-FinalBottom_2up_TEST_0.8HF_TexturedPEI_JPPETG.3mf",
+          "member": "3D/Objects/object_1.model",
+          "object_id": "2",
+          "original_name": "KY-FinalBottom_2up_TEST_0.8HF_TexturedPEI_JPPETG.3mf",
+          "source_sha256": "d51ee628c41b9e25b61c0dc590295d3ee91f8968aeb5e4f7cbc9e2a8780c43cd"
+        },
+        {
+          "project": "archive/stack-test/gap0.3/geom.3mf",
+          "member": "3D/3dmodel.model",
+          "object_id": "2",
+          "original_name": "KY-FinalBottom_P2S_0 - 2up stack 0.30mm gap normal - interstitials 0.30mm - interstitial",
+          "source_sha256": "791543ca9f8df949841d508a848d4283aef0c7d07bbf721a1b4acd0060e368ec"
+        },
+        {
+          "project": "_backups/temp/interstitial-test-2up/gap0.3/KY-FinalBottom_P2S_0 - 2up stack 0.30mm gap normal - interstitials 0.30mm.stl",
+          "member": "STL",
+          "object_id": "",
+          "original_name": "KY-FinalBottom_P2S_0 - 2up stack 0.30mm gap normal - interstitials 0.30mm",
+          "source_sha256": "1cb4e6e11e195062b5eb70b01cc24152c76331141a8d091b379fa365daf17ed9"
+        }
+      ]
+    },
+    {
+      "file": "Experimental/Experimental-20x11x4.1mm-0878a9.stl",
+      "triangles": 32,
+      "dimensions_mm": [
+        20.0,
+        11.0,
+        4.099999904632568
+      ],
+      "current_or_wip": false,
+      "geometry_key": "0878a9bd642bcea9de011d3136961329a3a8f133ccf0d1b99d59d297dc3c45cc",
+      "sha256": "e98f3862289a4ae49f3ed0c949b011d443da1744c3807fc2847244e730971527",
+      "sources": [
+        {
+          "project": "archive/stack-test/KY-FinalBottom_3up_TEST_0.8HF_TexturedPEI_JPPETG+PLAtab.3mf",
+          "member": "3D/Objects/object_1.model",
+          "object_id": "1",
+          "original_name": "KY-FinalBottom_2up_TEST_0.8HF_TexturedPEI_JPPETG.3mf",
+          "source_sha256": "e304c6eea8419c7cdfa2514e900c17ba0403ac662cf9c86ae22949ae63d78f48"
+        }
+      ]
+    },
+    {
+      "file": "Experimental/Experimental-20x11x3.9mm-009fdd.stl",
+      "triangles": 32,
+      "dimensions_mm": [
+        20.0,
+        11.0,
+        3.899999976158142
+      ],
+      "current_or_wip": false,
+      "geometry_key": "009fdd758e95688f623fc4e2278cbd42787d900e2e16f71217dabacbdda7aa16",
+      "sha256": "50e7b38b62065dbd1adbbcf70f4e55979ed39d1070e5c6c0316de165047712f9",
+      "sources": [
+        {
+          "project": "archive/stack-test/KY-FinalBottom_3up_TEST_0.8HF_TexturedPEI_JPPETG+PLAtab.3mf",
+          "member": "3D/Objects/object_1.model",
+          "object_id": "1",
+          "original_name": "KY-FinalBottom_2up_TEST_0.8HF_TexturedPEI_JPPETG.3mf",
+          "source_sha256": "e304c6eea8419c7cdfa2514e900c17ba0403ac662cf9c86ae22949ae63d78f48"
+        }
+      ]
+    },
+    {
+      "file": "Experimental/Experimental-150x158x4.1mm-15967b.stl",
+      "triangles": 13368,
+      "dimensions_mm": [
+        150.0,
+        158.0,
+        4.099999904632568
+      ],
+      "current_or_wip": false,
+      "geometry_key": "15967bad85ec4d5abed2263a22f9a576de15c6b6b05db95d8f15700d57569db7",
+      "sha256": "1c2bc92ea5622c77e605f7de4e465b1a9406f7e02fa27a04ab1effc513ed1211",
+      "sources": [
+        {
+          "project": "archive/stack-test/KY-FinalBottom_3up_TEST_0.8HF_TexturedPEI_JPPETG+PLAtab.3mf",
+          "member": "3D/Objects/object_1.model",
+          "object_id": "1",
+          "original_name": "KY-FinalBottom_2up_TEST_0.8HF_TexturedPEI_JPPETG.3mf",
+          "source_sha256": "e304c6eea8419c7cdfa2514e900c17ba0403ac662cf9c86ae22949ae63d78f48"
+        }
+      ]
+    },
+    {
+      "file": "Experimental/Experimental-150x158x3.9mm-1aaf8d.stl",
+      "triangles": 13368,
+      "dimensions_mm": [
+        150.0,
+        158.0,
+        3.899999976158142
+      ],
+      "current_or_wip": false,
+      "geometry_key": "1aaf8d47e6049e16fafb424648db0a59a13bfcca41a2e4ef59cb3356095a959c",
+      "sha256": "89484ad11936ad169525d3f0cfdda1d776312d99cca8201231149e86796c7227",
+      "sources": [
+        {
+          "project": "archive/stack-test/KY-FinalBottom_3up_TEST_0.8HF_TexturedPEI_JPPETG+PLAtab.3mf",
+          "member": "3D/Objects/object_1.model",
+          "object_id": "1",
+          "original_name": "KY-FinalBottom_2up_TEST_0.8HF_TexturedPEI_JPPETG.3mf",
+          "source_sha256": "e304c6eea8419c7cdfa2514e900c17ba0403ac662cf9c86ae22949ae63d78f48"
+        }
+      ]
+    },
+    {
+      "file": "Experimental/Experimental-150x171x0.3mm-0286b3.stl",
+      "triangles": 256,
+      "dimensions_mm": [
+        150.0,
+        171.0,
+        0.30000007152557373
+      ],
+      "current_or_wip": false,
+      "geometry_key": "0286b331711e05a5be56d04ced07c97d61e47852a70263fd8a5dfb024b7b6ae9",
+      "sha256": "2fb64bcac90970c0a35c03abe9af054fe9af85d4a7f79af44f9ae5c34219ecd2",
+      "sources": [
+        {
+          "project": "archive/stack-test/KY-FinalBottom_3up_TEST_0.8HF_TexturedPEI_JPPETG+PLAtab.3mf",
+          "member": "3D/Objects/object_1.model",
+          "object_id": "2",
+          "original_name": "KY-FinalBottom_2up_TEST_0.8HF_TexturedPEI_JPPETG.3mf",
+          "source_sha256": "e304c6eea8419c7cdfa2514e900c17ba0403ac662cf9c86ae22949ae63d78f48"
+        }
+      ]
+    }
+  ],
+  "unreadable_sources": [],
+  "source_files_scanned": 78,
+  "source_files_read": 78,
+  "deduplication": "Triangle geometry, translation and proper axis rotations, quantized to 0.001 mm; experimental assemblies split by connected mesh shells. Additional vertex and triangle-connectivity comparison within 0.0001 mm removes float-rounding duplicates."
+}

@@ -63,3 +63,7 @@ git add -A && git commit -m "…what changed, tested ✅"
 git tag YYYY-MM-DD && git push && git push --tags
 gh release create YYYY-MM-DD KY/*.3mf JL/*.3mf TC/*.3mf --title "YYYY-MM-DD" --notes-file releases/YYYY-MM-DD.md
 ```
+
+## Single-part STL collection
+
+- 2026-10-09: [`Original STLs/`](Original%20STLs/) contains the six current parts and five archived revisions, with 17 experimental pieces in its `Experimental/` subfolder. Extracted and deduplicated across all 78 source files; provenance and dimensions are recorded inside the folder.

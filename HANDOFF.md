@@ -130,3 +130,10 @@ supported print (quality first, then material), for Kyle to test-print tonight (
 ### 2026-10-06 — TC FunnelBottom: adopted Kyle's clean Studio save
 - Kyle did "save preset to project" + save in Studio (copy in ~/Downloads), which turned it fully grey. Studio re-laid it for the real "Bambu Lab X2D 0.8 nozzle" preset: nozzle_diameter 0.8/0.8 (ours said 0.8/0.4), 4-slot variant arrays (not 6), X2D-0.8 default speeds (top surface 200→150, bridge 50→30, gap infill 250→50, accels), a 30-key preset, and an override list of 23. All print-relevant values are unchanged. Adopted as-is, plus 19 safety keys added back to the override list (JP PETG flow 28, plate 65 °C, shells, line widths, layer limits) → 42.
 - Lesson: Studio's own "save preset to project" output is the reference for a clean, grey file. TC-FinalBottom has the same 0.8/0.4 + 6-slot leftovers and could get the same treatment.
+
+### Codex: collect all single original STL meshes (2026-10-09)
+- **Status:** complete. Kyle explicitly requested all, including archives.
+- **Files changed:** new `Original STLs/` (11 current/archived part STLs, 17 experimental connected-shell STLs in `Experimental/`, README.md, sources.json); root README.md collection link; this entry.
+- **Commands run:** Python ZIP/XML/STL extraction and NumPy geometry deduplication via `/private/tmp/wrg_extract_stls.py`, `/private/tmp/wrg_finish_stls.py`, `/private/tmp/wrg_verify_stls.py`; binary STL round-trip validation; SHA-256 checks of all 78 original input files.
+- **Findings:** all 78 3MF/STL inputs readable (initial Drive timeouts cleared). Six current designs plus five archived revisions; experimental stacks split into single connected shells and deduplicated. Standard and Special Edition names follow verified geometry, not obsolete source labels. Per-file provenance retained in sources.json. Original source files unchanged.
+- **Next / Claude check:** none required for collection. These are recovered mesh exports in millimetres, with source mesh orientation/coordinates; print settings and plate placements are not included. Different triangulations remain separate. No commits or pushes.
