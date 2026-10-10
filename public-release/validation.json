@@ -1,0 +1,131 @@
+{
+  "units": "mm",
+  "conversion": "Faceted solid from STL; coplanar faces merged; no parametric feature history or analytic curve reconstruction.",
+  "parts": [
+    {
+      "part": "motor-stand",
+      "original_stl": "Original STLs/Motorstand.stl",
+      "stl_triangles": 2544,
+      "stl_dimensions_mm": [
+        37.0,
+        37.0,
+        38.0
+      ],
+      "stl_volume_mm3": 9728.104610624549,
+      "step_validation": {
+        "valid": true,
+        "volume_mm3": 9728.104610624481,
+        "dimensions_mm": [
+          37.0000002,
+          37.0000002,
+          38.00000020000047
+        ],
+        "solids": 1
+      },
+      "files": {
+        "stl/motor-stand.stl": "81ee2aa16741a88ab3d7164f81b79ea6c07390b888d3e0120572e4b02ac1dfe8",
+        "step/motor-stand.step": "7be30327209ff58ded54ba06fcc79a5939225981232a4d0f8cfb11207d7c95c4"
+      }
+    },
+    {
+      "part": "bottom-board",
+      "original_stl": "Original STLs/FinalBottom.stl",
+      "stl_triangles": 13112,
+      "stl_dimensions_mm": [
+        150.0,
+        158.0,
+        4.0
+      ],
+      "stl_volume_mm3": 56176.36446658869,
+      "step_validation": {
+        "valid": true,
+        "volume_mm3": 56176.364466593644,
+        "dimensions_mm": [
+          150.0000002,
+          158.0000002000005,
+          4.000000200000732
+        ],
+        "solids": 1
+      },
+      "files": {
+        "stl/bottom-board.stl": "d132ca7a3697543b27bc7cffbf88d70c269961d32b3e032098d3b7bd19f27032",
+        "step/bottom-board.step": "5665b22638fda2c75258198fb0cad9844237e9e585d2c8e30bfcc289e9e7ed73"
+      }
+    },
+    {
+      "part": "funnel-top",
+      "original_stl": "Original STLs/FunnelTop.stl",
+      "stl_triangles": 516,
+      "stl_dimensions_mm": [
+        225.0,
+        70.0,
+        2.0
+      ],
+      "stl_volume_mm3": 12826.569567200087,
+      "step_validation": {
+        "valid": true,
+        "volume_mm3": 12826.569567197577,
+        "dimensions_mm": [
+          225.0000002,
+          70.00000020000053,
+          2.0000002
+        ],
+        "solids": 1
+      },
+      "files": {
+        "stl/funnel-top.stl": "31aebcb12245fa08844b6b7ef616ff012a1833d218f11eeb4b61f87fea82f116",
+        "step/funnel-top.step": "8963ec60acd8f82affe278bc0cfaf5ec24ad1a338e067976a38bca5bdd08044e"
+      }
+    },
+    {
+      "part": "funnel-bottom",
+      "original_stl": "Original STLs/FunnelBottom.stl",
+      "stl_triangles": 1368,
+      "stl_dimensions_mm": [
+        225.0,
+        85.69999694824219,
+        2.0
+      ],
+      "stl_volume_mm3": 10790.160856252143,
+      "step_validation": {
+        "valid": true,
+        "volume_mm3": 10790.160856260116,
+        "dimensions_mm": [
+          225.0000002,
+          85.69999714824223,
+          2.0000002
+        ],
+        "solids": 1
+      },
+      "files": {
+        "stl/funnel-bottom.stl": "ff3ffb778b03eb694fc30bb8b29fee4234d46f2ac17249fc48ae551140dad8f4",
+        "step/funnel-bottom.step": "f1f756ca37991f1e8c514f92171e4b70f4fd26b26d0835298f8e07259b856a78"
+      }
+    },
+    {
+      "part": "battery-box-standard",
+      "original_stl": "Original STLs/BatTop-Standard.stl",
+      "stl_triangles": 2600,
+      "stl_dimensions_mm": [
+        64.0,
+        115.0,
+        34.0
+      ],
+      "stl_volume_mm3": 18034.64677864221,
+      "step_validation": {
+        "valid": true,
+        "volume_mm3": 18034.646778643822,
+        "dimensions_mm": [
+          64.00000020000056,
+          115.0000002,
+          34.00000020000041
+        ],
+        "solids": 1
+      },
+      "files": {
+        "stl/battery-box-standard.stl": "d70bc7970d85cc59bc5a9465f2f141b7ce73450382a051a6c71882fb4b138fc4",
+        "step/battery-box-standard.step": "40d0bd83699cfe89835422417cc9e39eab46bdc95ab35674e5c96f1dd798b986"
+      }
+    }
+  ]
+}

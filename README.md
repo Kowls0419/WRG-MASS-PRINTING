@@ -1,10 +1,20 @@
 # WRG Mass Printing — Bambu Studio print files
 
-Tested print files for the WRG robotics team. **Kyle tests every file before it lands in a person's folder.**
+Working print files and public model releases for the WRG robotics team. Check each file’s status below.
+
+WRG 機器人團隊的列印工作檔案與公開模型發佈；請參閱下方各檔案的狀態。
+
+## 2026 WRG KCIS-XG Public Release
+
+[Download the special public release](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/tag/2026-wrg-kcis-xg-public) · [Models and documentation](public-release/) · [Custom .3mf print configurations](public-release/print-configs/)
+
+MIT-licensed motor stand, bottom board, funnel top, funnel bottom, and standard battery box. Includes single-part STL and converted STEP files. This is a fixed public snapshot; working print projects below continue to evolve.
+
+採用 MIT 授權公開馬達支架、底板、漏斗上片、漏斗下片與標準版電池盒，包含單一零件 STL 與轉換後的 STEP。本次公開發佈為固定快照；下方的列印工作專案仍持續更新。
 
 ## ⬇️ How to get your files
 
-- **Easiest:** go to **[Releases → Latest](../../releases/latest)** and download your `.3mf` from *Assets*. Each release is a tested batch with notes on what changed.
+- **Easiest:** go to **[Releases → Latest](../../releases/latest)** and download your `.3mf` from *Assets*. The special public release includes the complete ZIP; working-release notes describe their own file status.
 - **Always-newest single file:** open your folder below → click the file → **Download raw file** (↓ icon).
 - **What changed:** open a file → **History**.
 

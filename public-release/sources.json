@@ -1,0 +1,69 @@
+{
+  "release_title": "2026 WRG KCIS-XG Public Release",
+  "snapshot_date": "2026-10-10",
+  "license": "MIT",
+  "primary_geometry_sources": {
+    "motor-stand": {
+      "source": "JL/JL-motorstand_P2S_0.4SF_TexturedPEI_BambuPETG.3mf",
+      "sha256": "225edd9a48faa49bb6258f0ba0cccfd416a3ab149b47f989f669c8673772d991"
+    },
+    "bottom-board": {
+      "source": "KY/KY-FinalBottom_P2S_0.8HF_TexturedPEI_JPPETG.3mf",
+      "sha256": "085ef218b1f41ab18ab7d7abfeffb2226200965dc7dcf6dc35d13b4d04eadd2d"
+    },
+    "funnel-top": {
+      "source": "JL/JL-FunnelTop_P2S_0.6HF_TexturedPEI_JPPETG.3mf",
+      "sha256": "b206b881c137b464db4c6809592bff0997b65439ad38dc7040c380ea2c63143a"
+    },
+    "funnel-bottom": {
+      "source": "KY/KY-FunnelBottom_P2S_0.8HF_TexturedPEI_JPPETG.3mf",
+      "sha256": "fe70a6ab0524831cde7466d32b772921216add12e7eea7c1b2f969cf4db8b270"
+    },
+    "battery-box-standard": {
+      "source": "KY/KY-BatTop-Standard_P2S_0.8HF_TexturedPEI_JPPETG.3mf",
+      "sha256": "3e5aad788b8e8be547b1ba5e4966402dc2ebcfea9c54ebc12203b96b64ebdc29"
+    }
+  },
+  "print_configs": [
+    {
+      "source": "KY/KY-BatTop-Standard_P2S_0.8HF_TexturedPEI_JPPETG.3mf",
+      "file": "print-configs/KY-BatTop-Standard_P2S_0.8HF_TexturedPEI_JPPETG.3mf",
+      "sha256": "3e5aad788b8e8be547b1ba5e4966402dc2ebcfea9c54ebc12203b96b64ebdc29"
+    },
+    {
+      "source": "KY/KY-FinalBottom_P2S_0.8HF_TexturedPEI_JPPETG.3mf",
+      "file": "print-configs/KY-FinalBottom_P2S_0.8HF_TexturedPEI_JPPETG.3mf",
+      "sha256": "085ef218b1f41ab18ab7d7abfeffb2226200965dc7dcf6dc35d13b4d04eadd2d"
+    },
+    {
+      "source": "KY/KY-FunnelBottom_P2S_0.8HF_TexturedPEI_JPPETG.3mf",
+      "file": "print-configs/KY-FunnelBottom_P2S_0.8HF_TexturedPEI_JPPETG.3mf",
+      "sha256": "fe70a6ab0524831cde7466d32b772921216add12e7eea7c1b2f969cf4db8b270"
+    },
+    {
+      "source": "KY/KY-FunnelTop_P2S_0.8HF_TexturedPEI_JPPETG.3mf",
+      "file": "print-configs/KY-FunnelTop_P2S_0.8HF_TexturedPEI_JPPETG.3mf",
+      "sha256": "627ce0777776b2808b70c4cc09328d743704385926767aa5961cf65cfcd8b467"
+    },
+    {
+      "source": "JL/JL-FunnelTop_P2S_0.6HF_TexturedPEI_JPPETG.3mf",
+      "file": "print-configs/JL-FunnelTop_P2S_0.6HF_TexturedPEI_JPPETG.3mf",
+      "sha256": "b206b881c137b464db4c6809592bff0997b65439ad38dc7040c380ea2c63143a"
+    },
+    {
+      "source": "JL/JL-motorstand_P2S_0.4SF_TexturedPEI_BambuPETG.3mf",
+      "file": "print-configs/JL-motorstand_P2S_0.4SF_TexturedPEI_BambuPETG.3mf",
+      "sha256": "225edd9a48faa49bb6258f0ba0cccfd416a3ab149b47f989f669c8673772d991"
+    },
+    {
+      "source": "TC/TC-FinalBottom_X2D_0.8HF_TexturedPEI_JPPETG.3mf",
+      "file": "print-configs/TC-FinalBottom_X2D_0.8HF_TexturedPEI_JPPETG.3mf",
+      "sha256": "92a3a2f1fab5db17efc1e44194ab8e01660b46e5beaeabef1b2b65095215dbfe"
+    },
+    {
+      "source": "TC/TC-FunnelBottom_X2D_0.8HF_TexturedPEI_JPPETG.3mf",
+      "file": "print-configs/TC-FunnelBottom_X2D_0.8HF_TexturedPEI_JPPETG.3mf",
+      "sha256": "5fdba9983485decfe03056771073c9aad3c562722c2cf3838fd9db7e5a7149f1"
+    }
+  ]
+}
