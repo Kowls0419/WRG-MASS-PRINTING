@@ -14,19 +14,23 @@ A special MIT-licensed public snapshot of five current WRG KCIS-XG designs. Ongo
 
 ## Part previews / 零件預覽
 
-| Part / 零件 | Preview / 預覽 |
-|---|---|
-| Motor stand / 馬達支架 | <img src="https://raw.githubusercontent.com/Kowls0419/WRG-MASS-PRINTING/cc1caf83aa85e0da277058c230468d120e8f5f8e/public-release/previews/motor-stand.png" alt="Motor stand / 馬達支架" width="320"> |
-| Bottom board / 底板 | <img src="https://raw.githubusercontent.com/Kowls0419/WRG-MASS-PRINTING/cc1caf83aa85e0da277058c230468d120e8f5f8e/public-release/previews/bottom-board.png" alt="Bottom board / 底板" width="320"> |
-| Ball intake top / 吃求口（之後提供）—上片 | <img src="https://raw.githubusercontent.com/Kowls0419/WRG-MASS-PRINTING/cc1caf83aa85e0da277058c230468d120e8f5f8e/public-release/previews/funnel-top.png" alt="Ball intake top / 吃求口（之後提供）—上片" width="320"> |
-| Ball intake bottom / 吃求口（之後提供）—下片 | <img src="https://raw.githubusercontent.com/Kowls0419/WRG-MASS-PRINTING/cc1caf83aa85e0da277058c230468d120e8f5f8e/public-release/previews/funnel-bottom.png" alt="Ball intake bottom / 吃求口（之後提供）—下片" width="320"> |
-| Standard battery box / 電池匣 | <img src="https://raw.githubusercontent.com/Kowls0419/WRG-MASS-PRINTING/cc1caf83aa85e0da277058c230468d120e8f5f8e/public-release/previews/battery-box-standard.png" alt="Standard battery box / 電池匣" width="320"> |
+| Part / 零件 | Preview / 預覽 | STL | STEP |
+|---|---|---|---|
+| Motor stand / 馬達支架 | <img src="https://raw.githubusercontent.com/Kowls0419/WRG-MASS-PRINTING/cc1caf83aa85e0da277058c230468d120e8f5f8e/public-release/previews/motor-stand.png" alt="Motor stand / 馬達支架" width="320"> | [STL](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/download/2026-wrg-kcis-xg-public/motor-stand.stl) | [STEP](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/download/2026-wrg-kcis-xg-public/motor-stand.step) |
+| Bottom board / 底板 | <img src="https://raw.githubusercontent.com/Kowls0419/WRG-MASS-PRINTING/cc1caf83aa85e0da277058c230468d120e8f5f8e/public-release/previews/bottom-board.png" alt="Bottom board / 底板" width="320"> | [STL](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/download/2026-wrg-kcis-xg-public/bottom-board.stl) | [STEP](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/download/2026-wrg-kcis-xg-public/bottom-board.step) |
+| Ball intake top / 吃求口（之後提供）—上片 | <img src="https://raw.githubusercontent.com/Kowls0419/WRG-MASS-PRINTING/cc1caf83aa85e0da277058c230468d120e8f5f8e/public-release/previews/funnel-top.png" alt="Ball intake top / 吃求口（之後提供）—上片" width="320"> | [STL](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/download/2026-wrg-kcis-xg-public/funnel-top.stl) | [STEP](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/download/2026-wrg-kcis-xg-public/funnel-top.step) |
+| Ball intake bottom / 吃求口（之後提供）—下片 | <img src="https://raw.githubusercontent.com/Kowls0419/WRG-MASS-PRINTING/cc1caf83aa85e0da277058c230468d120e8f5f8e/public-release/previews/funnel-bottom.png" alt="Ball intake bottom / 吃求口（之後提供）—下片" width="320"> | [STL](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/download/2026-wrg-kcis-xg-public/funnel-bottom.stl) | [STEP](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/download/2026-wrg-kcis-xg-public/funnel-bottom.step) |
+| Standard battery box / 電池匣 | <img src="https://raw.githubusercontent.com/Kowls0419/WRG-MASS-PRINTING/cc1caf83aa85e0da277058c230468d120e8f5f8e/public-release/previews/battery-box-standard.png" alt="Standard battery box / 電池匣" width="320"> | [STL](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/download/2026-wrg-kcis-xg-public/battery-box-standard.stl) | [STEP](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/download/2026-wrg-kcis-xg-public/battery-box-standard.step) |
 
 ## Downloads / 下載
 
-**Download one ZIP for all STL and STEP models, all eight custom `.3mf` print configurations, and documentation.**
+Download individual **STL** or **STEP** files from Assets below, or download the complete ZIP for everything.
 
-**下載一個 ZIP，即可取得所有 STL、STEP 模型、八個自訂 `.3mf` 列印設定檔與說明文件。**
+您可從下方 Assets 下載個別 **STL** 或 **STEP** 檔案，或下載完整 ZIP 取得全部內容。
+
+**All eight custom `.3mf` print configurations are inside the ZIP, in the `print-configs/` folder.**
+
+**八個自訂 `.3mf` 列印設定檔均位於 ZIP 壓縮檔內的 `print-configs/` 資料夾。**
 
 - `2026-WRG-KCIS-XG-Public-Release.zip` — complete package: five STL files, five STEP files, eight custom .3mf configurations, named part previews, English/Traditional Chinese documentation and MIT license.
 

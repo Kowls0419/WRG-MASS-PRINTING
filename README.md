@@ -12,9 +12,9 @@ MIT-licensed motor stand, bottom board, ball intake top, ball intake bottom, and
 
 採用 MIT 授權公開馬達支架、底板、吃求口（之後提供）的上片與下片與電池匣，包含單一零件 STL 與 **STL → STEP 轉換檔案**。本次公開發佈為固定快照；下方的列印工作專案仍持續更新。
 
-**The complete ZIP includes all eight custom `.3mf` print configurations.**
+**All eight custom `.3mf` print configurations are inside the ZIP, in the `print-configs/` folder.**
 
-**完整 ZIP 壓縮檔內含八個自訂 `.3mf` 列印設定檔。**
+**八個自訂 `.3mf` 列印設定檔均位於 ZIP 壓縮檔內的 `print-configs/` 資料夾。**
 
 ### Part previews / 零件預覽
 

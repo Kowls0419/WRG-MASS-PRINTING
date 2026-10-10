@@ -1,9 +1,9 @@
 # Custom Bambu Studio print configurations
 # Bambu Studio 自訂列印設定
 
-**The complete ZIP includes all eight custom `.3mf` print configurations.**
+**All eight custom `.3mf` print configurations are inside the ZIP, in the `print-configs/` folder.**
 
-**完整 ZIP 壓縮檔內含八個自訂 `.3mf` 列印設定檔。**
+**八個自訂 `.3mf` 列印設定檔均位於 ZIP 壓縮檔內的 `print-configs/` 資料夾。**
 
 These are frozen copies of the team's custom projects for this public release. The projects contain plate layouts and printer, nozzle, filament, and process settings. Pick the file that matches your hardware and filament; review the slice before printing. Geometry selection does not imply every printer/material profile has completed a separate test print.
 

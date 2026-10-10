@@ -28,9 +28,9 @@ The standard battery box is the 115 mm version, called “BatTop Standard” in 
 
 ## Custom print configurations / 自訂列印設定
 
-**The complete ZIP includes all eight custom `.3mf` print configurations.**
+**All eight custom `.3mf` print configurations are inside the ZIP, in the `print-configs/` folder.**
 
-**完整 ZIP 壓縮檔內含八個自訂 `.3mf` 列印設定檔。**
+**八個自訂 `.3mf` 列印設定檔均位於 ZIP 壓縮檔內的 `print-configs/` 資料夾。**
 
 [Open the custom .3mf folder](print-configs/) for Bambu Studio plate layouts and printer/material settings. These are separate from the single-part model files. Use the configuration matching your printer, nozzle, plate, and filament.
 
@@ -47,6 +47,10 @@ Conversion tooling: [OpenCascade topology documentation](https://dev.opencascade
 轉換工具參考：[OpenCascade 拓撲文件](https://dev.opencascade.org/sites/default/files/pdf/Topology.pdf)。
 
 ## Download and reuse / 下載與使用
+
+Individual STL and STEP files are also available as release assets.
+
+發佈附件亦提供個別 STL 與 STEP 檔案下載。
 
 Download the complete ZIP from [2026 WRG KCIS-XG Public Release](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/tag/2026-wrg-kcis-xg-public). The complete archive includes both model formats, custom print projects, named part previews, documentation, and the MIT license.
 
