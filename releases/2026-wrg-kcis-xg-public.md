@@ -12,6 +12,16 @@ A special MIT-licensed public snapshot of five current WRG KCIS-XG designs. Ongo
 - Ball intake bottom / 吃求口（之後提供）—下片 — 225 × 85.7 × 2 mm
 - Standard battery box / 電池匣 — 64 × 115 × 34 mm
 
+## Part previews / 零件預覽
+
+| Part / 零件 | Preview / 預覽 |
+|---|---|
+| Motor stand / 馬達支架 | <img src="https://raw.githubusercontent.com/Kowls0419/WRG-MASS-PRINTING/cc1caf83aa85e0da277058c230468d120e8f5f8e/public-release/previews/motor-stand.png" alt="Motor stand / 馬達支架" width="320"> |
+| Bottom board / 底板 | <img src="https://raw.githubusercontent.com/Kowls0419/WRG-MASS-PRINTING/cc1caf83aa85e0da277058c230468d120e8f5f8e/public-release/previews/bottom-board.png" alt="Bottom board / 底板" width="320"> |
+| Ball intake top / 吃求口（之後提供）—上片 | <img src="https://raw.githubusercontent.com/Kowls0419/WRG-MASS-PRINTING/cc1caf83aa85e0da277058c230468d120e8f5f8e/public-release/previews/funnel-top.png" alt="Ball intake top / 吃求口（之後提供）—上片" width="320"> |
+| Ball intake bottom / 吃求口（之後提供）—下片 | <img src="https://raw.githubusercontent.com/Kowls0419/WRG-MASS-PRINTING/cc1caf83aa85e0da277058c230468d120e8f5f8e/public-release/previews/funnel-bottom.png" alt="Ball intake bottom / 吃求口（之後提供）—下片" width="320"> |
+| Standard battery box / 電池匣 | <img src="https://raw.githubusercontent.com/Kowls0419/WRG-MASS-PRINTING/cc1caf83aa85e0da277058c230468d120e8f5f8e/public-release/previews/battery-box-standard.png" alt="Standard battery box / 電池匣" width="320"> |
+
 ## Downloads / 下載
 
 **Download one ZIP for all STL and STEP models, all eight custom `.3mf` print configurations, and documentation.**

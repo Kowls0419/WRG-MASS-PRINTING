@@ -162,3 +162,10 @@ supported print (quality first, then material), for Kyle to test-print tonight (
 - **Done:** replaced ZIP and release notes; removed all 11 separate model/checksum assets.
 - **Done:** rendered five actual-STL previews with Matplotlib, visually reviewed a contact sheet, added bilingual named image rows to root/public README, and published the updated ZIP and notes. Kyle’s README edit remains intact.
 - **Next:** none.
+
+### Codex: show part previews on release page (2026-10-10)
+- **Status:** complete.
+- **Files changed:** releases/2026-wrg-kcis-xg-public.md; this entry.
+- **Changes:** five bilingual named preview rows added directly to release notes. Image URLs use raw GitHub files pinned to the existing image commit, so they render on the release page.
+- **Commands:** Python notes edit; scoped git commit/push; gh release edit.
+- **Next:** none.
