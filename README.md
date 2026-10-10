@@ -8,9 +8,13 @@ WRG 機器人團隊的列印工作檔案與公開模型發佈；請參閱下方�
 
 [Download the special public release](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/tag/2026-wrg-kcis-xg-public) · [Models and documentation](public-release/) · [Custom .3mf print configurations](public-release/print-configs/)
 
-MIT-licensed motor stand, bottom board, funnel top, funnel bottom, and standard battery box. Includes single-part STL and converted STEP files. This is a fixed public snapshot; working print projects below continue to evolve.
+MIT-licensed motor stand, bottom board, ball intake top, ball intake bottom, and standard battery box. Includes single-part STL files and **STL → STEP conversions**. This is a fixed public snapshot; working print projects below continue to evolve.
 
-採用 MIT 授權公開馬達支架、底板、漏斗上片、漏斗下片與標準版電池盒，包含單一零件 STL 與轉換後的 STEP。本次公開發佈為固定快照；下方的列印工作專案仍持續更新。
+採用 MIT 授權公開馬達支架、底板、吃求口（之後提供）的上片與下片與電池匣，包含單一零件 STL 與 **STL → STEP 轉換檔案**。本次公開發佈為固定快照；下方的列印工作專案仍持續更新。
+
+**The complete ZIP includes all eight custom `.3mf` print configurations.**
+
+**完整 ZIP 壓縮檔內含八個自訂 `.3mf` 列印設定檔。**
 
 ## ⬇️ How to get your files
 

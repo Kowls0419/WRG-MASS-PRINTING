@@ -146,3 +146,10 @@ supported print (quality first, then material), for Kyle to test-print tonight (
 - **Status / Next:** COMPLETE. Release commit `be2b555` pushed to main; GitHub repository is PUBLIC and recognizes MIT. Published tag `2026-wrg-kcis-xg-public` with title `2026 WRG KCIS-XG Public Release`, marked Latest, 12 uploaded assets (complete ZIP, 5 STL, 5 STEP, checksum list). Anonymous public ZIP download verified byte-for-byte against the local archive; ZIP CRC passes. No further work required.
 - **Published URL:** https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/tag/2026-wrg-kcis-xg-public
 - **Gotchas:** STEP is a faceted mesh-derived solid, not recovered parametric CAD. WIP, Special Edition and experimental parts excluded from the five-design public snapshot. Current geometry selection does not certify every printer/material preset was individually test-printed. No ongoing print-file reorganization or settings edits are needed.
+
+### Codex: public release wording corrections (2026-10-10)
+- **Status:** complete. Corrected release notes and replacement ZIP/checksums published; documentation synced to main.
+- **Files changed:** README.md public introduction; public-release/README.md; public-release/print-configs/README.md; releases/2026-wrg-kcis-xg-public.md; ignored release ZIP/checksums; this entry.
+- **Changes:** use Kyle’s exact wording 吃求口 with （之後提供） for the intake parts and 電池匣 for the battery box; English names use ball intake. Removed public verification discussion and highlighted STL → STEP conversion in bold. Added bold English/Traditional Chinese text that all eight custom .3mf configurations are included in the ZIP. Public release guide links point to corrected main documentation. Model and print-config files unchanged.
+- **Commands:** Python documentation replacements / ZIP rebuild; scoped git commit/push; gh release edit and asset upload.
+- **Next:** none.
