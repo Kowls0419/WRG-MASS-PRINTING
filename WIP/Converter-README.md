@@ -6,9 +6,9 @@ Adapter for mounting the ESP to the top of the battery box (電池匣), using Ky
 
 ## KY: print one first / KY：先試印一片
 
-**[KY one-copy TEST1](KY-Converter-TEST1_P2S_0.8HF_TexturedPEI_JPPETG.3mf)** — P2S, 0.8 HF, black JP PETG; estimated **21 min / 10.4 g**.
+**[KY one-copy TEST1](KY-Converter-TEST1_P2S_0.8HF_TexturedPEI_JPPETG.3mf)** — P2S, 0.8 HF, black JP PETG; estimated **21 min / 11.1 g**.
 
-**[KY 單片 TEST1](KY-Converter-TEST1_P2S_0.8HF_TexturedPEI_JPPETG.3mf)**：P2S、0.8 HF、黑色 JP PETG；預估 **21 分鐘／10.4 g**。
+**[KY 單片 TEST1](KY-Converter-TEST1_P2S_0.8HF_TexturedPEI_JPPETG.3mf)**：P2S、0.8 HF、黑色 JP PETG；預估 **21 分鐘／11.1 g**。
 
 [TC five-copy TEST5](TC-Converter-TEST5_X2D_0.8HF_TexturedPEI_JPPETG.3mf) is available for the X2D; estimated 1 h 6 min / 52 g.
 
@@ -22,7 +22,7 @@ Check that the ESP mounting holes and battery-box mounting holes line up, the sc
 
 | File / 檔案 | Copies / 數量 | Estimate / 預估 |
 |---|---|---|
-| [KY mass draft — P2S 0.8 HF](KY-Converter-MASS-DRAFT_P2S_0.8HF_TexturedPEI_JPPETG.3mf) | 9 | 2 h 10 min / 94 g |
+| [KY mass draft — P2S 0.8 HF](KY-Converter-MASS-DRAFT_P2S_0.8HF_TexturedPEI_JPPETG.3mf) | 9 | 2 h 11 min / 99.5 g |
 | [TC mass draft — X2D 0.8 HF](TC-Converter-MASS-DRAFT_X2D_0.8HF_TexturedPEI_JPPETG.3mf) | 9 | 1 h 55 min / 94 g |
 
 These drafts remain in WIP. After the fit test passes, promote the corresponding mass-production files into KY/TC and publish them in a working print release. The existing special public release is a separate snapshot.
@@ -36,13 +36,13 @@ KY 的首次試印出現填充紋路與表面小孔，因此保留輕量的 7% �
 ## Print setup / 列印設定
 
 - Flat on Textured PEI at 65°C; black JP PETG. Each printer retains its own hardware settings, temperatures, flow limit, and extruder mapping.
-- 0.3 mm layers, 0.2 mm first layer, 3 walls; **3 top shells and 1 bottom shell**, with **7% gyroid infill**.
+- 0.3 mm layers, first layer **KY 0.3 mm / TC 0.2 mm**, 3 walls; **3 top shells and 1 bottom shell**, with **7% gyroid infill**.
 - Outer walls 80 mm/s with acceleration 1000 mm/s²; top surface **40 mm/s for KY**, 80 mm/s for TC. No supports, brim, or prime tower.
 - KY’s one-copy test is centered on the bed. TC’s five-copy test uses two centered rows (3 + 2), with 3 mm gaps, printed by layer.
 - Nine-copy plates use a rotated 3×3 grid with 3 mm gaps, printed by layer.
 
 - 平放於 65°C 的紋理 PEI 列印板，使用黑色 JP PETG；各印表機保留自身的硬體、溫度、流量上限與擠出機對應設定。
-- 層高 0.3 mm、首層 0.2 mm、3 道牆；**頂部 3 層、底部 1 層**，搭配 **7% Gyroid 填充**。
+- 層高 0.3 mm、首層 **KY 0.3 mm／TC 0.2 mm**、3 道牆；**頂部 3 層、底部 1 層**，搭配 **7% Gyroid 填充**。
 - 外牆速度 80 mm/s、加速度 1000 mm/s²；頂面速度 **KY 40 mm/s／TC 80 mm/s**。不使用支撐、brim 或擦拭塔。
 - KY 單片試印置於列印板中央。TC 五片試印採置中的兩排配置（3 + 2），間距 3 mm，逐層列印。
 - 九片滿盤採旋轉的 3×3 配置，間距 3 mm，逐層列印。
