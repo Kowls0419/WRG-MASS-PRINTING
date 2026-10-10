@@ -183,3 +183,10 @@ supported print (quality first, then material), for Kyle to test-print tonight (
 - **Changes:** preview table retains names/images; individual STL/STEP links moved into a separate table at the bottom of the release notes.
 - **Commands:** Python notes edit; gh release edit; scoped git commit/push.
 - **Next:** none.
+
+### Codex: move previews with download table (2026-10-10)
+- **Status:** complete.
+- **Files changed:** releases/2026-wrg-kcis-xg-public.md; this entry.
+- **Changes:** all five named previews and STL/STEP download links now share one table at the bottom of the release page.
+- **Commands:** Python notes edit; gh release edit; scoped git commit/push.
+- **Next:** none.
