@@ -18,16 +18,16 @@ Check that the ESP mounting holes and battery-box mounting holes line up, the sc
 
 請確認 ESP 與電池匣的安裝孔位對齊、螺絲可安裝，且轉接板可平整貼合。確認尺寸合適後，再使用量產草稿。
 
-## Full plates — WIP drafts / 滿盤配置—WIP 草稿
+## Full plates / 滿盤配置
 
 | File / 檔案 | Copies / 數量 | Estimate / 預估 |
 |---|---|---|
 | [KY mass draft — P2S 0.8 HF](KY-Converter-MASS-DRAFT_P2S_0.8HF_TexturedPEI_JPPETG.3mf) | 9 | 2 h 11 min / 99.5 g |
-| [TC mass draft — X2D 0.8 HF](TC-Converter-MASS-DRAFT_X2D_0.8HF_TexturedPEI_JPPETG.3mf) | 9 | 1 h 55 min / 94 g |
+| [TC released full plate — X2D 0.8 HF](../TC/TC-Converter_X2D_0.8HF_TexturedPEI_JPPETG.3mf) | 9 | 1 h 55 min / 94 g |
 
-These drafts remain in WIP. After the fit test passes, promote the corresponding mass-production files into KY/TC and publish them in a working print release. The existing special public release is a separate snapshot.
+TC’s nine-copy plate is now in TC/ and attached to the newest release, with the original 0.2 mm first layer / 0.3 mm layers and original speeds. KY’s mass draft remains in WIP until the surface retest passes.
 
-這些檔案暫留 WIP。尺寸試印通過後，再將對應的量產檔案移至 KY／TC，並另行發佈列印工作版本。既有的特別公開發佈仍為獨立快照。
+TC 九片滿盤已移至 TC/ 並附於最新發佈，保留首層 0.2 mm／層高 0.3 mm 與原始速度。KY 量產草稿仍留於 WIP，等待表面試印結果。
 
 KY’s revised settings keep lightweight 7% infill and slow the final surface after the first print showed infill texture and small gaps. Retest the KY one-piece plate before mass printing.
 

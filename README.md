@@ -12,9 +12,9 @@ MIT-licensed motor stand, bottom board, ball intake top, ball intake bottom, and
 
 採用 MIT 授權公開馬達支架、底板、吃求口（之後提供）的上片與下片與電池匣，包含單一零件 STL 與 **STL → STEP 轉換檔案**。本次公開發佈為固定快照；下方的列印工作專案仍持續更新。
 
-**All eight custom `.3mf` print configurations are inside the ZIP, in the `print-configs/` folder.**
+**The original eight custom `.3mf` configurations are inside the ZIP, in `print-configs/`. The added TC adapter full plate is a separate `.3mf` release asset.**
 
-**八個自訂 `.3mf` 列印設定檔均位於 ZIP 壓縮檔內的 `print-configs/` 資料夾。**
+**原始八個自訂 `.3mf` 位於 ZIP 內的 `print-configs/`；新增的 TC 轉接板滿盤檔案為獨立 `.3mf` 發佈附件。**
 
 ### Part previews / 零件預覽
 
@@ -34,19 +34,28 @@ MIT-licensed motor stand, bottom board, ball intake top, ball intake bottom, and
 
 Open the `.3mf` in Bambu Studio, check the plate/filament match your printer, slice, and print. **Slice and send without saving** — saving in Studio wipes the file's list of overridden settings.
 
+## Current printing assignments
+
+| Printer owner | Part | File |
+|---|---|---|
+| JL | Funnel top | [JL-FunnelTop](JL/JL-FunnelTop_P2S_0.6HF_TexturedPEI_JPPETG.3mf) |
+| KY | Funnel bottom | [KY-FunnelBottom](KY/KY-FunnelBottom_P2S_0.8HF_TexturedPEI_JPPETG.3mf) |
+| TC | Converter / ESP adapter | [TC-Converter](TC/TC-Converter_X2D_0.8HF_TexturedPEI_JPPETG.3mf) — 9 copies, first layer 0.2 mm / layers 0.3 mm, original speeds |
+
 ## KY (Kyle)
 
 | File | Printer / nozzle | Filament | Plate | Layer / walls / shells / infill | Max flow | Copies | Status |
 |---|---|---|---|---|---|---|---|
 | [`KY-FinalBottom_P2S_0.8HF_TexturedPEI_JPPETG.3mf`](KY/KY-FinalBottom_P2S_0.8HF_TexturedPEI_JPPETG.3mf) | P2S 0.8 HF | JP PETG | Textured PEI 65°C | 0.3 / 3 / 3-3 / 7% | 28 | 1 | ✅ mass printing — flow 28 not yet test-printed |
 | [`KY-BatTop-Standard_P2S_0.8HF_TexturedPEI_JPPETG.3mf`](KY/KY-BatTop-Standard_P2S_0.8HF_TexturedPEI_JPPETG.3mf) | P2S 0.8 HF | JP PETG | Textured PEI 70°C | adaptive 0.16–0.56 / 3 / 2-2 / 7% | 28 | 12 | ✅ mass printing (60 needed = 5 plates) — **verified Standard mesh**, standing on end, settings from TEST3: Tree Slim (top Z 0.3 / XY 0.4), anti-sway speeds, seam fix, auto brim 5 mm. ✅ **12-copy plate test-printed successfully (2026-10-04)** |
+| [`KY-FunnelBottom_P2S_0.8HF_TexturedPEI_JPPETG.3mf`](KY/KY-FunnelBottom_P2S_0.8HF_TexturedPEI_JPPETG.3mf) | P2S 0.8 HF | JP PETG Grey | Textured PEI 65°C | 0.3 / 3 / 3-3 / 7% | 28 | 4 | ▶️ currently printing — funnel bottom, 4 per plate, grey JP PETG |
 
 ## JL (Justin)
 
 | File | Printer / nozzle | Filament | Plate | Layer / walls / shells / infill | Max flow | Copies | Status |
 |---|---|---|---|---|---|---|---|
 | [`JL-motorstand_P2S_0.4SF_TexturedPEI_BambuPETG.3mf`](JL/JL-motorstand_P2S_0.4SF_TexturedPEI_BambuPETG.3mf) | P2S 0.4 SF | Bambu PETG Basic Black | Textured PEI 70°C | 0.2 / 6 / 5-5 / 20% | 15 | 36 | ✅ ready — official Bambu PETG Basic 0.4 filament profile; converted from the 0.6 HF motorstand (same wall/shell thickness), 383 g / ~12 h 27 m, not yet test-printed at 0.4mm |
-| [`JL-FunnelTop_P2S_0.6HF_TexturedPEI_JPPETG.3mf`](JL/JL-FunnelTop_P2S_0.6HF_TexturedPEI_JPPETG.3mf) | P2S 0.6 HF | JP PETG Black | Textured PEI 65°C | 0.3 / 4 / 3-3 / 7% | 28 | 4 | ⚠️ **released before test print** — **4v4 Funnel – Top** (1 per bot, 53 needed = 14 plates). 225 × 70 × 2 mm, flat, no supports, no brim. FinalBottom settings ported to 0.6 HF (4 walls ≈ 2.48 mm). ~1 h 24 m, 62 g per plate. test print 2026-10-05 |
+| [`JL-FunnelTop_P2S_0.6HF_TexturedPEI_JPPETG.3mf`](JL/JL-FunnelTop_P2S_0.6HF_TexturedPEI_JPPETG.3mf) | P2S 0.6 HF | JP PETG Black | Textured PEI 65°C | 0.3 / 4 / 3-3 / 7% | 28 | 4 | ▶️ currently printing — funnel top, 4 per plate, black JP PETG |
 
 ## TC (Terry)
 
@@ -54,6 +63,7 @@ Open the `.3mf` in Bambu Studio, check the plate/filament match your printer, sl
 |---|---|---|---|---|---|---|---|
 | [`TC-FinalBottom_X2D_0.8HF_TexturedPEI_JPPETG.3mf`](TC/TC-FinalBottom_X2D_0.8HF_TexturedPEI_JPPETG.3mf) | X2D 0.8 HF | JP PETG | Textured PEI 65°C | 0.3 / 3 / 3-3 / 7% | 28 | 1 | ✅ ready — X2D 0.8HF printer preset unverified |
 | [`TC-FunnelBottom_X2D_0.8HF_TexturedPEI_JPPETG.3mf`](TC/TC-FunnelBottom_X2D_0.8HF_TexturedPEI_JPPETG.3mf) | X2D 0.8 HF | JP PETG Grey | Textured PEI 65°C | 0.3 / 3 / 3-3 / 7% | 28 | 4 | ⚠️ **released before test print** — **4v4 Funnel – Bottom on TC's X2D** (helps with the 106 bottoms). Same 4-per-plate layout and settings as `KY-FunnelBottom`, on the X2D 0.8 nozzle printer preset (both nozzles 0.8, as Studio defines it), JP PETG, filament 1 on the left nozzle. Saved clean from Studio (no orange). |
+| [`TC-Converter_X2D_0.8HF_TexturedPEI_JPPETG.3mf`](TC/TC-Converter_X2D_0.8HF_TexturedPEI_JPPETG.3mf) | X2D 0.8 HF | JP PETG Black | Textured PEI 65°C | 0.3 / 3 / 3-1 / 7% | 28 | 9 | ▶️ assigned to TC — full 3×3 plate, first layer 0.2 mm, original speeds (top surface 80 mm/s), left extruder. ~1 h 55 min / 94 g |
 
 ## 🧪 WIP — being tested, don't print yet
 
@@ -61,7 +71,6 @@ Open the `.3mf` in Bambu Studio, check the plate/filament match your printer, sl
 |---|---|---|---|---|---|---|---|
 | [`KY-BatTop-Standard-TEST3_P2S_0.8HF_TexturedPEI_JPPETG.3mf`](WIP/KY-BatTop-Standard-TEST3_P2S_0.8HF_TexturedPEI_JPPETG.3mf) | P2S 0.8 HF | JP PETG | Textured PEI 70°C | 0.3 / 3 / 2-2 / 7% | 28 | 6 | 🧪 **STANDARD BatTop (verified mesh, 60 needed)**. 64 × 115 × 34 mm. **3 plates, by layer:** plate 1 = one flat upside-down copy (34 mm) + one standing (115 mm); plate 2 = 3 standing copies; plate 3 = 1 standing copy with **adaptive layer height (0.16–0.56 mm)**. **Standing won the first test** (supports came off easily). Supports now tuned for standing: Tree Slim, expansion 0, interface spacing 0.8, top Z 0.3 (1 layer) / XY 0.4, on part layers. No layer-range rules, seam fix, auto brim 5 mm. **Anti-sway:** accel 2000 / outer wall 1000 / travel 2500, travel 300 mm/s, walls 80 outer / 120 inner, spiral Z-hop |
 | [`KY-BatTop-SpecialEd-TEST2_P2S_0.8HF_TexturedPEI_JPPETG.3mf`](WIP/KY-BatTop-SpecialEd-TEST2_P2S_0.8HF_TexturedPEI_JPPETG.3mf) | P2S 0.8 HF | JP PETG | Textured PEI 70°C | 0.3 / 3 / 2-2 / 7% | 28 | 1 | 🧪 **SPECIAL edition BatTop**. 64 × 99.5 × 34 mm, vertical, Tree Hybrid, seam fix (formerly named Standard-TEST2) |
-| [`KY-FunnelBottom_P2S_0.8HF_TexturedPEI_JPPETG.3mf`](KY/KY-FunnelBottom_P2S_0.8HF_TexturedPEI_JPPETG.3mf) | P2S 0.8 HF | JP PETG Grey | Textured PEI 65°C | 0.3 / 3 / 3-3 / 7% | 28 | 4 | ⚠️ **released before test print** — **4v4 Funnel – Bottom** (2 per bot, 106 needed = 27 plates). 225 × 85.7 × 2 mm, flat, no supports, no brim. FinalBottom settings unchanged. test print 2026-10-05 |
 | [`KY-FunnelTop_P2S_0.8HF_TexturedPEI_JPPETG.3mf`](KY/KY-FunnelTop_P2S_0.8HF_TexturedPEI_JPPETG.3mf) | P2S 0.8 HF | JP PETG Black | Textured PEI 65°C | 0.3 / 3 / 3-3 / 7% | 28 | 4 | ⚠️ **released before test print** — **4v4 Funnel – Top on Kyle's printer** (helps JL with the 53 tops). Same tops layout as `JL-FunnelTop`, KY-FunnelBottom settings (3 walls ≈ 2.46 mm = JL's 4 × 0.62). |
 | [`JL-BatTop-Standard_P2S_0.4SF_TexturedPEI_JPPETG.3mf`](WIP/JL-BatTop-Standard_P2S_0.4SF_TexturedPEI_JPPETG.3mf) | P2S 0.4 SF | JP PETG Yellow | Textured PEI 70°C | 0.2 / 6 / 3-3 / 7% | 12 | 12 | 🧪 not released yet — **verified Standard mesh**, 12 standing copies, KY's tested settings scaled to 0.4 (Tree Slim top Z 0.2 / XY 0.4, anti-sway, seam fix). 330 g, ~36 h 17 m at fixed 0.2 layers; **add Adaptive layer height in Studio**. Not yet test-printed at 0.4 |
 | [`KY-BatTop-Standard_P2S_0.8HF_TexturedPEI_BambuPETG.3mf`](WIP/KY-BatTop-Standard_P2S_0.8HF_TexturedPEI_BambuPETG.3mf) | P2S 0.8 HF | Bambu PETG Basic Yellow | Textured PEI 70°C | adaptive 0.16–0.56 / 3 / 2-2 / 7% | 21 | 12 | 🧪 same as the released KY BatTop Standard (12 standing copies) but with the **official Bambu PETG Basic 0.8 profile**: 250/245 °C, retraction 0.4, max flow 21, fan max 60%. Not yet test-printed |
@@ -69,7 +78,6 @@ Open the `.3mf` in Bambu Studio, check the plate/filament match your printer, sl
 | [`KY-Converter-TEST1_P2S_0.8HF_TexturedPEI_JPPETG.3mf`](WIP/KY-Converter-TEST1_P2S_0.8HF_TexturedPEI_JPPETG.3mf) | P2S 0.8 HF | JP PETG Black | Textured PEI 65°C | 0.3 / 3 / 3-1 / 7% | 28 | 1 | 🧪 **Print this one first:** Converter / ESP 安裝轉接板, 80 × 74.955 × 2 mm. Flat, no supports/brim. First layer 0.3 mm; top surface 40 mm/s; revised after surface-gap feedback. ~21 min / 11.1 g; check ESP and battery-box fit. [Guide](WIP/Converter-README.md) |
 | [`TC-Converter-TEST5_X2D_0.8HF_TexturedPEI_JPPETG.3mf`](WIP/TC-Converter-TEST5_X2D_0.8HF_TexturedPEI_JPPETG.3mf) | X2D 0.8 HF | JP PETG Black | Textured PEI 65°C | 0.3 / 3 / 3-1 / 7% | 28 | 5 | 🧪 TC five-piece fit test. Same geometry; X2D-specific settings and left extruder mapping. ~1 h 6 min / 52 g |
 | [`KY-Converter-MASS-DRAFT_P2S_0.8HF_TexturedPEI_JPPETG.3mf`](WIP/KY-Converter-MASS-DRAFT_P2S_0.8HF_TexturedPEI_JPPETG.3mf) | P2S 0.8 HF | JP PETG Black | Textured PEI 65°C | 0.3 / 3 / 3-1 / 7% | 28 | 9 | 🧪 **Draft — wait for fit-test approval.** 3×3 layout, 3 mm gaps, by layer; first layer 0.3 mm; top surface 40 mm/s. ~2 h 11 min / 99.5 g |
-| [`TC-Converter-MASS-DRAFT_X2D_0.8HF_TexturedPEI_JPPETG.3mf`](WIP/TC-Converter-MASS-DRAFT_X2D_0.8HF_TexturedPEI_JPPETG.3mf) | X2D 0.8 HF | JP PETG Black | Textured PEI 65°C | 0.3 / 3 / 3-1 / 7% | 28 | 9 | 🧪 **Draft — wait for fit-test approval.** Same 3×3 layout; X2D-specific settings. ~1 h 55 min / 94 g |
 
 ## Archive
 
