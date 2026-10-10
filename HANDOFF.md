@@ -153,3 +153,12 @@ supported print (quality first, then material), for Kyle to test-print tonight (
 - **Changes:** use Kyle’s exact wording 吃求口 with （之後提供） for the intake parts and 電池匣 for the battery box; English names use ball intake. Removed public verification discussion and highlighted STL → STEP conversion in bold. Added bold English/Traditional Chinese text that all eight custom .3mf configurations are included in the ZIP. Public release guide links point to corrected main documentation. Model and print-config files unchanged.
 - **Commands:** Python documentation replacements / ZIP rebuild; scoped git commit/push; gh release edit and asset upload.
 - **Next:** none.
+
+### Codex: consolidate public release into one ZIP (2026-10-10)
+- **Status:** complete. Release has one uploaded asset: the complete ZIP, now including all five preview PNGs.
+- **Files changed:** README.md download sentence only (Kyle’s `TC (Terry)` change and publishing-section removal retained); public-release/README.md; public-release/SHA256SUMS.txt; public-release/previews/*.png; releases/2026-wrg-kcis-xg-public.md; ignored ZIP; this entry.
+- **Commands:** git fetch / fast-forward origin/main (`cbe3395`, Kyle’s README edit), Python ZIP rebuild, scoped commit/push, gh release edit/upload/delete-asset.
+- **Findings:** complete ZIP contains five STL, five STEP, eight .3mf configurations, bilingual documentation, license and metadata; checksums now included inside. No individual model or checksum download assets needed.
+- **Done:** replaced ZIP and release notes; removed all 11 separate model/checksum assets.
+- **Done:** rendered five actual-STL previews with Matplotlib, visually reviewed a contact sheet, added bilingual named image rows to root/public README, and published the updated ZIP and notes. Kyle’s README edit remains intact.
+- **Next:** none.

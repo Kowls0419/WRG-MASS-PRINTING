@@ -16,9 +16,19 @@ MIT-licensed motor stand, bottom board, ball intake top, ball intake bottom, and
 
 **完整 ZIP 壓縮檔內含八個自訂 `.3mf` 列印設定檔。**
 
+### Part previews / 零件預覽
+
+| Part / 零件 | Preview / 預覽 |
+|---|---|
+| Motor stand / 馬達支架 | <img src="public-release/previews/motor-stand.png" alt="Motor stand / 馬達支架" width="260"> |
+| Bottom board / 底板 | <img src="public-release/previews/bottom-board.png" alt="Bottom board / 底板" width="260"> |
+| Ball intake top / 吃求口（之後提供）—上片 | <img src="public-release/previews/funnel-top.png" alt="Ball intake top / 吃求口（之後提供）—上片" width="260"> |
+| Ball intake bottom / 吃求口（之後提供）—下片 | <img src="public-release/previews/funnel-bottom.png" alt="Ball intake bottom / 吃求口（之後提供）—下片" width="260"> |
+| Standard battery box / 電池匣 | <img src="public-release/previews/battery-box-standard.png" alt="Standard battery box / 電池匣" width="260"> |
+
 ## ⬇️ How to get your files
 
-- **Easiest:** go to **[Releases → Latest](../../releases/latest)** and download your `.3mf` from *Assets*. The special public release includes the complete ZIP; working-release notes describe their own file status.
+- **Easiest:** go to **[Releases → Latest](../../releases/latest)** and download the complete ZIP from *Assets*; the custom `.3mf` files are inside. The special public release includes the complete ZIP; working-release notes describe their own file status.
 - **Always-newest single file:** open your folder below → click the file → **Download raw file** (↓ icon).
 - **What changed:** open a file → **History**.
 

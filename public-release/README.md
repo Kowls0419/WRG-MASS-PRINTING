@@ -14,13 +14,13 @@ Each STL contains one part. Dimensions are in millimetres.
 
 每個 STL 檔案包含一個零件，尺寸單位為毫米。
 
-| Part / 零件 | Dimensions / 尺寸 (mm) | STL | STEP |
-|---|---|---|---|
-| Motor stand / 馬達支架 | 37 × 37 × 38 | [STL](stl/motor-stand.stl) | [STEP](step/motor-stand.step) |
-| Bottom board / 底板 | 150 × 158 × 4 | [STL](stl/bottom-board.stl) | [STEP](step/bottom-board.step) |
-| Ball intake top / 吃求口（之後提供）—上片 | 225 × 70 × 2 | [STL](stl/funnel-top.stl) | [STEP](step/funnel-top.step) |
-| Ball intake bottom / 吃求口（之後提供）—下片 | 225 × 85.7 × 2 | [STL](stl/funnel-bottom.stl) | [STEP](step/funnel-bottom.step) |
-| Standard battery box / 電池匣 | 64 × 115 × 34 | [STL](stl/battery-box-standard.stl) | [STEP](step/battery-box-standard.step) |
+| Part / 零件 | Preview / 預覽 | Dimensions / 尺寸 (mm) | STL | STEP |
+|---|---|---|---|---|
+| Motor stand / 馬達支架 | <img src="previews/motor-stand.png" alt="Motor stand / 馬達支架" width="260"> | 37 × 37 × 38 | [STL](stl/motor-stand.stl) | [STEP](step/motor-stand.step) |
+| Bottom board / 底板 | <img src="previews/bottom-board.png" alt="Bottom board / 底板" width="260"> | 150 × 158 × 4 | [STL](stl/bottom-board.stl) | [STEP](step/bottom-board.step) |
+| Ball intake top / 吃求口（之後提供）—上片 | <img src="previews/funnel-top.png" alt="Ball intake top / 吃求口（之後提供）—上片" width="260"> | 225 × 70 × 2 | [STL](stl/funnel-top.stl) | [STEP](step/funnel-top.step) |
+| Ball intake bottom / 吃求口（之後提供）—下片 | <img src="previews/funnel-bottom.png" alt="Ball intake bottom / 吃求口（之後提供）—下片" width="260"> | 225 × 85.7 × 2 | [STL](stl/funnel-bottom.stl) | [STEP](step/funnel-bottom.step) |
+| Standard battery box / 電池匣 | <img src="previews/battery-box-standard.png" alt="Standard battery box / 電池匣" width="260"> | 64 × 115 × 34 | [STL](stl/battery-box-standard.stl) | [STEP](step/battery-box-standard.step) |
 
 The standard battery box is the 115 mm version, called “BatTop Standard” in the print projects.
 
@@ -48,9 +48,9 @@ Conversion tooling: [OpenCascade topology documentation](https://dev.opencascade
 
 ## Download and reuse / 下載與使用
 
-Download the public release assets from [2026 WRG KCIS-XG Public Release](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/tag/2026-wrg-kcis-xg-public). The complete archive includes both model formats, custom print projects, documentation, and the MIT license.
+Download the complete ZIP from [2026 WRG KCIS-XG Public Release](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/tag/2026-wrg-kcis-xg-public). The complete archive includes both model formats, custom print projects, named part previews, documentation, and the MIT license.
 
-請從 [2026 WRG KCIS-XG Public Release](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/tag/2026-wrg-kcis-xg-public)下載發佈附件。完整壓縮檔包含兩種模型格式、自訂列印專案、說明文件與 MIT 授權條款。
+請從 [2026 WRG KCIS-XG Public Release](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/tag/2026-wrg-kcis-xg-public)下載完整 ZIP 壓縮檔。完整壓縮檔包含兩種模型格式、自訂列印專案、附名稱的零件預覽圖、說明文件與 MIT 授權條款。
 
 You may use, modify, and share these files under MIT; include the copyright notice and license when redistributing.
 

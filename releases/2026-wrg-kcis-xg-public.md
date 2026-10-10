@@ -14,15 +14,13 @@ A special MIT-licensed public snapshot of five current WRG KCIS-XG designs. Ongo
 
 ## Downloads / 下載
 
-**The complete ZIP includes all eight custom `.3mf` print configurations.**
+**Download one ZIP for all STL and STEP models, all eight custom `.3mf` print configurations, and documentation.**
 
-**完整 ZIP 壓縮檔內含八個自訂 `.3mf` 列印設定檔。**
+**下載一個 ZIP，即可取得所有 STL、STEP 模型、八個自訂 `.3mf` 列印設定檔與說明文件。**
 
-- `2026-WRG-KCIS-XG-Public-Release.zip` — complete package: five STL files, five STEP files, eight custom .3mf configurations, English/Traditional Chinese documentation and MIT license.
-- Individual `.stl` and `.step` assets — one part per file.
+- `2026-WRG-KCIS-XG-Public-Release.zip` — complete package: five STL files, five STEP files, eight custom .3mf configurations, named part previews, English/Traditional Chinese documentation and MIT license.
 
-- `2026-WRG-KCIS-XG-Public-Release.zip`：完整套件，包含五個 STL、五個 STEP、八個自訂 .3mf 設定、英文／繁體中文說明與 MIT 授權條款。
-- 個別 `.stl` 與 `.step` 附件：每個檔案包含一個零件。
+- `2026-WRG-KCIS-XG-Public-Release.zip`：完整套件，包含五個 STL、五個 STEP、八個自訂 .3mf 設定、附名稱的零件預覽圖、英文／繁體中文說明與 MIT 授權條款。
 
 [Model guide](https://github.com/Kowls0419/WRG-MASS-PRINTING/tree/main/public-release) · [Custom .3mf print configurations](https://github.com/Kowls0419/WRG-MASS-PRINTING/tree/main/public-release/print-configs)
 
