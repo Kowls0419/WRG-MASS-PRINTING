@@ -14,13 +14,13 @@ A special MIT-licensed public snapshot of five current WRG KCIS-XG designs. Ongo
 
 ## Downloads / 下載
 
-Download individual **STL** or **STEP** files from Assets below, or download the ZIP for the five-design public snapshot.
+Download individual **STL** or **STEP** files from Assets below, or download the complete ZIP for everything.
 
-您可從下方 Assets 下載個別 **STL** 或 **STEP** 檔案，或下載 ZIP 取得五款設計的公開快照。
+您可從下方 Assets 下載個別 **STL** 或 **STEP** 檔案，或下載完整 ZIP 取得全部內容。
 
-**The original eight custom `.3mf` print configurations are inside the ZIP, in `print-configs/`. The TC adapter full plate added below is a separate `.3mf` asset.**
+**All eight custom `.3mf` print configurations are inside the ZIP, in the `print-configs/` folder.**
 
-**原始八個自訂 `.3mf` 位於 ZIP 內的 `print-configs/`；下方新增的 TC 轉接板滿盤為獨立 `.3mf` 附件。**
+**八個自訂 `.3mf` 列印設定檔均位於 ZIP 壓縮檔內的 `print-configs/` 資料夾。**
 
 - `2026-WRG-KCIS-XG-Public-Release.zip` — complete package: five STL files, five STEP files, eight custom .3mf configurations, named part previews, English/Traditional Chinese documentation and MIT license.
 
@@ -33,18 +33,6 @@ Download individual **STL** or **STEP** files from Assets below, or download the
 **STL → STEP conversion:** STEP files are closed faceted solids converted from STL, with coplanar faces merged. They preserve mesh geometry and do not recover original parametric CAD features. Choose .3mf settings for your actual printer/nozzle/filament and check the slice.
 
 **STL → STEP 轉換：** STEP 檔案由 STL 轉換為封閉面片實體，並合併共平面面片；保留網格幾何，未還原原始參數化 CAD 功能。請依實際印表機、噴嘴及耗材選擇 .3mf 設定，並確認切片結果。
-
-## Current printing update — 2026-10-10 / 目前列印安排
-
-**[Download TC adapter full plate (.3mf)](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/download/2026-wrg-kcis-xg-public/TC-Converter_X2D_0.8HF_TexturedPEI_JPPETG.3mf)** — 9 Converter / ESP mounting adapters on TC’s X2D 0.8 HF, black JP PETG. **First layer 0.2 mm / layers 0.3 mm; original speeds, top surface 80 mm/s.** Three top shells, one bottom shell, 7% gyroid; about 1 h 55 min / 94 g per plate.
-
-**[下載 TC 轉接板滿盤 (.3mf)](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/download/2026-wrg-kcis-xg-public/TC-Converter_X2D_0.8HF_TexturedPEI_JPPETG.3mf)**：TC 的 X2D 0.8 HF、黑色 JP PETG，九片 ESP 安裝轉接板。**首層 0.2 mm／層高 0.3 mm；原始速度，頂面 80 mm/s。** 頂部三層、底部一層、7% Gyroid；每盤約 1 小時 55 分鐘／94 g。
-
-| Owner | Current part |
-|---|---|
-| JL | Funnel top / 吃求口上片 |
-| KY | Funnel bottom / 吃求口下片 |
-| TC | Converter / ESP 安裝轉接板 |
 
 ## Part previews and STL / STEP downloads / 零件預覽與 STL／STEP 下載
 

@@ -12,9 +12,9 @@ MIT-licensed motor stand, bottom board, ball intake top, ball intake bottom, and
 
 採用 MIT 授權公開馬達支架、底板、吃求口（之後提供）的上片與下片與電池匣，包含單一零件 STL 與 **STL → STEP 轉換檔案**。本次公開發佈為固定快照；下方的列印工作專案仍持續更新。
 
-**The original eight custom `.3mf` configurations are inside the ZIP, in `print-configs/`. The added TC adapter full plate is a separate `.3mf` release asset.**
+**All eight custom `.3mf` print configurations are inside the ZIP, in the `print-configs/` folder.**
 
-**原始八個自訂 `.3mf` 位於 ZIP 內的 `print-configs/`；新增的 TC 轉接板滿盤檔案為獨立 `.3mf` 發佈附件。**
+**八個自訂 `.3mf` 列印設定檔均位於 ZIP 壓縮檔內的 `print-configs/` 資料夾。**
 
 ### Part previews / 零件預覽
 
@@ -28,11 +28,17 @@ MIT-licensed motor stand, bottom board, ball intake top, ball intake bottom, and
 
 ## ⬇️ How to get your files
 
-- **Easiest:** go to **[Releases → Latest](../../releases/latest)** and download the complete ZIP from *Assets*; the custom `.3mf` files are inside. The special public release includes the complete ZIP; working-release notes describe their own file status.
+- **Easiest:** go to **[Releases → Latest](../../releases/latest)** and download the complete ZIP from *Assets*; the custom `.3mf` files are inside. The current release contains JL funnel top, KY funnel bottom, and TC adapter.
 - **Always-newest single file:** open your folder below → click the file → **Download raw file** (↓ icon).
 - **What changed:** open a file → **History**.
 
 Open the `.3mf` in Bambu Studio, check the plate/filament match your printer, slice, and print. **Slice and send without saving** — saving in Studio wipes the file's list of overridden settings.
+
+## Current printing release — 2026-10-10
+
+[Download the current three-file release](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/tag/2026-10-10): **JL funnel top, KY funnel bottom, TC adapter**. All three .3mf files are in the ZIP and available individually.
+
+[下載目前三個列印檔案](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/tag/2026-10-10)：**JL 吃求口上片、KY 吃求口下片、TC 轉接板**。ZIP 包含全部三個 .3mf，亦可個別下載。
 
 ## Current printing assignments
 

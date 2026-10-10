@@ -25,9 +25,9 @@ Check that the ESP mounting holes and battery-box mounting holes line up, the sc
 | [KY mass draft — P2S 0.8 HF](KY-Converter-MASS-DRAFT_P2S_0.8HF_TexturedPEI_JPPETG.3mf) | 9 | 2 h 11 min / 99.5 g |
 | [TC released full plate — X2D 0.8 HF](../TC/TC-Converter_X2D_0.8HF_TexturedPEI_JPPETG.3mf) | 9 | 1 h 55 min / 94 g |
 
-TC’s nine-copy plate is now in TC/ and attached to the newest release, with the original 0.2 mm first layer / 0.3 mm layers and original speeds. KY’s mass draft remains in WIP until the surface retest passes.
+TC’s nine-copy plate is now in TC/ and attached to the [2026-10-10 current printing release](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/tag/2026-10-10), with the original 0.2 mm first layer / 0.3 mm layers and original speeds. KY’s mass draft remains in WIP until the surface retest passes.
 
-TC 九片滿盤已移至 TC/ 並附於最新發佈，保留首層 0.2 mm／層高 0.3 mm 與原始速度。KY 量產草稿仍留於 WIP，等待表面試印結果。
+TC 九片滿盤已移至 TC/ 並附於 2026-10-10 列印工作發佈，保留首層 0.2 mm／層高 0.3 mm 與原始速度。KY 量產草稿仍留於 WIP，等待表面試印結果。
 
 KY’s revised settings keep lightweight 7% infill and slow the final surface after the first print showed infill texture and small gaps. Retest the KY one-piece plate before mass printing.
 
