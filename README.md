@@ -38,7 +38,7 @@ Open the `.3mf` in Bambu Studio, check the plate/filament match your printer, sl
 | [`JL-motorstand_P2S_0.4SF_TexturedPEI_BambuPETG.3mf`](JL/JL-motorstand_P2S_0.4SF_TexturedPEI_BambuPETG.3mf) | P2S 0.4 SF | Bambu PETG Basic Black | Textured PEI 70°C | 0.2 / 6 / 5-5 / 20% | 15 | 36 | ✅ ready — official Bambu PETG Basic 0.4 filament profile; converted from the 0.6 HF motorstand (same wall/shell thickness), 383 g / ~12 h 27 m, not yet test-printed at 0.4mm |
 | [`JL-FunnelTop_P2S_0.6HF_TexturedPEI_JPPETG.3mf`](JL/JL-FunnelTop_P2S_0.6HF_TexturedPEI_JPPETG.3mf) | P2S 0.6 HF | JP PETG Black | Textured PEI 65°C | 0.3 / 4 / 3-3 / 7% | 28 | 4 | ⚠️ **released before test print** — **4v4 Funnel – Top** (1 per bot, 53 needed = 14 plates). 225 × 70 × 2 mm, flat, no supports, no brim. FinalBottom settings ported to 0.6 HF (4 walls ≈ 2.48 mm). ~1 h 24 m, 62 g per plate. test print 2026-10-05 |
 
-## TC
+## TC (Terry)
 
 | File | Printer / nozzle | Filament | Plate | Layer / walls / shells / infill | Max flow | Copies | Status |
 |---|---|---|---|---|---|---|---|
@@ -69,14 +69,6 @@ Old baselines and the abandoned stack-printing (PLA interface) experiments are i
 - Name format: `OWNER-Part_Printer_Nozzle_Plate_Filament.3mf` — `SF` = standard-flow nozzle, `HF` = high-flow.
 - Every file has a built-in process preset that matches its settings exactly, so Studio shows no orange "modified" values. If you see orange, you or Studio changed something: slice and send without saving.
 - PETG on 0.6/0.8 HF nozzles is capped at 28 mm³/s max volumetric flow; 0.4 standard nozzles stay at 12–15.
-
-## For Kyle — publishing a release
-
-```
-git add -A && git commit -m "…what changed, tested ✅"
-git tag YYYY-MM-DD && git push && git push --tags
-gh release create YYYY-MM-DD KY/*.3mf JL/*.3mf TC/*.3mf --title "YYYY-MM-DD" --notes-file releases/YYYY-MM-DD.md
-```
 
 ## Single-part STL collection
 
