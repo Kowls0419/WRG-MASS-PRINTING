@@ -38,8 +38,6 @@ Open the `.3mf` in Bambu Studio, check the plate/filament match your printer, sl
 
 [Download the current three-file release](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/tag/2026-10-10): **JL funnel top, KY funnel bottom, TC adapter**. All three .3mf files are in the ZIP and available individually.
 
-[下載目前三個列印檔案](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/tag/2026-10-10)：**JL 吃求口上片、KY 吃求口下片、TC 轉接板**。ZIP 包含全部三個 .3mf，亦可個別下載。
-
 ## Current printing assignments
 
 | Printer owner | Part | File |
