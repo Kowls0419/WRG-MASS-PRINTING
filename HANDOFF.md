@@ -176,3 +176,10 @@ supported print (quality first, then material), for Kyle to test-print tonight (
 - **Changes:** restore five STL and five STEP assets alongside the complete ZIP. Release preview rows now link directly to each format. Bold bilingual text explicitly locates all eight .3mf files inside the ZIP under print-configs/. Named previews, terminology and Kyle’s README changes preserved.
 - **Commands:** Python documentation edit and ZIP rebuild; gh release upload/edit; scoped git commit/push.
 - **Next:** none.
+
+### Codex: move release STL/STEP table to bottom (2026-10-10)
+- **Status:** complete.
+- **Files changed:** releases/2026-wrg-kcis-xg-public.md; this entry.
+- **Changes:** preview table retains names/images; individual STL/STEP links moved into a separate table at the bottom of the release notes.
+- **Commands:** Python notes edit; gh release edit; scoped git commit/push.
+- **Next:** none.

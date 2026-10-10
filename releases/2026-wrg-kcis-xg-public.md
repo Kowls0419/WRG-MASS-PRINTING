@@ -14,13 +14,13 @@ A special MIT-licensed public snapshot of five current WRG KCIS-XG designs. Ongo
 
 ## Part previews / 零件預覽
 
-| Part / 零件 | Preview / 預覽 | STL | STEP |
-|---|---|---|---|
-| Motor stand / 馬達支架 | <img src="https://raw.githubusercontent.com/Kowls0419/WRG-MASS-PRINTING/cc1caf83aa85e0da277058c230468d120e8f5f8e/public-release/previews/motor-stand.png" alt="Motor stand / 馬達支架" width="320"> | [STL](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/download/2026-wrg-kcis-xg-public/motor-stand.stl) | [STEP](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/download/2026-wrg-kcis-xg-public/motor-stand.step) |
-| Bottom board / 底板 | <img src="https://raw.githubusercontent.com/Kowls0419/WRG-MASS-PRINTING/cc1caf83aa85e0da277058c230468d120e8f5f8e/public-release/previews/bottom-board.png" alt="Bottom board / 底板" width="320"> | [STL](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/download/2026-wrg-kcis-xg-public/bottom-board.stl) | [STEP](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/download/2026-wrg-kcis-xg-public/bottom-board.step) |
-| Ball intake top / 吃求口（之後提供）—上片 | <img src="https://raw.githubusercontent.com/Kowls0419/WRG-MASS-PRINTING/cc1caf83aa85e0da277058c230468d120e8f5f8e/public-release/previews/funnel-top.png" alt="Ball intake top / 吃求口（之後提供）—上片" width="320"> | [STL](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/download/2026-wrg-kcis-xg-public/funnel-top.stl) | [STEP](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/download/2026-wrg-kcis-xg-public/funnel-top.step) |
-| Ball intake bottom / 吃求口（之後提供）—下片 | <img src="https://raw.githubusercontent.com/Kowls0419/WRG-MASS-PRINTING/cc1caf83aa85e0da277058c230468d120e8f5f8e/public-release/previews/funnel-bottom.png" alt="Ball intake bottom / 吃求口（之後提供）—下片" width="320"> | [STL](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/download/2026-wrg-kcis-xg-public/funnel-bottom.stl) | [STEP](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/download/2026-wrg-kcis-xg-public/funnel-bottom.step) |
-| Standard battery box / 電池匣 | <img src="https://raw.githubusercontent.com/Kowls0419/WRG-MASS-PRINTING/cc1caf83aa85e0da277058c230468d120e8f5f8e/public-release/previews/battery-box-standard.png" alt="Standard battery box / 電池匣" width="320"> | [STL](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/download/2026-wrg-kcis-xg-public/battery-box-standard.stl) | [STEP](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/download/2026-wrg-kcis-xg-public/battery-box-standard.step) |
+| Part / 零件 | Preview / 預覽 |
+|---|---|
+| Motor stand / 馬達支架 | <img src="https://raw.githubusercontent.com/Kowls0419/WRG-MASS-PRINTING/cc1caf83aa85e0da277058c230468d120e8f5f8e/public-release/previews/motor-stand.png" alt="Motor stand / 馬達支架" width="320"> |
+| Bottom board / 底板 | <img src="https://raw.githubusercontent.com/Kowls0419/WRG-MASS-PRINTING/cc1caf83aa85e0da277058c230468d120e8f5f8e/public-release/previews/bottom-board.png" alt="Bottom board / 底板" width="320"> |
+| Ball intake top / 吃求口（之後提供）—上片 | <img src="https://raw.githubusercontent.com/Kowls0419/WRG-MASS-PRINTING/cc1caf83aa85e0da277058c230468d120e8f5f8e/public-release/previews/funnel-top.png" alt="Ball intake top / 吃求口（之後提供）—上片" width="320"> |
+| Ball intake bottom / 吃求口（之後提供）—下片 | <img src="https://raw.githubusercontent.com/Kowls0419/WRG-MASS-PRINTING/cc1caf83aa85e0da277058c230468d120e8f5f8e/public-release/previews/funnel-bottom.png" alt="Ball intake bottom / 吃求口（之後提供）—下片" width="320"> |
+| Standard battery box / 電池匣 | <img src="https://raw.githubusercontent.com/Kowls0419/WRG-MASS-PRINTING/cc1caf83aa85e0da277058c230468d120e8f5f8e/public-release/previews/battery-box-standard.png" alt="Standard battery box / 電池匣" width="320"> |
 
 ## Downloads / 下載
 
@@ -43,3 +43,13 @@ Download individual **STL** or **STEP** files from Assets below, or download the
 **STL → STEP conversion:** STEP files are closed faceted solids converted from STL, with coplanar faces merged. They preserve mesh geometry and do not recover original parametric CAD features. Choose .3mf settings for your actual printer/nozzle/filament and check the slice.
 
 **STL → STEP 轉換：** STEP 檔案由 STL 轉換為封閉面片實體，並合併共平面面片；保留網格幾何，未還原原始參數化 CAD 功能。請依實際印表機、噴嘴及耗材選擇 .3mf 設定，並確認切片結果。
+
+## Individual STL / STEP downloads / 個別 STL／STEP 下載
+
+| Part / 零件 | STL | STEP |
+|---|---|---|
+| Motor stand / 馬達支架 | [STL](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/download/2026-wrg-kcis-xg-public/motor-stand.stl) | [STEP](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/download/2026-wrg-kcis-xg-public/motor-stand.step) |
+| Bottom board / 底板 | [STL](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/download/2026-wrg-kcis-xg-public/bottom-board.stl) | [STEP](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/download/2026-wrg-kcis-xg-public/bottom-board.step) |
+| Ball intake top / 吃求口（之後提供）—上片 | [STL](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/download/2026-wrg-kcis-xg-public/funnel-top.stl) | [STEP](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/download/2026-wrg-kcis-xg-public/funnel-top.step) |
+| Ball intake bottom / 吃求口（之後提供）—下片 | [STL](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/download/2026-wrg-kcis-xg-public/funnel-bottom.stl) | [STEP](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/download/2026-wrg-kcis-xg-public/funnel-bottom.step) |
+| Standard battery box / 電池匣 | [STL](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/download/2026-wrg-kcis-xg-public/battery-box-standard.stl) | [STEP](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/download/2026-wrg-kcis-xg-public/battery-box-standard.step) |
