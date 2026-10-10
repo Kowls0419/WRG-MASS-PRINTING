@@ -190,3 +190,10 @@ supported print (quality first, then material), for Kyle to test-print tonight (
 - **Changes:** all five named previews and STL/STEP download links now share one table at the bottom of the release page.
 - **Commands:** Python notes edit; gh release edit; scoped git commit/push.
 - **Next:** none.
+
+### Codex: compact release preview row (2026-10-10)
+- **Status:** complete.
+- **Files changed:** releases/2026-wrg-kcis-xg-public.md; this entry.
+- **Changes:** five parts arranged across one row; each preview is 120 px wide, with bilingual name above and STL/STEP links below. Table remains at the bottom.
+- **Commands:** Python notes edit; gh release edit; scoped git commit/push.
+- **Next:** none.
