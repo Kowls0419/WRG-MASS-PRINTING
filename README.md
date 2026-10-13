@@ -28,17 +28,17 @@ MIT-licensed motor stand, bottom board, ball intake top, ball intake bottom, and
 
 ## ⬇️ How to get your files
 
-- **Easiest:** go to **[Releases → Latest](../../releases/latest)** and download the complete ZIP from *Assets*; the custom `.3mf` files are inside. The current release contains JL funnel top, KY funnel bottom, and TC adapter.
+- **Easiest:** go to **[Releases → Latest](../../releases/latest)** and download the complete ZIP from *Assets*; the custom `.3mf` files are inside. The latest release contains all six corrected funnel-top projects.
 - **Always-newest single file:** open your folder below → click the file → **Download raw file** (↓ icon).
 - **What changed:** open a file → **History**.
 
 Open the `.3mf` in Bambu Studio, check the plate/filament match your printer, slice, and print. **Slice and send without saving** — saving in Studio wipes the file's list of overridden settings.
 
-## Corrected funnel top — 2026-10-13
+## Corrected funnel top release — 2026-10-14
 
-**[Download the corrected top for KY, TC, and JL](FunnelTop-Corrected-README.md)** — white JP PETG or official Bambu PETG Basic, four interleaved copies per plate. These replace the previous wrong top mesh. Earlier releases retain that superseded geometry; use this guide for the current funnel top.
+**[Download the new release: all six corrected tops](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/tag/2026-10-14)** · [Guide](FunnelTop-Corrected-README.md) — white JP PETG or official Bambu PETG Basic, four interleaved copies per plate. These replace the previous wrong top mesh. Earlier releases retain that superseded geometry; use this guide for the current funnel top.
 
-## Current printing release — 2026-10-10
+## Previous printing release — 2026-10-10
 
 [Download the current three-file release](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/tag/2026-10-10): **JL funnel top, KY funnel bottom, TC adapter**. All three .3mf files are in the ZIP and available individually.
 

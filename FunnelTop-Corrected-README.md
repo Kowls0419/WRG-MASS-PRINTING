@@ -1,5 +1,7 @@
 # Corrected funnel top — 3v3 + 4v4
 
+**[Download the 2026-10-14 release](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/tag/2026-10-14)** — all six .3mf files individually or together in one ZIP.
+
 Use these files for the corrected funnel top supplied on 2026-10-13. The earlier top-funnel projects used the wrong STL. The two superseded active projects are retained in KY/archive/ and JL/archive/ with `Superseded-WrongTop-2026-10-13` filenames.
 
 Source: [FunnelTop-3v3-4v4-Corrected.stl](models/FunnelTop-3v3-4v4-Corrected.stl), copied from Kyle’s `FunnelTop3v3+4v4(1).stl`. Dimensions: **225 × 82.489 × 2 mm**.
