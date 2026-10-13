@@ -1,6 +1,6 @@
 # Corrected funnel top — 3v3 + 4v4
 
-**[Download the 2026-10-14 release](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/tag/2026-10-14)** — all six .3mf files individually or together in one ZIP.
+**[Download the 2026-10-14 release](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/tag/2026-10-14)** — all six individual .3mf files; release Assets contain only print projects.
 
 Use these files for the corrected funnel top supplied on 2026-10-13. The earlier top-funnel projects used the wrong STL. The two superseded active projects are retained in KY/archive/ and JL/archive/ with `Superseded-WrongTop-2026-10-13` filenames.
 
