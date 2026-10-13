@@ -28,7 +28,7 @@ MIT-licensed motor stand, bottom board, ball intake top, ball intake bottom, and
 
 ## ⬇️ How to get your files
 
-- **Easiest:** go to **[Releases → Latest](../../releases/latest)** and download the complete ZIP from *Assets*; the custom `.3mf` files are inside. The latest release contains only the six individual corrected funnel-top .3mf projects.
+- **Easiest:** go to **[Releases → Latest](../../releases/latest)** and download the matching `.3mf` from *Assets*. Choose your printer owner and filament; the latest release contains the six corrected funnel-top projects.
 - **Always-newest single file:** open your folder below → click the file → **Download raw file** (↓ icon).
 - **What changed:** open a file → **History**.
 
