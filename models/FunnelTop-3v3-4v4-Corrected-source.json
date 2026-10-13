@@ -1,0 +1,12 @@
+{
+  "source_file": "FunnelTop3v3+4v4(1).stl",
+  "received": "2026-10-13",
+  "sha256": "4ac7840789ebb6002eb7dd74b8263c18aba2469f513bca686f9b155654460fe1",
+  "dimensions_mm": [
+    225.0,
+    82.4885368347168,
+    2.0
+  ],
+  "triangles": 1612,
+  "supersedes": "Previous FunnelTop mesh in JL and KY active print projects"
+}
