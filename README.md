@@ -34,6 +34,10 @@ MIT-licensed motor stand, bottom board, ball intake top, ball intake bottom, and
 
 Open the `.3mf` in Bambu Studio, check the plate/filament match your printer, slice, and print. **Slice and send without saving** — saving in Studio wipes the file's list of overridden settings.
 
+## Latest printing release — 2026-10-16
+
+**[Download TC’s funnel bottom](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/tag/2026-10-16)** — X2D 0.8 HF left nozzle, JP PETG Grey, four copies per plate, ~55 min / 48 g. The release contains only the .3mf file.
+
 ## Corrected funnel top release — 2026-10-14
 
 **[Download the new release: all six corrected tops](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/tag/2026-10-14)** · [Guide](FunnelTop-Corrected-README.md) — white JP PETG or official Bambu PETG Basic, four interleaved copies per plate. These replace the previous wrong top mesh. Earlier releases retain that superseded geometry; use this guide for the current funnel top.
@@ -48,7 +52,7 @@ Open the `.3mf` in Bambu Studio, check the plate/filament match your printer, sl
 |---|---|---|
 | JL | Funnel top | [JL-FunnelTop](JL/JL-FunnelTop_P2S_0.6HF_TexturedPEI_JPPETG.3mf) |
 | KY | Funnel bottom | [KY-FunnelBottom](KY/KY-FunnelBottom_P2S_0.8HF_TexturedPEI_JPPETG.3mf) |
-| TC | Converter / ESP adapter | [TC-Converter](TC/TC-Converter_X2D_0.8HF_TexturedPEI_JPPETG.3mf) — 9 copies, first layer 0.2 mm / layers 0.3 mm, original speeds |
+| TC | Funnel bottom | [TC-FunnelBottom](TC/TC-FunnelBottom_X2D_0.8HF_TexturedPEI_JPPETG.3mf) — 4 copies, JP PETG Grey |
 
 ## KY (Kyle)
 
@@ -75,7 +79,7 @@ Open the `.3mf` in Bambu Studio, check the plate/filament match your printer, sl
 | [`TC-FinalBottom_X2D_0.8HF_TexturedPEI_JPPETG.3mf`](TC/TC-FinalBottom_X2D_0.8HF_TexturedPEI_JPPETG.3mf) | X2D 0.8 HF | JP PETG | Textured PEI 65°C | 0.3 / 3 / 3-3 / 7% | 28 | 1 | ✅ ready — X2D 0.8HF printer preset unverified |
 | [`TC-FunnelTop_X2D_0.8HF_TexturedPEI_JPPETG.3mf`](TC/TC-FunnelTop_X2D_0.8HF_TexturedPEI_JPPETG.3mf) | X2D 0.8 HF | JP PETG White | Textured PEI 65°C | 0.3 / 3 / 3-3 / 7% | 28 | 4 | **Corrected top mesh — 2026-10-13.** White, four interleaved copies using KY JP layout, ~46 min / 38.3 g. [Guide](FunnelTop-Corrected-README.md) |
 | [`TC-FunnelTop_X2D_0.8HF_TexturedPEI_BambuPETG.3mf`](TC/TC-FunnelTop_X2D_0.8HF_TexturedPEI_BambuPETG.3mf) | X2D 0.8 HF | Bambu PETG Basic White | Textured PEI 70°C | 0.3 / 3 / 3-3 / 7% | 23 HF | 4 | **Corrected top mesh — 2026-10-13.** White, four interleaved copies using KY JP layout, ~49 min / 37.7 g. [Guide](FunnelTop-Corrected-README.md) |
-| [`TC-FunnelBottom_X2D_0.8HF_TexturedPEI_JPPETG.3mf`](TC/TC-FunnelBottom_X2D_0.8HF_TexturedPEI_JPPETG.3mf) | X2D 0.8 HF | JP PETG Grey | Textured PEI 65°C | 0.3 / 3 / 3-3 / 7% | 28 | 4 | ⚠️ **released before test print** — **4v4 Funnel – Bottom on TC's X2D** (helps with the 106 bottoms). Same 4-per-plate layout and settings as `KY-FunnelBottom`, on the X2D 0.8 nozzle printer preset (both nozzles 0.8, as Studio defines it), JP PETG, filament 1 on the left nozzle. Saved clean from Studio (no orange). |
+| [`TC-FunnelBottom_X2D_0.8HF_TexturedPEI_JPPETG.3mf`](TC/TC-FunnelBottom_X2D_0.8HF_TexturedPEI_JPPETG.3mf) | X2D 0.8 HF | JP PETG Grey | Textured PEI 65°C | 0.3 / 3 / 3-3 / 7% | 28 | 4 | Released 2026-10-16 — four per plate, previous funnel mass-print settings, left 0.8 HF nozzle. ~55 min / 48 g |
 | [`TC-Converter_X2D_0.8HF_TexturedPEI_JPPETG.3mf`](TC/TC-Converter_X2D_0.8HF_TexturedPEI_JPPETG.3mf) | X2D 0.8 HF | JP PETG Black | Textured PEI 65°C | 0.3 / 3 / 3-1 / 7% | 28 | 9 | ▶️ assigned to TC — full 3×3 plate, first layer 0.2 mm, original speeds (top surface 80 mm/s), left extruder. ~1 h 55 min / 94 g |
 
 ## 🧪 WIP — being tested, don't print yet
