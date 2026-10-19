@@ -2,7 +2,7 @@
 
 **[Download the latest topboard release](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/tag/2026-10-19)** — only the three KY, TC and JL .3mf projects.
 
-Three white **official Bambu PETG Basic** projects made from Kyle’s `topboard.3mf`. The supplied board geometry and holes are preserved: **150 × 160 × 2 mm**. One board per plate, centered and flat on Textured PEI.
+Three white **official Bambu PETG Basic** projects made from Kyle’s `topboard.3mf`. The supplied board geometry and holes are preserved: **150 × 160 × 2 mm**. One board per plate, flat on Textured PEI at **KY’s saved bed position: X 128 mm / Y 88 mm**. KY, TC and JL use the same orientation and placement.
 
 <img src="models/Topboard-Lightweight.png" alt="White lightweight topboard on the build plate" width="360">
 
