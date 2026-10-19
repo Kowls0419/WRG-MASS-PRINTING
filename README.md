@@ -34,7 +34,11 @@ MIT-licensed motor stand, bottom board, ball intake top, ball intake bottom, and
 
 Open the `.3mf` in Bambu Studio, check the plate/filament match your printer, slice, and print. **Slice and send without saving** — saving in Studio wipes the file's list of overridden settings.
 
-## Latest printing release — 2026-10-16
+## Lightweight topboard — 60 bots
+
+**[Download the latest topboard-only release](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/tag/2026-10-19)** · [Files and printing quantities](Topboard-README.md) — KY, TC and JL versions in **white official Bambu PETG Basic**. Supplied 150 × 160 × 2 mm geometry, bottom-board process settings, one per plate; 60 boards total.
+
+## Previous printing release — 2026-10-16
 
 **[Download TC’s funnel bottom](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/tag/2026-10-16)** — X2D 0.8 HF left nozzle, JP PETG Grey, four copies per plate, ~55 min / 48 g. The release contains only the .3mf file.
 
@@ -59,6 +63,7 @@ Open the `.3mf` in Bambu Studio, check the plate/filament match your printer, sl
 | File | Printer / nozzle | Filament | Plate | Layer / walls / shells / infill | Max flow | Copies | Status |
 |---|---|---|---|---|---|---|---|
 | [`KY-FinalBottom_P2S_0.8HF_TexturedPEI_JPPETG.3mf`](KY/KY-FinalBottom_P2S_0.8HF_TexturedPEI_JPPETG.3mf) | P2S 0.8 HF | JP PETG | Textured PEI 65°C | 0.3 / 3 / 3-3 / 7% | 28 | 1 | ✅ mass printing — flow 28 not yet test-printed |
+| [`KY-Topboard-Lightweight_P2S_0.8HF_TexturedPEI_BambuPETG.3mf`](KY/KY-Topboard-Lightweight_P2S_0.8HF_TexturedPEI_BambuPETG.3mf) | P2S 0.8 HF | Bambu PETG Basic White | Textured PEI 70°C | 0.3 / 3 / 3-3 / 7% | 23 HF | 1 | New lightweight topboard for 60 bots; bottom-board process, first layer 0.2 mm. ~42 min / 31.1 g. [Guide](Topboard-README.md) |
 | [`KY-motorstand_P2S_0.8HF_TexturedPEI_JPPETG.3mf`](KY/KY-motorstand_P2S_0.8HF_TexturedPEI_JPPETG.3mf) | P2S 0.8 HF | JP PETG Grey | Textured PEI 65°C | 0.3 / 3 / 3-3 / 20% | 28 | 36 | Grey 0.8 HF version; original 36-copy motor-stand layout. Walls 2.46 mm, shells 0.9 mm. First layer 0.3 mm. ~7 h 32 min / 396.5 g |
 | [`KY-FunnelTop_P2S_0.8HF_TexturedPEI_JPPETG.3mf`](KY/KY-FunnelTop_P2S_0.8HF_TexturedPEI_JPPETG.3mf) | P2S 0.8 HF | JP PETG White | Textured PEI 65°C | 0.3 / 3 / 3-3 / 7% | 28 | 4 | **Corrected top mesh — 2026-10-13.** White, four interleaved copies using KY JP layout, ~48 min / 38.3 g. [Guide](FunnelTop-Corrected-README.md) |
 | [`KY-FunnelTop_P2S_0.8HF_TexturedPEI_BambuPETG.3mf`](KY/KY-FunnelTop_P2S_0.8HF_TexturedPEI_BambuPETG.3mf) | P2S 0.8 HF | Bambu PETG Basic White | Textured PEI 70°C | 0.3 / 3 / 3-3 / 7% | 23 HF | 4 | **Corrected top mesh — 2026-10-13.** White, four interleaved copies using KY JP layout, ~51 min / 37.7 g. [Guide](FunnelTop-Corrected-README.md) |
@@ -71,6 +76,7 @@ Open the `.3mf` in Bambu Studio, check the plate/filament match your printer, sl
 | File | Printer / nozzle | Filament | Plate | Layer / walls / shells / infill | Max flow | Copies | Status |
 |---|---|---|---|---|---|---|---|
 | [`JL-motorstand_P2S_0.4SF_TexturedPEI_BambuPETG.3mf`](JL/JL-motorstand_P2S_0.4SF_TexturedPEI_BambuPETG.3mf) | P2S 0.4 SF | Bambu PETG Basic Black | Textured PEI 70°C | 0.2 / 6 / 5-5 / 20% | 15 | 36 | ✅ ready — official Bambu PETG Basic 0.4 filament profile; converted from the 0.6 HF motorstand (same wall/shell thickness), 383 g / ~12 h 27 m, not yet test-printed at 0.4mm |
+| [`JL-Topboard-Lightweight_P2S_0.6HF_TexturedPEI_BambuPETG.3mf`](JL/JL-Topboard-Lightweight_P2S_0.6HF_TexturedPEI_BambuPETG.3mf) | P2S 0.6 HF | Bambu PETG Basic White | Textured PEI 70°C | 0.3 / 4 / 3-3 / 7% | 23 HF | 1 | New lightweight topboard for 60 bots; bottom-board process, first layer 0.2 mm. ~54 min / 32.5 g. [Guide](Topboard-README.md) |
 | [`JL-FunnelTop_P2S_0.6HF_TexturedPEI_JPPETG.3mf`](JL/JL-FunnelTop_P2S_0.6HF_TexturedPEI_JPPETG.3mf) | P2S 0.6 HF | JP PETG White | Textured PEI 65°C | 0.3 / 4 / 3-3 / 7% | 28 | 4 | **Corrected top mesh — 2026-10-13.** White, four interleaved copies using KY JP layout, ~65 min / 42.1 g. [Guide](FunnelTop-Corrected-README.md) |
 | [`JL-FunnelTop_P2S_0.6HF_TexturedPEI_BambuPETG.3mf`](JL/JL-FunnelTop_P2S_0.6HF_TexturedPEI_BambuPETG.3mf) | P2S 0.6 HF | Bambu PETG Basic White | Textured PEI 70°C | 0.3 / 4 / 3-3 / 7% | 23 HF | 4 | **Corrected top mesh — 2026-10-13.** White, four interleaved copies using KY JP layout, ~66 min / 41.5 g. [Guide](FunnelTop-Corrected-README.md) |
 
@@ -79,6 +85,7 @@ Open the `.3mf` in Bambu Studio, check the plate/filament match your printer, sl
 | File | Printer / nozzle | Filament | Plate | Layer / walls / shells / infill | Max flow | Copies | Status |
 |---|---|---|---|---|---|---|---|
 | [`TC-FinalBottom_X2D_0.8HF_TexturedPEI_JPPETG.3mf`](TC/TC-FinalBottom_X2D_0.8HF_TexturedPEI_JPPETG.3mf) | X2D 0.8 HF | JP PETG | Textured PEI 65°C | 0.3 / 3 / 3-3 / 7% | 28 | 1 | ✅ ready — X2D 0.8HF printer preset unverified |
+| [`TC-Topboard-Lightweight_X2D_0.8HF_TexturedPEI_BambuPETG.3mf`](TC/TC-Topboard-Lightweight_X2D_0.8HF_TexturedPEI_BambuPETG.3mf) | X2D 0.8 HF | Bambu PETG Basic White | Textured PEI 70°C | 0.3 / 3 / 3-3 / 7% | 23 HF | 1 | New lightweight topboard for 60 bots; bottom-board process, first layer 0.2 mm. ~40 min / 31.1 g. [Guide](Topboard-README.md) |
 | [`TC-FunnelTop_X2D_0.8HF_TexturedPEI_JPPETG.3mf`](TC/TC-FunnelTop_X2D_0.8HF_TexturedPEI_JPPETG.3mf) | X2D 0.8 HF | JP PETG White | Textured PEI 65°C | 0.3 / 3 / 3-3 / 7% | 28 | 4 | **Corrected top mesh — 2026-10-13.** White, four interleaved copies using KY JP layout, ~46 min / 38.3 g. [Guide](FunnelTop-Corrected-README.md) |
 | [`TC-FunnelTop_X2D_0.8HF_TexturedPEI_BambuPETG.3mf`](TC/TC-FunnelTop_X2D_0.8HF_TexturedPEI_BambuPETG.3mf) | X2D 0.8 HF | Bambu PETG Basic White | Textured PEI 70°C | 0.3 / 3 / 3-3 / 7% | 23 HF | 4 | **Corrected top mesh — 2026-10-13.** White, four interleaved copies using KY JP layout, ~49 min / 37.7 g. [Guide](FunnelTop-Corrected-README.md) |
 | [`TC-FunnelBottom_X2D_0.8HF_TexturedPEI_JPPETG.3mf`](TC/TC-FunnelBottom_X2D_0.8HF_TexturedPEI_JPPETG.3mf) | X2D 0.8 HF | JP PETG Grey | Textured PEI 65°C | 0.3 / 3 / 3-3 / 7% | 28 | 4 | Released 2026-10-16 — four per plate, previous funnel mass-print settings, left 0.8 HF nozzle. ~55 min / 48 g |

@@ -1,0 +1,105 @@
+{
+  "source_file": "topboard.3mf",
+  "received": "2026-10-19",
+  "source_sha256": "7c837dd0cbe1bf480a70654ad758d383cd2ebcab0e43d282c35379be32e3c7c5",
+  "dimensions_mm": [
+    150,
+    160,
+    2
+  ],
+  "vertices": 1348,
+  "triangles": 2760,
+  "quantity_total": 60,
+  "projects": [
+    {
+      "owner": "KY",
+      "file": "KY/KY-Topboard-Lightweight_P2S_0.8HF_TexturedPEI_BambuPETG.3mf",
+      "copies": 1,
+      "minutes": 42.05283203125,
+      "grams": 31.083576202392578,
+      "bottom_config": "KY/KY-FinalBottom_P2S_0.8HF_TexturedPEI_JPPETG.3mf",
+      "dimension_mm": [
+        150.0,
+        160.0,
+        2.0
+      ],
+      "volume_mm3": 27880.56043490236,
+      "source_sha256": "7c837dd0cbe1bf480a70654ad758d383cd2ebcab0e43d282c35379be32e3c7c5",
+      "mapped_process_array_keys": []
+    },
+    {
+      "owner": "TC",
+      "file": "TC/TC-Topboard-Lightweight_X2D_0.8HF_TexturedPEI_BambuPETG.3mf",
+      "copies": 1,
+      "minutes": 40.307979329427084,
+      "grams": 31.083576202392578,
+      "bottom_config": "TC/TC-FinalBottom_X2D_0.8HF_TexturedPEI_JPPETG.3mf",
+      "dimension_mm": [
+        150.0,
+        160.0,
+        2.0
+      ],
+      "volume_mm3": 27880.56043490236,
+      "source_sha256": "7c837dd0cbe1bf480a70654ad758d383cd2ebcab0e43d282c35379be32e3c7c5",
+      "mapped_process_array_keys": [
+        "bridge_speed",
+        "default_acceleration",
+        "enable_height_slowdown",
+        "enable_overhang_speed",
+        "gap_infill_speed",
+        "initial_layer_acceleration",
+        "initial_layer_infill_speed",
+        "initial_layer_speed",
+        "initial_layer_travel_acceleration",
+        "inner_wall_acceleration",
+        "inner_wall_speed",
+        "internal_solid_infill_speed",
+        "outer_wall_acceleration",
+        "outer_wall_speed",
+        "overhang_1_4_speed",
+        "overhang_2_4_speed",
+        "overhang_3_4_speed",
+        "overhang_4_4_speed",
+        "overhang_totally_speed",
+        "print_extruder_id",
+        "print_extruder_variant",
+        "slowdown_end_acc",
+        "slowdown_end_height",
+        "slowdown_end_speed",
+        "slowdown_start_acc",
+        "slowdown_start_height",
+        "slowdown_start_speed",
+        "small_perimeter_speed",
+        "small_perimeter_threshold",
+        "sparse_infill_acceleration",
+        "sparse_infill_speed",
+        "support_interface_speed",
+        "support_speed",
+        "top_solid_infill_flow_ratio",
+        "top_surface_acceleration",
+        "top_surface_speed",
+        "travel_acceleration",
+        "travel_short_distance_acceleration",
+        "travel_speed",
+        "travel_speed_z",
+        "vertical_shell_speed"
+      ]
+    },
+    {
+      "owner": "JL",
+      "file": "JL/JL-Topboard-Lightweight_P2S_0.6HF_TexturedPEI_BambuPETG.3mf",
+      "copies": 1,
+      "minutes": 53.58875732421875,
+      "grams": 32.49691390991211,
+      "bottom_config": "KY/KY-FinalBottom_P2S_0.8HF_TexturedPEI_JPPETG.3mf",
+      "dimension_mm": [
+        150.0,
+        160.0,
+        2.0
+      ],
+      "volume_mm3": 27880.56043490236,
+      "source_sha256": "7c837dd0cbe1bf480a70654ad758d383cd2ebcab0e43d282c35379be32e3c7c5",
+      "mapped_process_array_keys": []
+    }
+  ]
+}
