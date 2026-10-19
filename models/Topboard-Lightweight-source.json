@@ -100,6 +100,33 @@
       "volume_mm3": 27880.56043490236,
       "source_sha256": "7c837dd0cbe1bf480a70654ad758d383cd2ebcab0e43d282c35379be32e3c7c5",
       "mapped_process_array_keys": []
+    },
+    {
+      "file": "KY/KY-Topboard-Lightweight_P2S_0.8HF_TexturedPEI_JPPETG.3mf",
+      "owner": "KY",
+      "minutes": 39.79256998697917,
+      "grams": 31.580913543701172,
+      "donor": "KY/KY-FinalBottom_P2S_0.8HF_TexturedPEI_JPPETG.3mf",
+      "material": "JP PETG",
+      "copies": 1
+    },
+    {
+      "file": "TC/TC-Topboard-Lightweight_X2D_0.8HF_TexturedPEI_JPPETG.3mf",
+      "owner": "TC",
+      "minutes": 37.809452311197916,
+      "grams": 31.580913543701172,
+      "donor": "TC/TC-FunnelBottom_X2D_0.8HF_TexturedPEI_JPPETG.3mf",
+      "material": "JP PETG",
+      "copies": 1
+    },
+    {
+      "file": "JL/JL-Topboard-Lightweight_P2S_0.6HF_TexturedPEI_JPPETG.3mf",
+      "owner": "JL",
+      "minutes": 52.107177734375,
+      "grams": 33.01686477661133,
+      "donor": "JL/JL-FunnelTop_P2S_0.6HF_TexturedPEI_JPPETG.3mf",
+      "material": "JP PETG",
+      "copies": 1
     }
   ]
 }
