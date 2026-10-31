@@ -14,9 +14,9 @@ A special MIT-licensed public snapshot of five current WRG KCIS-XG designs. Ongo
 
 ## Downloads / 下載
 
-Download individual **STL** or **STEP** files from Assets below, or download the complete ZIP for everything.
+Download individual **STL** or **STEP** files from Assets below, or download the original five-design ZIP.
 
-您可從下方 Assets 下載個別 **STL** 或 **STEP** 檔案，或下載完整 ZIP 取得全部內容。
+您可從下方 Assets 下載個別 **STL** 或 **STEP** 檔案，或下載原有五種設計的 ZIP。
 
 **All eight custom `.3mf` print configurations are inside the ZIP, in the `print-configs/` folder.**
 
@@ -33,6 +33,15 @@ Download individual **STL** or **STEP** files from Assets below, or download the
 **STL → STEP conversion:** STEP files are closed faceted solids converted from STL, with coplanar faces merged. They preserve mesh geometry and do not recover original parametric CAD features. Choose .3mf settings for your actual printer/nozzle/filament and check the slice.
 
 **STL → STEP 轉換：** STEP 檔案由 STL 轉換為封閉面片實體，並合併共平面面片；保留網格幾何，未還原原始參數化 CAD 功能。請依實際印表機、噴嘴及耗材選擇 .3mf 設定，並確認切片結果。
+
+## H2C additions — 2026-10-31 / H2C 新增檔案 — 2026-10-31
+
+Two additional H2C project files are available as individual Assets. Both use the H2C 0.4 mm PETG settings supplied by Kyle; the original files are unchanged. These additions are separate from the original ZIP.
+
+新增兩個 H2C 專案檔，可於下方 Assets 個別下載。兩者皆保留 Kyle 提供的 H2C 0.4 mm PETG 設定與原始內容；新增檔案不包含於原有 ZIP 中。
+
+- [FinalSumo.3mf](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/download/2026-wrg-kcis-xg-public/FinalSumo.3mf) — Sumo / 相撲機器人
+- [new board.3mf](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/download/2026-wrg-kcis-xg-public/new.board.3mf) — New bottom board / 新版底板
 
 ## Part previews and STL / STEP downloads / 零件預覽與 STL／STEP 下載
 

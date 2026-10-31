@@ -28,3 +28,12 @@ Open in Bambu Studio, check the plate and filament, slice, and send. Saving edit
 Ongoing team configurations: [KY](../../KY/), [JL](../../JL/), [TC](../../TC/).
 
 持續更新的團隊設定：[KY](../../KY/)、[JL](../../JL/)、[TC](../../TC/)。
+
+## H2C additions / H2C 新增檔案 — 2026-10-31
+
+- [FinalSumo.3mf](H2C/FinalSumo.3mf) — Sumo / 相撲機器人
+- [new board.3mf](H2C/new%20board.3mf) — New bottom board / 新版底板
+
+Original supplied H2C 0.4 mm PETG projects, unchanged; individual release Assets, separate from the original ZIP.
+
+保留原始 H2C 0.4 mm PETG 專案內容；可於發佈頁個別下載，不包含於原有 ZIP。

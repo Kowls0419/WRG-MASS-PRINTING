@@ -38,6 +38,10 @@ Open the `.3mf` in Bambu Studio, check the plate/filament match your printer, sl
 
 **[Download the latest topboard-only release](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/tag/2026-10-19)** · [Files and printing quantities](Topboard-README.md) — KY, TC and JL versions in **white JP PETG or official Bambu PETG Basic**. Supplied 150 × 160 × 2 mm geometry, bottom-board process settings, one per plate; 60 boards total.
 
+## KY funnel bottom — 2026-10-31
+
+[Download the 0.4 HF grey funnel-bottom release](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/tag/2026-10-31) — P2S, JP PETG Grey, four per plate, about 1 h 58 min / 39.2 g. Flow capped at 12 mm³/s; physical test pending.
+
 ## Previous printing release — 2026-10-16
 
 **[Download TC’s funnel bottom](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/tag/2026-10-16)** — X2D 0.8 HF left nozzle, JP PETG Grey, four copies per plate, ~55 min / 48 g. The release contains only the .3mf file.
@@ -70,6 +74,7 @@ Open the `.3mf` in Bambu Studio, check the plate/filament match your printer, sl
 | [`KY-FunnelTop_P2S_0.8HF_TexturedPEI_BambuPETG.3mf`](KY/KY-FunnelTop_P2S_0.8HF_TexturedPEI_BambuPETG.3mf) | P2S 0.8 HF | Bambu PETG Basic White | Textured PEI 70°C | 0.3 / 3 / 3-3 / 7% | 23 HF | 4 | **Corrected top mesh — 2026-10-13.** White, four interleaved copies using KY JP layout, ~51 min / 37.7 g. [Guide](FunnelTop-Corrected-README.md) |
 | [`KY-BatTop-Standard_P2S_0.8HF_TexturedPEI_JPPETG.3mf`](KY/KY-BatTop-Standard_P2S_0.8HF_TexturedPEI_JPPETG.3mf) | P2S 0.8 HF | JP PETG | Textured PEI 70°C | adaptive 0.16–0.56 / 3 / 2-2 / 7% | 28 | 12 | ✅ mass printing (60 needed = 5 plates) — **verified Standard mesh**, standing on end, settings from TEST3: Tree Slim (top Z 0.3 / XY 0.4), anti-sway speeds, seam fix, auto brim 5 mm. ✅ **12-copy plate test-printed successfully (2026-10-04)** |
 | [`KY-BatTop-Standard_P2S_0.8HF_TexturedPEI_BambuPETG.3mf`](KY/KY-BatTop-Standard_P2S_0.8HF_TexturedPEI_BambuPETG.3mf) | P2S 0.8 HF | Bambu PETG Basic Yellow | Textured PEI 70°C | adaptive 0.16–0.56 / 3 / 2-2 / 7% | 21 | 12 | Same as KY BatTop Standard (12 standing copies) but with the **official Bambu PETG Basic 0.8 profile**: 250/245 °C, retraction 0.4, max flow 21, fan max 60%. Not yet test-printed |
+| [`KY-FunnelBottom_P2S_0.4HF_TexturedPEI_JPPETG.3mf`](KY/KY-FunnelBottom_P2S_0.4HF_TexturedPEI_JPPETG.3mf) | P2S 0.4 HF | JP PETG Grey | Textured PEI 65°C | 0.2 / 4 / 3-2 / 7% | 12 | 4 | New 0.4 HF version; CLI slice passed, ~1 h 58 min / 39.2 g. Physical test pending |
 | [`KY-FunnelBottom_P2S_0.8HF_TexturedPEI_JPPETG.3mf`](KY/KY-FunnelBottom_P2S_0.8HF_TexturedPEI_JPPETG.3mf) | P2S 0.8 HF | JP PETG Grey | Textured PEI 65°C | 0.3 / 3 / 3-3 / 7% | 28 | 4 | ▶️ currently printing — funnel bottom, 4 per plate, grey JP PETG |
 
 ## JL (Justin)
