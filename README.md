@@ -26,9 +26,18 @@ MIT-licensed motor stand, bottom board, ball intake top, ball intake bottom, and
 | Ball intake bottom / 吃求口（之後提供）—下片 | <img src="public-release/previews/funnel-bottom.png" alt="Ball intake bottom / 吃求口（之後提供）—下片" width="260"> |
 | Standard battery box / 電池匣 | <img src="public-release/previews/battery-box-standard.png" alt="Standard battery box / 電池匣" width="260"> |
 
+### H2C additions / H2C 新增零件
+
+[H2C folder and settings / H2C 專案與設定](H2C/) · [Public release downloads / 公開發佈下載](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/tag/2026-wrg-kcis-xg-public)
+
+| Part / 零件 | Preview / 預覽 | Project / 專案 |
+|---|---|---|
+| Sumo / 相撲機器人零件 — 3 per plate / 每盤 3 個 | <img src="H2C/previews/sumo.png" alt="Sumo parts / 相撲機器人零件" width="260"> | [FinalSumo.3mf](H2C/FinalSumo.3mf) |
+| New bottom board / 新版底板 — 4 per plate / 每盤 4 片 | <img src="H2C/previews/new-bottom-board.png" alt="New bottom board / 新版底板" width="260"> | [new board.3mf](H2C/new%20board.3mf) |
+
 ## ⬇️ How to get your files
 
-- **Easiest:** go to **[Releases → Latest](../../releases/latest)** and download the matching `.3mf` from *Assets*. Choose your printer owner and filament; the latest release contains the six corrected funnel-top projects.
+- **Easiest:** go to **[Releases → Latest](../../releases/latest)** and download the matching `.3mf` from *Assets*. Choose your printer owner and filament; the latest release contains the KY 0.4 HF grey funnel-bottom project. H2C Sumo and new bottom-board files are in the [bilingual public release](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/tag/2026-wrg-kcis-xg-public).
 - **Always-newest single file:** open your folder below → click the file → **Download raw file** (↓ icon).
 - **What changed:** open a file → **History**.
 
@@ -98,6 +107,13 @@ Open the `.3mf` in Bambu Studio, check the plate/filament match your printer, sl
 | [`TC-FunnelTop_X2D_0.8HF_TexturedPEI_BambuPETG.3mf`](TC/TC-FunnelTop_X2D_0.8HF_TexturedPEI_BambuPETG.3mf) | X2D 0.8 HF | Bambu PETG Basic White | Textured PEI 70°C | 0.3 / 3 / 3-3 / 7% | 23 HF | 4 | **Corrected top mesh — 2026-10-13.** White, four interleaved copies using KY JP layout, ~49 min / 37.7 g. [Guide](FunnelTop-Corrected-README.md) |
 | [`TC-FunnelBottom_X2D_0.8HF_TexturedPEI_JPPETG.3mf`](TC/TC-FunnelBottom_X2D_0.8HF_TexturedPEI_JPPETG.3mf) | X2D 0.8 HF | JP PETG Grey | Textured PEI 65°C | 0.3 / 3 / 3-3 / 7% | 28 | 4 | Released 2026-10-16 — four per plate, previous funnel mass-print settings, left 0.8 HF nozzle. ~55 min / 48 g |
 | [`TC-Converter_X2D_0.8HF_TexturedPEI_JPPETG.3mf`](TC/TC-Converter_X2D_0.8HF_TexturedPEI_JPPETG.3mf) | X2D 0.8 HF | JP PETG Black | Textured PEI 65°C | 0.3 / 3 / 3-1 / 7% | 28 | 9 | ▶️ assigned to TC — full 3×3 plate, first layer 0.2 mm, original speeds (top surface 80 mm/s), left extruder. ~1 h 55 min / 94 g |
+
+## H2C
+
+| File | Printer / nozzle | Filament | Plate | Layer / walls / shells / infill | Copies | Status |
+|---|---|---|---|---|---|---|
+| [FinalSumo.3mf](H2C/FinalSumo.3mf) | H2C 0.4 SF | Bambu PETG Basic Black | Textured PEI 70°C | 0.2 / 2 / 5-3 / 15% | 3 | Original supplied Sumo project; [preview and guide](H2C/) |
+| [new board.3mf](H2C/new%20board.3mf) | H2C 0.4 SF | Bambu PETG Basic Red | Textured PEI 70°C | 0.2 / 4 / 5-3 / 7% | 4 | Original supplied new bottom-board project; [preview and guide](H2C/) |
 
 ## 🧪 WIP — being tested, don't print yet
 

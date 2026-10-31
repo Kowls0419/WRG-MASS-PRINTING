@@ -43,6 +43,15 @@ Two additional H2C project files are available as individual Assets. Both use th
 - [FinalSumo.3mf](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/download/2026-wrg-kcis-xg-public/FinalSumo.3mf) — Sumo / 相撲機器人
 - [new board.3mf](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/download/2026-wrg-kcis-xg-public/new.board.3mf) — New bottom board / 新版底板
 
+### H2C previews / H2C 零件預覽
+
+[H2C project folder and settings / H2C 專案與設定](https://github.com/Kowls0419/WRG-MASS-PRINTING/tree/main/H2C)
+
+| Sumo / 相撲機器人零件 | New bottom board / 新版底板 |
+|---|---|
+| <img src="https://raw.githubusercontent.com/Kowls0419/WRG-MASS-PRINTING/main/H2C/previews/sumo.png" alt="Sumo / 相撲機器人零件" width="260"> | <img src="https://raw.githubusercontent.com/Kowls0419/WRG-MASS-PRINTING/main/H2C/previews/new-bottom-board.png" alt="New bottom board / 新版底板" width="260"> |
+| [FinalSumo.3mf](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/download/2026-wrg-kcis-xg-public/FinalSumo.3mf) | [new board.3mf](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/download/2026-wrg-kcis-xg-public/new.board.3mf) |
+
 ## Part previews and STL / STEP downloads / 零件預覽與 STL／STEP 下載
 
 | Motor stand<br>馬達支架 | Bottom board<br>底板 | Ball intake top<br>吃求口上片<br>（之後提供） | Ball intake bottom<br>吃求口下片<br>（之後提供） | Standard battery box<br>電池匣 |
