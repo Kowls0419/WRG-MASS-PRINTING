@@ -126,6 +126,58 @@
         "stl/battery-box-standard.stl": "d70bc7970d85cc59bc5a9465f2f141b7ce73450382a051a6c71882fb4b138fc4",
         "step/battery-box-standard.step": "40d0bd83699cfe89835422417cc9e39eab46bdc95ab35674e5c96f1dd798b986"
       }
+    },
+    {
+      "part": "intake-pocket-mid-3mm",
+      "original_stl": "/Users/kyle/Desktop/3mm Funnel.stl",
+      "stl_triangles": 1368,
+      "stl_dimensions_mm": [
+        225.0,
+        85.70000076293945,
+        3.0
+      ],
+      "stl_volume_mm3": 16185.24028220836,
+      "step_validation": {
+        "valid": true,
+        "volume_mm3": 16185.24028222068,
+        "dimensions_mm": [
+          225.0000002,
+          85.70000096293148,
+          3.0000002000000006
+        ],
+        "solids": 1
+      },
+      "files": {
+        "stl/intake-pocket-mid-3mm.stl": "cae558e0cd45ff73006bbab495942e7ffc16b5ed12387e446aeaed04876cc957",
+        "step/intake-pocket-mid-3mm.step": "80e3afb387e4912a7491157bf0a6f434836b3c7835b89fd270f65508bce7a75f",
+        "previews/intake-pocket-mid-3mm.png": "a438005d7d82aaedc22b405be8b655687310a13bf420dc4bcdeb4265c9b7de55"
+      }
+    },
+    {
+      "part": "intake-pocket-bottom-5mm",
+      "original_stl": "/Users/kyle/Desktop/5mm Funnel.stl",
+      "stl_triangles": 1376,
+      "stl_dimensions_mm": [
+        225.0,
+        87.20000076293945,
+        5.0
+      ],
+      "stl_volume_mm3": 31556.882668674243,
+      "step_validation": {
+        "valid": true,
+        "volume_mm3": 31556.88266869834,
+        "dimensions_mm": [
+          225.0000002,
+          87.20000096293988,
+          5.000000200000001
+        ],
+        "solids": 1
+      },
+      "files": {
+        "stl/intake-pocket-bottom-5mm.stl": "fc15851a485d29cd19dec3359dbe77504bea4dfa2e32cd0d9c59c14ff4393e02",
+        "step/intake-pocket-bottom-5mm.step": "86b1319c3fdbe7cb2cf2c2683cc43acc5a44e43703dc7fed8823cc5d6118f199",
+        "previews/intake-pocket-bottom-5mm.png": "6e614e14e80c60e09454051e38d5e77791c402e964ffc3332a967a20ece405d7"
+      }
     }
   ]
 }

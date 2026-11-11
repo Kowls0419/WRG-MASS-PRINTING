@@ -64,6 +64,161 @@
       "source": "TC/TC-FunnelBottom_X2D_0.8HF_TexturedPEI_JPPETG.3mf",
       "file": "print-configs/TC-FunnelBottom_X2D_0.8HF_TexturedPEI_JPPETG.3mf",
       "sha256": "5fdba9983485decfe03056771073c9aad3c562722c2cf3838fd9db7e5a7149f1"
+    },
+    {
+      "source": "H2C/h2c-intake-pocket-bottom-5mm-red.3mf",
+      "file": "print-configs/H2C/h2c-intake-pocket-bottom-5mm-red.3mf",
+      "sha256": "07ce15b7cceef88dcee6e8517c9194d258733a94949cce9c6f1b5c3cba9af054"
+    },
+    {
+      "source": "H2C/h2c-intake-pocket-mid-3mm-black.3mf",
+      "file": "print-configs/H2C/h2c-intake-pocket-mid-3mm-black.3mf",
+      "sha256": "cc40e4c24269bab0490bdeee13d555b45bd29e65a5d326f09c446ecf4a5277ae"
+    },
+    {
+      "source": "P2S/p2s-intake-pocket-mid-3mm-black.3mf",
+      "file": "print-configs/P2S/p2s-intake-pocket-mid-3mm-black.3mf",
+      "sha256": "b732a034374cc1a95ed2cb27b39e694fa02128831e4727e161faf6d32bdd2f1b"
+    },
+    {
+      "source": "H2C/FinalSumo.3mf",
+      "file": "print-configs/H2C/FinalSumo.3mf",
+      "sha256": "80401c275d1ccdbc7d8badb257d932b87f7fb9a67f39d2b9372b33267d8d8747"
+    },
+    {
+      "source": "H2C/new board.3mf",
+      "file": "print-configs/H2C/new board.3mf",
+      "sha256": "a2e1bb1368d59c47315335f3f1eb1876c106d794a3fa5bc12f702f5247d70aa7"
     }
-  ]
+  ],
+  "updated_date": "2026-11-11",
+  "intake_pocket_additions": {
+    "date": "2026-11-11",
+    "parts": [
+      {
+        "part": "intake-pocket-mid-3mm",
+        "original_stl": "/Users/kyle/Desktop/3mm Funnel.stl",
+        "stl_triangles": 1368,
+        "stl_dimensions_mm": [
+          225.0,
+          85.70000076293945,
+          3.0
+        ],
+        "stl_volume_mm3": 16185.24028220836,
+        "step_validation": {
+          "valid": true,
+          "volume_mm3": 16185.24028222068,
+          "dimensions_mm": [
+            225.0000002,
+            85.70000096293148,
+            3.0000002000000006
+          ],
+          "solids": 1
+        },
+        "files": {
+          "stl/intake-pocket-mid-3mm.stl": "cae558e0cd45ff73006bbab495942e7ffc16b5ed12387e446aeaed04876cc957",
+          "step/intake-pocket-mid-3mm.step": "80e3afb387e4912a7491157bf0a6f434836b3c7835b89fd270f65508bce7a75f",
+          "previews/intake-pocket-mid-3mm.png": "a438005d7d82aaedc22b405be8b655687310a13bf420dc4bcdeb4265c9b7de55"
+        }
+      },
+      {
+        "part": "intake-pocket-bottom-5mm",
+        "original_stl": "/Users/kyle/Desktop/5mm Funnel.stl",
+        "stl_triangles": 1376,
+        "stl_dimensions_mm": [
+          225.0,
+          87.20000076293945,
+          5.0
+        ],
+        "stl_volume_mm3": 31556.882668674243,
+        "step_validation": {
+          "valid": true,
+          "volume_mm3": 31556.88266869834,
+          "dimensions_mm": [
+            225.0000002,
+            87.20000096293988,
+            5.000000200000001
+          ],
+          "solids": 1
+        },
+        "files": {
+          "stl/intake-pocket-bottom-5mm.stl": "fc15851a485d29cd19dec3359dbe77504bea4dfa2e32cd0d9c59c14ff4393e02",
+          "step/intake-pocket-bottom-5mm.step": "86b1319c3fdbe7cb2cf2c2683cc43acc5a44e43703dc7fed8823cc5d6118f199",
+          "previews/intake-pocket-bottom-5mm.png": "6e614e14e80c60e09454051e38d5e77791c402e964ffc3332a967a20ece405d7"
+        }
+      }
+    ],
+    "print_configs": [
+      {
+        "source": "/Users/kyle/ARCHIVE/Bambu Studio/H2C/h2c [mod] final 5mm bottom funnel red.3mf",
+        "file": "H2C/h2c-intake-pocket-bottom-5mm-red.3mf",
+        "sha256": "07ce15b7cceef88dcee6e8517c9194d258733a94949cce9c6f1b5c3cba9af054",
+        "part": "intake-pocket-bottom-5mm",
+        "mesh_count": 1,
+        "settings": {
+          "printer_settings_id": "Bambu Lab H2C 0.4 nozzle",
+          "nozzle_diameter": [
+            "0.4",
+            "0.4"
+          ],
+          "nozzle_volume_type": [
+            "Standard",
+            "Standard"
+          ],
+          "layer_height": "0.2",
+          "wall_loops": "4",
+          "top_shell_layers": "5",
+          "bottom_shell_layers": "3",
+          "sparse_infill_density": "15%"
+        },
+        "preview": "H2C/previews/h2c-intake-pocket-bottom-5mm-red.png"
+      },
+      {
+        "source": "/Users/kyle/ARCHIVE/Bambu Studio/H2C/h2c [60] final 3mm mid funnel black.3mf",
+        "file": "H2C/h2c-intake-pocket-mid-3mm-black.3mf",
+        "sha256": "cc40e4c24269bab0490bdeee13d555b45bd29e65a5d326f09c446ecf4a5277ae",
+        "part": "intake-pocket-mid-3mm",
+        "mesh_count": 1,
+        "settings": {
+          "printer_settings_id": "Bambu Lab H2C 0.4 nozzle",
+          "nozzle_diameter": [
+            "0.4",
+            "0.4"
+          ],
+          "nozzle_volume_type": [
+            "Standard",
+            "Standard"
+          ],
+          "layer_height": "0.2",
+          "wall_loops": "4",
+          "top_shell_layers": "5",
+          "bottom_shell_layers": "3",
+          "sparse_infill_density": "15%"
+        },
+        "preview": "H2C/previews/h2c-intake-pocket-mid-3mm-black.png"
+      },
+      {
+        "source": "/Users/kyle/ARCHIVE/Bambu Studio/p2s [60] final 3mm mid funnel black.3mf",
+        "file": "P2S/p2s-intake-pocket-mid-3mm-black.3mf",
+        "sha256": "b732a034374cc1a95ed2cb27b39e694fa02128831e4727e161faf6d32bdd2f1b",
+        "part": "intake-pocket-mid-3mm",
+        "mesh_count": 4,
+        "settings": {
+          "printer_settings_id": "Bambu Lab P2S 0.4 nozzle",
+          "nozzle_diameter": [
+            "0.4"
+          ],
+          "nozzle_volume_type": [
+            "High Flow"
+          ],
+          "layer_height": "0.2",
+          "wall_loops": "4",
+          "top_shell_layers": "5",
+          "bottom_shell_layers": "3",
+          "sparse_infill_density": "15%"
+        },
+        "preview": "P2S/previews/p2s-intake-pocket-mid-3mm-black.png"
+      }
+    ]
+  }
 }

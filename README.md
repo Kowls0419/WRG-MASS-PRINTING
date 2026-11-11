@@ -8,15 +8,42 @@ WRG 機器人團隊的列印工作檔案與公開模型發佈；請參閱下方�
 
 [Download the special public release](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/tag/2026-wrg-kcis-xg-public) · [Models and documentation](public-release/) · [Custom .3mf print configurations](public-release/print-configs/)
 
-MIT-licensed motor stand, bottom board, ball intake top, ball intake bottom, and standard battery box. Includes single-part STL files and **STL → STEP conversions**. This is a fixed public snapshot; working print projects below continue to evolve.
+MIT-licensed motor stand, bottom board, ball intake top, ball intake bottom, and standard battery box. Includes single-part STL files and **STL → STEP conversions**. The public collection now also includes stronger 3 mm / 5 mm intake pockets and supplied H2C/P2S projects; earlier 2 mm funnels remain historical.
 
-採用 MIT 授權公開馬達支架、底板、吃求口（之後提供）的上片與下片與電池匣，包含單一零件 STL 與 **STL → STEP 轉換檔案**。本次公開發佈為固定快照；下方的列印工作專案仍持續更新。
+採用 MIT 授權公開馬達支架、底板、吃求口（之後提供）的上片與下片與電池匣，包含單一零件 STL 與 **STL → STEP 轉換檔案**。公開合集亦收錄新版加厚 3 mm／5 mm 吃球口口袋與提供的 H2C／P2S 專案；舊版 2 mm 漏斗保留作為歷史版本。
 
-**All eight custom `.3mf` print configurations are inside the ZIP, in the `print-configs/` folder.**
+**The updated public ZIP contains 13 `.3mf` projects, including the three new intake-pocket projects.**
 
-**八個自訂 `.3mf` 列印設定檔均位於 ZIP 壓縮檔內的 `print-configs/` 資料夾。**
+**更新後公開 ZIP 包含 13 個 `.3mf` 專案，其中包括三個新版吃球口口袋專案。**
 
-### Part previews / 零件預覽
+## Stronger intake pockets — 2026-11-11 / 加厚吃球口口袋 — 2026-11-11
+
+Kyle reported that the previous 2 mm top and two-bottom funnel arrangement was too weak. Use these supplied 3 mm mid and 5 mm bottom pockets for the revised design. The earlier funnel files remain available as historical versions; strength of the new parts has not yet been recorded here.
+
+Kyle 回報先前 2 mm 上片搭配兩片下片的吃球口配置強度不足。新版設計改用此次提供的 3 mm 中層口袋與 5 mm 底層口袋。舊版漏斗檔案保留作為歷史版本；此處尚未記錄新版零件的強度測試結果。
+
+| Part / 零件 | Preview / 預覽 | Dimensions / 尺寸 (mm) | STL | STEP |
+|---|---|---|---|---|
+| 3 mm mid intake pocket / 3 mm 中層吃球口口袋 | <img src="public-release/previews/intake-pocket-mid-3mm.png" alt="3 mm mid intake pocket" width="280"> | 225 × 85.7 × 3 | [STL](public-release/stl/intake-pocket-mid-3mm.stl) | [STEP](public-release/step/intake-pocket-mid-3mm.step) |
+| 5 mm bottom intake pocket / 5 mm 底層吃球口口袋 | <img src="public-release/previews/intake-pocket-bottom-5mm.png" alt="5 mm bottom intake pocket" width="280"> | 225 × 87.2 × 5 | [STL](public-release/stl/intake-pocket-bottom-5mm.stl) | [STEP](public-release/step/intake-pocket-bottom-5mm.step) |
+
+The STEP files are faceted solids converted from the supplied STL meshes, with coplanar faces merged; they do not restore parametric CAD history. Each STEP was reimported and checked as one valid solid with matching dimensions and volume.
+
+STEP 檔案由提供的 STL 網格轉為面片實體，並合併共平面面片，未還原參數化 CAD 建模歷程。兩個 STEP 均重新匯入，確認為單一有效實體，且尺寸與體積符合 STL。
+
+### Supplied print projects / 提供的列印專案
+
+All three projects preserve the supplied settings and geometry byte for byte: 0.2 mm layers, four walls, 5/3 top/bottom shells, 15% infill. Check the selected hardware and filament in Studio before printing.
+
+三個專案完整保留原始設定與模型：0.2 mm 層高、四道牆、上／下殼層 5／3 層、15% 填充。列印前請在 Studio 確認所選設備與耗材。
+
+| Printer / 印表機 | Part / 零件 | Nozzle / 噴嘴 | Filament / 耗材 | Parts per plate / 每盤零件數 | Project / 專案 |
+|---|---|---|---|---|---|
+| H2C | 5 mm bottom / 5 mm 底層 | 0.4 SF | Red Bambu PETG Basic / 紅色 Bambu PETG Basic | 1 | [h2c-intake-pocket-bottom-5mm-red.3mf](H2C/h2c-intake-pocket-bottom-5mm-red.3mf) |
+| H2C | 3 mm mid / 3 mm 中層 | 0.4 SF | Black Bambu PETG Basic / 黑色 Bambu PETG Basic | 1 | [h2c-intake-pocket-mid-3mm-black.3mf](H2C/h2c-intake-pocket-mid-3mm-black.3mf) |
+| P2S | 3 mm mid / 3 mm 中層 | 0.4 HF | Black Generic PETG / 黑色 Generic PETG | 4 | [p2s-intake-pocket-mid-3mm-black.3mf](P2S/p2s-intake-pocket-mid-3mm-black.3mf) |
+
+### Original part previews / 原始零件預覽
 
 | Part / 零件 | Preview / 預覽 |
 |---|---|
@@ -107,6 +134,10 @@ Open the `.3mf` in Bambu Studio, check the plate/filament match your printer, sl
 | [`TC-FunnelTop_X2D_0.8HF_TexturedPEI_BambuPETG.3mf`](TC/TC-FunnelTop_X2D_0.8HF_TexturedPEI_BambuPETG.3mf) | X2D 0.8 HF | Bambu PETG Basic White | Textured PEI 70°C | 0.3 / 3 / 3-3 / 7% | 23 HF | 4 | **Corrected top mesh — 2026-10-13.** White, four interleaved copies using KY JP layout, ~49 min / 37.7 g. [Guide](FunnelTop-Corrected-README.md) |
 | [`TC-FunnelBottom_X2D_0.8HF_TexturedPEI_JPPETG.3mf`](TC/TC-FunnelBottom_X2D_0.8HF_TexturedPEI_JPPETG.3mf) | X2D 0.8 HF | JP PETG Grey | Textured PEI 65°C | 0.3 / 3 / 3-3 / 7% | 28 | 4 | Released 2026-10-16 — four per plate, previous funnel mass-print settings, left 0.8 HF nozzle. ~55 min / 48 g |
 | [`TC-Converter_X2D_0.8HF_TexturedPEI_JPPETG.3mf`](TC/TC-Converter_X2D_0.8HF_TexturedPEI_JPPETG.3mf) | X2D 0.8 HF | JP PETG Black | Textured PEI 65°C | 0.3 / 3 / 3-1 / 7% | 28 | 9 | ▶️ assigned to TC — full 3×3 plate, first layer 0.2 mm, original speeds (top surface 80 mm/s), left extruder. ~1 h 55 min / 94 g |
+
+## P2S
+
+[P2S intake-pocket projects and previews / P2S 吃球口口袋專案與預覽](P2S/) — 3 mm mid pocket, black PETG, four per plate.
 
 ## H2C
 
