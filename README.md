@@ -43,7 +43,7 @@ All three projects preserve the supplied settings and geometry byte for byte: 0.
 | H2C | 3 mm mid / 3 mm 中層 | 0.4 SF | Black Bambu PETG Basic / 黑色 Bambu PETG Basic | 1 | [h2c-intake-pocket-mid-3mm-black.3mf](H2C/h2c-intake-pocket-mid-3mm-black.3mf) |
 | P2S | 3 mm mid / 3 mm 中層 | 0.4 HF | Black Generic PETG / 黑色 Generic PETG | 4 | [p2s-intake-pocket-mid-3mm-black.3mf](P2S/p2s-intake-pocket-mid-3mm-black.3mf) |
 
-### Original part previews / 原始零件預覽
+### Part previews / 零件預覽
 
 | Part / 零件 | Preview / 預覽 |
 |---|---|
@@ -52,15 +52,10 @@ All three projects preserve the supplied settings and geometry byte for byte: 0.
 | Ball intake top / 吃求口（之後提供）—上片 | <img src="public-release/previews/funnel-top.png" alt="Ball intake top / 吃求口（之後提供）—上片" width="260"> |
 | Ball intake bottom / 吃求口（之後提供）—下片 | <img src="public-release/previews/funnel-bottom.png" alt="Ball intake bottom / 吃求口（之後提供）—下片" width="260"> |
 | Standard battery box / 電池匣 | <img src="public-release/previews/battery-box-standard.png" alt="Standard battery box / 電池匣" width="260"> |
-
-### H2C additions / H2C 新增零件
-
-[H2C folder and settings / H2C 專案與設定](H2C/) · [Public release downloads / 公開發佈下載](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/tag/2026-wrg-kcis-xg-public)
-
-| Part / 零件 | Preview / 預覽 | Project / 專案 |
-|---|---|---|
-| Sumo / 相撲機器人零件 — 3 per plate / 每盤 3 個 | <img src="H2C/previews/sumo.png" alt="Sumo parts / 相撲機器人零件" width="260"> | [FinalSumo.3mf](H2C/FinalSumo.3mf) |
-| New bottom board / 新版底板 — 4 per plate / 每盤 4 片 | <img src="H2C/previews/new-bottom-board.png" alt="New bottom board / 新版底板" width="260"> | [new board.3mf](H2C/new%20board.3mf) |
+| Sumo / 相撲機器人零件 | <a href="H2C/FinalSumo.3mf"><img src="public-release/previews/sumo.png" alt="Sumo / 相撲機器人零件" width="260"></a><br>[H2C .3mf](H2C/FinalSumo.3mf) |
+| New bottom board / 新版底板 | <a href="H2C/new%20board.3mf"><img src="public-release/previews/new-bottom-board.png" alt="New bottom board / 新版底板" width="260"></a><br>[H2C .3mf](H2C/new%20board.3mf) |
+| 3 mm mid intake pocket / 3 mm 中層吃球口口袋 | <img src="public-release/previews/intake-pocket-mid-3mm.png" alt="3 mm mid intake pocket" width="260"><br>[STL](public-release/stl/intake-pocket-mid-3mm.stl) · [STEP](public-release/step/intake-pocket-mid-3mm.step) · [H2C .3mf](H2C/h2c-intake-pocket-mid-3mm-black.3mf) · [P2S .3mf](P2S/p2s-intake-pocket-mid-3mm-black.3mf) |
+| 5 mm bottom intake pocket / 5 mm 底層吃球口口袋 | <img src="public-release/previews/intake-pocket-bottom-5mm.png" alt="5 mm bottom intake pocket" width="260"><br>[STL](public-release/stl/intake-pocket-bottom-5mm.stl) · [STEP](public-release/step/intake-pocket-bottom-5mm.step) · [H2C .3mf](H2C/h2c-intake-pocket-bottom-5mm-red.3mf) |
 
 ## ⬇️ How to get your files
 
