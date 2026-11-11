@@ -45,13 +45,13 @@ Download individual **STL** or **STEP** files from Assets below, or download the
 
 您可從下方 Assets 下載個別 **STL** 或 **STEP** 檔案，或下載更新後的完整 ZIP。
 
-**The updated ZIP contains seven STL models, seven converted STEP models, and 13 `.3mf` projects, including all H2C/P2S additions.**
+**The updated ZIP contains nine STL models, nine converted STEP models, and 13 `.3mf` projects, including all H2C/P2S additions.**
 
-**更新後 ZIP 包含七個 STL 模型、七個轉換後 STEP 模型，以及 13 個 `.3mf` 專案，涵蓋所有 H2C／P2S 新增檔案。**
+**更新後 ZIP 包含九個 STL 模型、九個轉換後 STEP 模型，以及 13 個 `.3mf` 專案，涵蓋所有 H2C／P2S 新增檔案。**
 
-- `2026-WRG-KCIS-XG-Public-Release.zip` — complete package: seven STL files, seven STEP files, 13 custom .3mf projects, named part previews, English/Traditional Chinese documentation and MIT license.
+- `2026-WRG-KCIS-XG-Public-Release.zip` — complete package: nine STL files, nine STEP files, 13 custom .3mf projects, named part previews, English/Traditional Chinese documentation and MIT license.
 
-- `2026-WRG-KCIS-XG-Public-Release.zip`：完整套件，包含七個 STL、七個 STEP、13 個自訂 .3mf 專案、附名稱的零件預覽圖、英文／繁體中文說明與 MIT 授權條款。
+- `2026-WRG-KCIS-XG-Public-Release.zip`：完整套件，包含九個 STL、九個 STEP、13 個自訂 .3mf 專案、附名稱的零件預覽圖、英文／繁體中文說明與 MIT 授權條款。
 
 [Model guide](https://github.com/Kowls0419/WRG-MASS-PRINTING/tree/main/public-release) · [Custom .3mf print configurations](https://github.com/Kowls0419/WRG-MASS-PRINTING/tree/main/public-release/print-configs)
 
@@ -60,6 +60,15 @@ Download individual **STL** or **STEP** files from Assets below, or download the
 **STL → STEP conversion:** STEP files are closed faceted solids converted from STL, with coplanar faces merged. They preserve mesh geometry and do not recover original parametric CAD features. Choose .3mf settings for your actual printer/nozzle/filament and check the slice.
 
 **STL → STEP 轉換：** STEP 檔案由 STL 轉換為封閉面片實體，並合併共平面面片；保留網格幾何，未還原原始參數化 CAD 功能。請依實際印表機、噴嘴及耗材選擇 .3mf 設定，並確認切片結果。
+
+## Individual Sumo and new bottom-board models / Sumo 與新版底板單一零件模型
+
+Added 2026-11-11: each STL and STEP contains one part extracted from its original H2C project. Only translation to the origin was applied; the original project geometry and settings are unchanged. STEP conversions were reimported as single valid solids with matching dimensions and volume.
+
+2026-11-11 新增：各 STL 與 STEP 均為原 H2C 專案中的單一零件，僅平移至原點；原專案模型與設定未更動。STEP 轉換後重新匯入，確認為單一有效實體，且尺寸與體積符合原模型。
+
+- Sumo / 相撲機器人零件 — 213.2 × 81.85 × 77 mm: [STL](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/download/2026-wrg-kcis-xg-public/sumo.stl) · [STEP](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/download/2026-wrg-kcis-xg-public/sumo.step)
+- New bottom board / 新版底板 — 150 × 158 × 4 mm: [STL](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/download/2026-wrg-kcis-xg-public/new-bottom-board.stl) · [STEP](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/download/2026-wrg-kcis-xg-public/new-bottom-board.step)
 
 ## H2C additions — 2026-10-31 / H2C 新增檔案 — 2026-10-31
 
@@ -80,4 +89,4 @@ Two additional H2C project files are available as individual Assets. Both use th
 | Sumo / 相撲機器人零件 | New bottom board / 新版底板 | 3 mm mid intake pocket / 3 mm 中層吃球口口袋 | 5 mm bottom intake pocket / 5 mm 底層吃球口口袋 |
 |---|---|---|---|
 | <img src="https://raw.githubusercontent.com/Kowls0419/WRG-MASS-PRINTING/main/public-release/previews/sumo.png" alt="Sumo / 相撲機器人零件" width="180"> | <img src="https://raw.githubusercontent.com/Kowls0419/WRG-MASS-PRINTING/main/public-release/previews/new-bottom-board.png" alt="New bottom board / 新版底板" width="180"> | <img src="https://raw.githubusercontent.com/Kowls0419/WRG-MASS-PRINTING/main/public-release/previews/intake-pocket-mid-3mm.png" alt="3 mm mid intake pocket" width="180"> | <img src="https://raw.githubusercontent.com/Kowls0419/WRG-MASS-PRINTING/main/public-release/previews/intake-pocket-bottom-5mm.png" alt="5 mm bottom intake pocket" width="180"> |
-| [H2C .3mf](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/download/2026-wrg-kcis-xg-public/FinalSumo.3mf) | [H2C .3mf](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/download/2026-wrg-kcis-xg-public/new.board.3mf) | [STL](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/download/2026-wrg-kcis-xg-public/intake-pocket-mid-3mm.stl) · [STEP](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/download/2026-wrg-kcis-xg-public/intake-pocket-mid-3mm.step)<br>[H2C .3mf](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/download/2026-wrg-kcis-xg-public/h2c-intake-pocket-mid-3mm-black.3mf) · [P2S .3mf](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/download/2026-wrg-kcis-xg-public/p2s-intake-pocket-mid-3mm-black.3mf) | [STL](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/download/2026-wrg-kcis-xg-public/intake-pocket-bottom-5mm.stl) · [STEP](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/download/2026-wrg-kcis-xg-public/intake-pocket-bottom-5mm.step)<br>[H2C .3mf](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/download/2026-wrg-kcis-xg-public/h2c-intake-pocket-bottom-5mm-red.3mf) |
+| [STL](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/download/2026-wrg-kcis-xg-public/sumo.stl) · [STEP](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/download/2026-wrg-kcis-xg-public/sumo.step)<br>[H2C .3mf](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/download/2026-wrg-kcis-xg-public/FinalSumo.3mf) | [STL](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/download/2026-wrg-kcis-xg-public/new-bottom-board.stl) · [STEP](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/download/2026-wrg-kcis-xg-public/new-bottom-board.step)<br>[H2C .3mf](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/download/2026-wrg-kcis-xg-public/new.board.3mf) | [STL](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/download/2026-wrg-kcis-xg-public/intake-pocket-mid-3mm.stl) · [STEP](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/download/2026-wrg-kcis-xg-public/intake-pocket-mid-3mm.step)<br>[H2C .3mf](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/download/2026-wrg-kcis-xg-public/h2c-intake-pocket-mid-3mm-black.3mf) · [P2S .3mf](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/download/2026-wrg-kcis-xg-public/p2s-intake-pocket-mid-3mm-black.3mf) | [STL](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/download/2026-wrg-kcis-xg-public/intake-pocket-bottom-5mm.stl) · [STEP](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/download/2026-wrg-kcis-xg-public/intake-pocket-bottom-5mm.step)<br>[H2C .3mf](https://github.com/Kowls0419/WRG-MASS-PRINTING/releases/download/2026-wrg-kcis-xg-public/h2c-intake-pocket-bottom-5mm-red.3mf) |

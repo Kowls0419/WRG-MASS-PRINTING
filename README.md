@@ -52,8 +52,8 @@ All three projects preserve the supplied settings and geometry byte for byte: 0.
 | Ball intake top / 吃求口（之後提供）—上片 | <img src="public-release/previews/funnel-top.png" alt="Ball intake top / 吃求口（之後提供）—上片" width="260"> |
 | Ball intake bottom / 吃求口（之後提供）—下片 | <img src="public-release/previews/funnel-bottom.png" alt="Ball intake bottom / 吃求口（之後提供）—下片" width="260"> |
 | Standard battery box / 電池匣 | <img src="public-release/previews/battery-box-standard.png" alt="Standard battery box / 電池匣" width="260"> |
-| Sumo / 相撲機器人零件 | <a href="H2C/FinalSumo.3mf"><img src="public-release/previews/sumo.png" alt="Sumo / 相撲機器人零件" width="260"></a><br>[H2C .3mf](H2C/FinalSumo.3mf) |
-| New bottom board / 新版底板 | <a href="H2C/new%20board.3mf"><img src="public-release/previews/new-bottom-board.png" alt="New bottom board / 新版底板" width="260"></a><br>[H2C .3mf](H2C/new%20board.3mf) |
+| Sumo / 相撲機器人零件 | <a href="public-release/stl/sumo.stl"><img src="public-release/previews/sumo.png" alt="Sumo / 相撲機器人零件" width="260"></a><br>[STL](public-release/stl/sumo.stl) · [STEP](public-release/step/sumo.step) · [H2C .3mf](H2C/FinalSumo.3mf) |
+| New bottom board / 新版底板 | <a href="public-release/stl/new-bottom-board.stl"><img src="public-release/previews/new-bottom-board.png" alt="New bottom board / 新版底板" width="260"></a><br>[STL](public-release/stl/new-bottom-board.stl) · [STEP](public-release/step/new-bottom-board.step) · [H2C .3mf](H2C/new%20board.3mf) |
 | 3 mm mid intake pocket / 3 mm 中層吃球口口袋 | <img src="public-release/previews/intake-pocket-mid-3mm.png" alt="3 mm mid intake pocket" width="260"><br>[STL](public-release/stl/intake-pocket-mid-3mm.stl) · [STEP](public-release/step/intake-pocket-mid-3mm.step) · [H2C .3mf](H2C/h2c-intake-pocket-mid-3mm-black.3mf) · [P2S .3mf](P2S/p2s-intake-pocket-mid-3mm-black.3mf) |
 | 5 mm bottom intake pocket / 5 mm 底層吃球口口袋 | <img src="public-release/previews/intake-pocket-bottom-5mm.png" alt="5 mm bottom intake pocket" width="260"><br>[STL](public-release/stl/intake-pocket-bottom-5mm.stl) · [STEP](public-release/step/intake-pocket-bottom-5mm.step) · [H2C .3mf](H2C/h2c-intake-pocket-bottom-5mm-red.3mf) |
 

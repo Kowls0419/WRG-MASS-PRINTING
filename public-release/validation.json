@@ -178,6 +178,76 @@
         "step/intake-pocket-bottom-5mm.step": "86b1319c3fdbe7cb2cf2c2683cc43acc5a44e43703dc7fed8823cc5d6118f199",
         "previews/intake-pocket-bottom-5mm.png": "6e614e14e80c60e09454051e38d5e77791c402e964ffc3332a967a20ece405d7"
       }
+    },
+    {
+      "part": "sumo",
+      "original_3mf": "H2C/FinalSumo.3mf",
+      "source_sha256": "80401c275d1ccdbc7d8badb257d932b87f7fb9a67f39d2b9372b33267d8d8747",
+      "source_mesh_path": "3D/Objects/object_4.model",
+      "source_mesh_object_id": "1",
+      "translation_mm": [
+        106.600006,
+        40.9237671,
+        38.5
+      ],
+      "stl_triangles": 3502,
+      "stl_dimensions_mm": [
+        213.200012,
+        81.8475342,
+        77.0
+      ],
+      "stl_volume_mm3": 116549.05447186291,
+      "mesh_connected_components": 1,
+      "step_validation": {
+        "valid": true,
+        "volume_mm3": 116549.05447184975,
+        "dimensions_mm": [
+          213.2000122000008,
+          81.84753440000019,
+          77.00000020000442
+        ],
+        "solids": 1
+      },
+      "files": {
+        "stl/sumo.stl": "a619e641c3c60fdc7fe4bdafc89ebe57eec372d9f2db9d6d5b8854a77396705d",
+        "step/sumo.step": "c539c9f236169d212580be5c5c700df5f71bd2ed13848e841a0059ddf873d9b3",
+        "previews/sumo.png": "23c5c0c0988d4c9a81f031a50108de7dbf11084218111295dc0b558cc1726033"
+      }
+    },
+    {
+      "part": "new-bottom-board",
+      "original_3mf": "H2C/new board.3mf",
+      "source_sha256": "a2e1bb1368d59c47315335f3f1eb1876c106d794a3fa5bc12f702f5247d70aa7",
+      "source_mesh_path": "3D/Objects/object_9.model",
+      "source_mesh_object_id": "5",
+      "translation_mm": [
+        75.0,
+        79.0,
+        2.0
+      ],
+      "stl_triangles": 7684,
+      "stl_dimensions_mm": [
+        150.0,
+        158.0,
+        4.0
+      ],
+      "stl_volume_mm3": 26693.71619525507,
+      "mesh_connected_components": 1,
+      "step_validation": {
+        "valid": true,
+        "volume_mm3": 26693.71619525476,
+        "dimensions_mm": [
+          150.0000002,
+          158.0000002000006,
+          4.000000200000001
+        ],
+        "solids": 1
+      },
+      "files": {
+        "stl/new-bottom-board.stl": "8e26d9658086839d6a53f3341e5b2eb918bb001e42009370a3ca15484a4674f9",
+        "step/new-bottom-board.step": "2598add6f8aab4c8a225966c60de68ad0fc410564b896ddf968415a938511a3d",
+        "previews/new-bottom-board.png": "de0807af96ad737b4a4344940431a889daa832a7cf6fdc592c3264d6555e6f59"
+      }
     }
   ]
 }

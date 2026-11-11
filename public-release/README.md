@@ -37,9 +37,9 @@ All three projects preserve the supplied settings and geometry byte for byte: 0.
 
 ## Part previews and downloads / 零件預覽與下載
 
-Each STL contains one part. Dimensions are in millimetres.
+Each STL contains one part. Sumo and the new bottom board were extracted individually from their H2C projects; only translation to the origin was applied. Dimensions are in millimetres.
 
-每個 STL 檔案包含一個零件，尺寸單位為毫米。
+每個 STL 檔案包含一個零件。Sumo 與新版底板各自由 H2C 專案取出單一零件，僅平移至原點，未改動幾何；尺寸單位為毫米。
 
 | Part / 零件 | Preview / 預覽 | Dimensions or plate count / 尺寸 (mm) 或每盤數量 | STL / Project 專案 | STEP |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ Each STL contains one part. Dimensions are in millimetres.
 | Previous 2 mm intake top / 舊版 2 mm 吃球口上片 | <img src="previews/funnel-top.png" alt="Previous 2 mm intake top / 舊版 2 mm 吃球口上片" width="260"> | 225 × 70 × 2 | [STL](stl/funnel-top.stl) | [STEP](step/funnel-top.step) |
 | Previous 2 mm intake bottom / 舊版 2 mm 吃球口下片 | <img src="previews/funnel-bottom.png" alt="Previous 2 mm intake bottom / 舊版 2 mm 吃球口下片" width="260"> | 225 × 85.7 × 2 | [STL](stl/funnel-bottom.stl) | [STEP](step/funnel-bottom.step) |
 | Standard battery box / 電池匣 | <img src="previews/battery-box-standard.png" alt="Standard battery box / 電池匣" width="260"> | 64 × 115 × 34 | [STL](stl/battery-box-standard.stl) | [STEP](step/battery-box-standard.step) |
-| Sumo / 相撲機器人零件 | <img src="previews/sumo.png" alt="Sumo / 相撲機器人零件" width="260"> | 3 per plate / 每盤 3 個 | [H2C .3mf](print-configs/H2C/FinalSumo.3mf) | — |
-| New bottom board / 新版底板 | <img src="previews/new-bottom-board.png" alt="New bottom board / 新版底板" width="260"> | 4 per plate / 每盤 4 片 | [H2C .3mf](print-configs/H2C/new%20board.3mf) | — |
+| Sumo / 相撲機器人零件 | <img src="previews/sumo.png" alt="Sumo / 相撲機器人零件" width="260"> | 213.2 × 81.85 × 77 | [STL](stl/sumo.stl) · [H2C .3mf](print-configs/H2C/FinalSumo.3mf) | [STEP](step/sumo.step) |
+| New bottom board / 新版底板 | <img src="previews/new-bottom-board.png" alt="New bottom board / 新版底板" width="260"> | 150 × 158 × 4 | [STL](stl/new-bottom-board.stl) · [H2C .3mf](print-configs/H2C/new%20board.3mf) | [STEP](step/new-bottom-board.step) |
 | 3 mm mid intake pocket / 3 mm 中層吃球口口袋 | <img src="previews/intake-pocket-mid-3mm.png" alt="3 mm mid intake pocket" width="260"> | 225 × 85.7 × 3 | [STL](stl/intake-pocket-mid-3mm.stl) | [STEP](step/intake-pocket-mid-3mm.step) |
 | 5 mm bottom intake pocket / 5 mm 底層吃球口口袋 | <img src="previews/intake-pocket-bottom-5mm.png" alt="5 mm bottom intake pocket" width="260"> | 225 × 87.2 × 5 | [STL](stl/intake-pocket-bottom-5mm.stl) | [STEP](step/intake-pocket-bottom-5mm.step) |
 

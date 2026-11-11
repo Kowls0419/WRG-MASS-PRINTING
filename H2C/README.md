@@ -27,3 +27,14 @@ Supplied projects preserved unchanged. / 完整保留提供的原始專案。
 | 3 mm mid / 3 mm 中層 | <img src="previews/h2c-intake-pocket-mid-3mm-black.png" alt="3 mm mid / 3 mm 中層" width="280"> | [h2c-intake-pocket-mid-3mm-black.3mf](h2c-intake-pocket-mid-3mm-black.3mf) | 0.4 SF | Black Bambu PETG Basic / 黑色 Bambu PETG Basic | 1 |
 
 0.2 mm layers, 4 walls, 5/3 shells, 15% infill. / 0.2 mm 層高、四道牆、上／下殼層 5／3 層、15% 填充。
+
+## Individual models / 單一零件模型
+
+| Part / 零件 | Dimensions / 尺寸 (mm) | STL | STEP |
+|---|---|---|---|
+| Sumo / 相撲機器人零件 | 213.2 × 81.85 × 77 | [STL](../public-release/stl/sumo.stl) | [STEP](../public-release/step/sumo.step) |
+| New bottom board / 新版底板 | 150 × 158 × 4 | [STL](../public-release/stl/new-bottom-board.stl) | [STEP](../public-release/step/new-bottom-board.step) |
+
+Each model contains one part extracted from the original project. STEP files are faceted conversions of these meshes; coplanar faces are merged.
+
+各模型均為原專案中的單一零件。STEP 由網格轉為面片實體，並合併共平面面片。
